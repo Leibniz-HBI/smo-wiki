@@ -1,11 +1,11 @@
 WIKI_DIR=Social-Media-Observatory.wiki
 git submodule update --init --remote
 cp docs/_config.yml ./
-cp -r docs/layouts ./
+cp -r docs/_layouts ./
 rm -rf docs
 cp -r "$WIKI_DIR" ./docs
 mv _config.yml docs/
-mv layouts docs/
+mv _layouts docs/
 rm docs/.git
 mv docs/Home.md docs/index.md
 git add -A

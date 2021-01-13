@@ -1,5 +1,5 @@
 # [[Data Collection Tools]]
-- [[Instagram-Tools]]
+- [Instagram-Tools](Instagram-Tools)
 - [[Twitter-Tools]]
 - [[Wikipedia-Tools]]
 - [[Facebook-Tools]]

@@ -18,7 +18,7 @@ Any questions? Raise an [Issue](https://github.com/Leibniz-HBI/Social-Media-Obse
 
 ## Code of Conduct
 
-By contributing to this wiki you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this wiki you agree to follow our [Code of Conduct](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/CODE_OF_CONDUCT.md).
 
 ## Blank Spots in the Wiki
 

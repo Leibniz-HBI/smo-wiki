@@ -8,6 +8,7 @@ mv _config.yml docs/
 mv _layouts docs/
 rm docs/.git
 mv docs/Home.md docs/index.md
+mv _Sidebar.md Sidebar.md
 git add -A
 git commit -a -m "updating markdowns"
 git push

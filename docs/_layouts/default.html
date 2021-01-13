@@ -40,7 +40,9 @@
         </ul>
         {% endif %}
 
-        {% include_relative _Sidebar.md %}
+        {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+
       </header>
       <section>
 

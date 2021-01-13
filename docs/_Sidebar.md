@@ -1,5 +1,3 @@
-# [Home](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki)
-
 # [[Data Collection Tools]]
 - [[Instagram-Tools]]
 - [[Twitter-Tools]]

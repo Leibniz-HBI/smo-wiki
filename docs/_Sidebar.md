@@ -1,4 +1,5 @@
 # [Data Collection Tools](Data Collection Tools)
+
 - [Instagram-Tools](Instagram-Tools)
 - [Twitter-Tools](Twitter-Tools)
 - [Wikipedia-Tools](Wikipedia-Tools)
@@ -8,6 +9,7 @@
 - [Miscellaneous Tools](Miscellaneous Tools)
 
 # Analysis Tools and Tutorials
+
 - [Network Analysis](Network Analysis)
 - [Content Analysis](Content Analysis)
 - [Statistics](Statistics)
@@ -16,11 +18,13 @@
 # [Ethics / Legal](Ethics / Legal)
 
 # Knowledge Base
+
 - [Case Studies](Case Studies)
 - [Datasets](Datasets)
 - [Projects](Projects)
 
 # Technical Tutorials
+
 - [Development setup for Python with the Windows Linux Subsystem (WSL)](Development setup for Python with the Windows Linux Subsystem (WSL))
 - [Development setup for Python in macOS](Development setup for Python in macOS)
 - [Shiny tutorial](https://github.com/Leibniz-HBI/SMO-TMAS/wiki)

@@ -3,6 +3,7 @@ WIKI_DIR=Social-Media-Observatory.wiki
 git submodule update --init --remote
 rm -rf wiki
 cp -r "$WIKI_DIR" ./wiki
+rm wiki/.git
 git add -A
 git commit -a -m "updating markdowns"
 git push

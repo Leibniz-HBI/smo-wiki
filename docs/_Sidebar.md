@@ -15,7 +15,7 @@
 - [Statistics](Statistics)
 - [Visualisation & Charts](Visualisation & Charts)
 
-# [Ethics / Legal](Ethics / Legal)
+# [Ethics Legal](Ethics Legal)
 
 # Knowledge Base
 

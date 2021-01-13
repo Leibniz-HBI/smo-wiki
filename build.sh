@@ -6,6 +6,7 @@ rm -rf docs
 cp -r "$WIKI_DIR" ./docs
 mv _config.yml docs
 rm docs/.git
+mv Home.md index.md
 git add -A
 git commit -a -m "updating markdowns"
 git push

@@ -1,5 +1,4 @@
 WIKI_DIR=Social-Media-Observatory.wiki
-git pull
 git submodule update --init --remote
 cp docs/_config.yml ./
 cp -r docs/layouts ./

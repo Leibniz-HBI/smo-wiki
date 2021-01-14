@@ -1,6 +1,9 @@
 from glob import glob
 import re
 
+def swap_space_for_dash(matched_object):
+    return matched_object[0]
+
 for file in glob('docs/*.md'):
     print('converting', file)
 
@@ -8,6 +11,7 @@ for file in glob('docs/*.md'):
         text = f.read()
     
     replaced = re.sub(r'\[\[(.+)\]\]', r'[\1](\1)', text)
+    replaced = re.sub(r'(?<=\]\().*(?=\))', swap_space_for_dash, replaced)
     
     with open(file, 'w') as f:
         f.write(replaced)

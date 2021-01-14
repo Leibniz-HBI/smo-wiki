@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+h1.navigation {
+  font-size:14px;
+}

@@ -5,7 +5,7 @@
 3. run `bash build.sh` This:
     1. pulls the latest markdowns from the Wiki
     2. copies/replaces them into/in the `docs/` directory
-    3. processes the markdown so that it becomes digestible by jekyll
+    3. processes the markdown (with Python scripts) so that it becomes digestible by Jekyll (especially Wiki link formatting)
     4. pushes the changes back to the repository
 
 

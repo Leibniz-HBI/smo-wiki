@@ -13,4 +13,7 @@
 
 To change the website layout follow instructions by Theme creators (Github supported Minimal theme): https://github.com/pages-themes/minimal
 
-The only changes made so far are in `docs/_layouts/default.html`
+The changes made to the theme so far are in:
+
+ -  `docs/_layouts/default.html`
+ -  `docs/assets/css/style.scss`

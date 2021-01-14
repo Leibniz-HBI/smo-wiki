@@ -1,3 +1,5 @@
+# How to use and maintain the wiki
+
 ## How to search this Wiki
 
 The search function is a bit hidden.

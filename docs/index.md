@@ -1,3 +1,5 @@
+# index
+
 # Welcome to the Social-Media-Observatory wiki!
 
 This wiki is the central knowledge and documentation base of the SMO. 

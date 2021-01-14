@@ -11,6 +11,7 @@ mv assets docs/
 rm docs/.git
 mv docs/Home.md docs/index.md
 python convert_links.py
+python generate_titles_from_filename.py
 git add -A
 git commit -a -m "updating markdowns"
 git push

@@ -1,3 +1,5 @@
+# Network Analysis
+
 So you want to do network analysis? Great! Fortunately, there are already a lot of great resources to learn about it out there. Our favourite ones are listed here. Let us know if we should add more.
 
 # For beginners

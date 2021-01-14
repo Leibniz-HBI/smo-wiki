@@ -1,5 +1,7 @@
 # General News Scrapers
 
+# General News Scrapers
+
 
 Welcome to the General News Scrapers page.  
 This site aims to provide a overview of all useful Tools that can be used to research on different Newssites f.e. NYT, SPON, Guardian and other. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 

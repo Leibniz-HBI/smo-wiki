@@ -39,9 +39,11 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-
-        {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
-        {{ sidebar | markdownify }}
+        
+        <div class="navigation">
+          {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
+          {{ sidebar | markdownify }}
+        </div>
 
       </header>
       <section>

@@ -1,12 +1,12 @@
 # [Data Collection Tools](Data-Collection-Tools)
 
-## [Instagram-Tools](Instagram-Tools)
-## [Twitter-Tools](Twitter-Tools)
-## [Wikipedia-Tools](Wikipedia-Tools)
-## [Facebook-Tools](Facebook-Tools)
-## [YouTube Tools](YouTube-Tools)
-## [General News Scrapers](General-News-Scrapers)
-## [Miscellaneous Tools](Miscellaneous-Tools)
+- [Instagram-Tools](Instagram-Tools)
+- [Twitter-Tools](Twitter-Tools)
+- [Wikipedia-Tools](Wikipedia-Tools)
+- [Facebook-Tools](Facebook-Tools)
+- [YouTube Tools](YouTube-Tools)
+- [General News Scrapers](General-News-Scrapers)
+- [Miscellaneous Tools](Miscellaneous-Tools)
 
 
 # Analysis Tools and Tutorials

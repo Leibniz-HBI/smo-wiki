@@ -12,7 +12,7 @@ for file in glob('docs/*.md'):
         text = f.read()
     
     replaced = re.sub(r'\[\[(.+)\]\]', r'[\1](\1)', text)
-    replaced = re.sub(r'(?<=\]\().*(?=\))', swap_space_for_dash, replaced)
+    replaced = re.sub(r'(?<=\]\()[^)]*(?=\))', swap_space_for_dash, replaced)
     
     with open(file, 'w') as f:
         f.write(replaced)

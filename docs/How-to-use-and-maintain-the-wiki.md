@@ -17,7 +17,7 @@ The search function is a bit hidden.
 
 1. Navigate to the page
 2. Click edit
-3. The recommended and easiest way to edit this wiki is "Markdown" (in a dropdown above the editor). Tutorials for this can be found [here](https://help.github.com/en/articles/about-writing-and-formatting-on-github)-and-[here](https://guides.github.com/features/mastering-markdown/).
+3. The recommended and easiest way to edit this wiki is "Markdown" (in a dropdown above the editor). Tutorials for this can be found [here](https://help.github.com/en/articles/about-writing-and-formatting-on-github) and [here](https://guides.github.com/features/mastering-markdown/).
 
 ## Create and Link to a new page
 

@@ -6,7 +6,7 @@ Please find the navigation menu on the right or below (depending on your window 
 
 ## Landing Page
 
-If you want to share this project with others, we have a [landing page](https://leibniz-hbi.github.io/SMO/about).-We-are-thinking-about-presenting-iterative-versions-of-this-wiki-in-a-more-refined-layout-there,-but-to-benefit-from-or-contribute-to-the-latest-bleeding-edge-version-of-everything,-[stay-awhile-and-listen](https://www.youtube.com/watch?v=tAVVy_x3Erg).
+If you want to share this project with others, we have a [landing page](https://leibniz-hbi.github.io/SMO/about). We are thinking about presenting iterative versions of this wiki in a more refined layout there, but to benefit from or contribute to the latest bleeding edge version of everything, [stay awhile and listen](https://www.youtube.com/watch?v=tAVVy_x3Erg).
 
 ## I want to contribute!
 
@@ -14,7 +14,7 @@ Yay! Here you will find instructions how to add or edit pages:
 
 [How to use and maintain the wiki](How-to-use-and-maintain-the-wiki)
 
-Any questions? Raise an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues)!-:)
+Any questions? Raise an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues)! :)
 
 ## Code of Conduct
 
@@ -26,7 +26,7 @@ Because we're just starting out, some sections are not much more than a heading.
 
 ### [Ethics / Legal](Ethics-/-Legal)
 
-We are working on and invite contributions to the [Ethics / Legal](Ethics-/-Legal)-section,-where-we-plan-to-collect-advice-on-common-issues-when-working-with-(social) media data.
+We are working on and invite contributions to the [Ethics / Legal](Ethics-/-Legal) section, where we plan to collect advice on common issues when working with (social) media data.
 
 ### [Knowledge Base](Knowledge-Base)
 

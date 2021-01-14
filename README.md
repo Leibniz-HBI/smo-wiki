@@ -9,7 +9,7 @@
     4. pushes the changes back to the repository
 
 
-# How to change website design and Layout
+# How to change website design and layout
 
 To change the website layout follow instructions by Theme creators (Github supported Minimal theme): https://github.com/pages-themes/minimal
 

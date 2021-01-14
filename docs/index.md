@@ -24,7 +24,7 @@ By contributing to this wiki you agree to follow our [Code of Conduct](https://g
 
 Because we're just starting out, some sections are not much more than a heading. So here are some explanations what to expect there.
 
-### [Ethics / Legal](Ethics-/-Legal)
+### [Research Ethics and Law](Research-Ethics-and-Law)
 
 We are working on and invite contributions to the [Ethics / Legal](Ethics-/-Legal) section, where we plan to collect advice on common issues when working with (social) media data.
 

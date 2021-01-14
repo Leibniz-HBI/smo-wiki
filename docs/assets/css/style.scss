@@ -16,6 +16,10 @@
 	height: 25px;
 }
 
+.navigation li :last-child {
+	margin-bottom: 12px;
+}
+
 .navigation a {
 	text-align: left;
 }
@@ -23,5 +27,4 @@
 .navigation ul {
 	border: none;
 	background: none;
-	margin-bottom: 20px;
 }

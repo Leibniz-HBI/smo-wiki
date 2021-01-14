@@ -8,6 +8,9 @@
     3. processes the markdown so that it becomes digestible by jekyll
     4. pushes the changes back to the repository
 
-To change the website layout follow instructions by Theme creators (Github supported Minimal theme).
+
+# How to change website design and Layout
+
+To change the website layout follow instructions by Theme creators (Github supported Minimal theme): https://github.com/pages-themes/minimal
 
 The only changes made so far are in `docs/_layouts/default.html`

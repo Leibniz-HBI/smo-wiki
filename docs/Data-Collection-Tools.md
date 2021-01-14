@@ -6,5 +6,5 @@ In this section we provide you with a list of useful tools to collect data from 
 * [Wikipedia-Tools](Wikipedia-Tools)
 * [Facebook-Tools](Facebook-Tools)
 * [Twitter-Tools](Twitter-Tools)
-* [General News Scrapers](General News Scrapers)
-* [YouTube Tools](YouTube Tools)
+* [General News Scrapers](General-News-Scrapers)
+* [YouTube Tools](YouTube-Tools)

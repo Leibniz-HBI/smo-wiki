@@ -6,7 +6,7 @@ This list provides an overview of useful data collection tools that can be used 
 
 All of the following tools have the ability to search for a specific username, hashtag, location or tweet and collect the associated data from Twitter. All tools download the associated media (i.e. pictures and videos) and related hashtags. The list below is sorted in an opinionated way, roughly in the order of what we think might help the most people. But all tools might be ideal for your specific use case, so have a look at the whole list. 
 
-Most of these Twitter tools connect to official Twitter APIs and therefore need an API Key from Twitter. You can retrieve an API key from Twitter easily, just follow the [documentation](https://developer.twitter.com/en/docs). You are bound to the restrictions given by Twitter. You can read about the rate limits [here](https://developer.twitter.com/en/docs/basics/rate-limits). 
+Most of these Twitter tools connect to official Twitter APIs and therefore need an API Key from Twitter. You can retrieve an API key from Twitter easily, just follow the [documentation](https://developer.twitter.com/en/docs).-You-are-bound-to-the-restrictions-given-by-Twitter.-You-can-read-about-the-rate-limits-[here](https://developer.twitter.com/en/docs/basics/rate-limits). 
 
 Some of the tools are scrapers, which do not use the official APIs. Please be aware that the use of these tools might violate Twitter's [Terms of Service](https://twitter.com/de/tos). Despite being public, Twitter data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and ethical guidelines that apply to your research **before** starting your data collection. 
 
@@ -42,7 +42,7 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 **Installation via:** An installation package is available for Windows, Linux and MacOS
 
 [Documentation and Usage](https://github.com/strohne/Facepager/wiki)<br>
-[Instructions](https://github.com/strohne/Facepager/blob/master/README.md) and [Download](https://github.com/strohne/Facepager/releases)
+[Instructions](https://github.com/strohne/Facepager/blob/master/README.md)-and-[Download](https://github.com/strohne/Facepager/releases)
 
 ### [TwitterScraper](https://github.com/taspinar/twitterscraper)
 

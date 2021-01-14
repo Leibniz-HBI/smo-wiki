@@ -40,10 +40,10 @@
         </ul>
         {% endif %}
         
-        <p class="navigation">
+        <div class="navigation">
           {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
           {{ sidebar | markdownify }}
-        </p>
+        </div>
 
       </header>
       <section>

@@ -4,7 +4,7 @@ files = glob('docs/*.md')
 
 for file in files:
 
-    if not file.startswith('docs/_'):
+    if not file.startswith('docs/_') and file != 'docs/index.md':
 
         with open(file, 'r') as f:
             text = f.read()

@@ -1,5 +1,6 @@
-from glob import glob
 import re
+from glob import glob
+
 
 def swap_space_for_dash(matched_object):
     return matched_object[0].replace(' ', '-')

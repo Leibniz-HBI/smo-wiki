@@ -17,7 +17,7 @@
 - [Visualisation](Visualisation)
 
 
-# [Ethics Legal](Ethics-Legal)
+# [Research Ethics and Law](Research-Ethics-and-Law)
 
 
 # Knowledge Base

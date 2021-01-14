@@ -69,3 +69,19 @@ For the complete documentation of Scrapy's features, please visit the [Offical S
 
 > ScrapeBot is a tool for so-called "agent-based testing" to automatically visit, modify, and scrape a defined set of webpages regularly. It was built to automate various web-based tasks and keep track of them in a controllable way for academic research, primarily in the realm of computational social science.
 
+<br>
+<br>
+
+[**5. Media Cloud**](https://mediacloud.org/)
+
+> Media Cloud is an open source content analysis tools that aims to map news media coverage of current events. The media cloud platform offers three tools explorer , topic mapper and source manager.
+
+**Features:**
+
+* Map geographic coverage
+* Track attention over time
+* Slice and dice the subtopics
+* Imports stories from many resources daily 
+
+<br>
+<br>

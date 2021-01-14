@@ -14,7 +14,7 @@
 - [Network Analysis](Network-Analysis)
 - [Content Analysis](Content-Analysis)
 - [Statistics](Statistics)
-- [Visualisation & Charts](Visualisation-&-Charts)
+- [Visualisation](Visualisation)
 
 
 # [Ethics Legal](Ethics-Legal)

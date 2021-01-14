@@ -1,3 +1,0 @@
-# Visualisation &amp; Charts
-
-whatever

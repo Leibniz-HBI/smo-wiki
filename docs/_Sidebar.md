@@ -8,6 +8,7 @@
 - [General News Scrapers](General-News-Scrapers)
 - [Miscellaneous Tools](Miscellaneous-Tools)
 
+
 # Analysis Tools and Tutorials
 
 - [Network Analysis](Network-Analysis)
@@ -15,13 +16,16 @@
 - [Statistics](Statistics)
 - [Visualisation & Charts](Visualisation-&-Charts)
 
+
 # [Ethics Legal](Ethics-Legal)
+
 
 # Knowledge Base
 
 - [Case Studies](Case-Studies)
 - [Datasets](Datasets)
 - [Projects](Projects)
+
 
 # Technical Tutorials
 

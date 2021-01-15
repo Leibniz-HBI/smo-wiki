@@ -11,7 +11,9 @@ for file in glob('docs/*.md'):
     with open(file, 'r') as f:
         text = f.read()
     
-    replaced = re.sub(r'\[\[(.+)\]\]', r'[\1](\1)', text)
+    # replace [[something something]] with [something something](something something)
+    replaced = re.sub(r'\[\[(.+)\]\]', r'[\1](\1)', text)  
+    # replace [something something](something something) with [something something](something-something)
     replaced = re.sub(r'(?<=\]\()[^)]*(?=\))', swap_space_for_dash, replaced)
     
     with open(file, 'w') as f:

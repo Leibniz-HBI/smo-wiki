@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Twitter’s API setup | Your awesome title</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Twitter’s API setup" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<link rel="canonical" href="http://localhost:4000/docs/Twitter's-API-setup.html" />
+<meta property="og:url" content="http://localhost:4000/docs/Twitter's-API-setup.html" />
+<meta property="og:site_name" content="Your awesome title" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Twitter’s API setup" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/docs/Twitter's-API-setup.html","headline":"Twitter’s API setup","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Your awesome title" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Your awesome title</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/Social-Media-Observatory.wiki/Content-Analysis.html">Text Mining and Content Analysis with R</a><a class="page-link" href="/Social-Media-Observatory.wiki/Data-Collection-Tools.html">The tool list</a><a class="page-link" href="/Social-Media-Observatory.wiki/Facebook-Tools.html">Facebook Tool List</a><a class="page-link" href="/Social-Media-Observatory.wiki/Home.html">Welcome to the Social-Media-Observatory wiki!</a><a class="page-link" href="/Social-Media-Observatory.wiki/How-to-use-and-maintain-the-wiki.html">How to search this Wiki</a><a class="page-link" href="/Social-Media-Observatory.wiki/Instagram-Tools.html">Instagram Tool List</a><a class="page-link" href="/Social-Media-Observatory.wiki/Twitter's-API-setup.html">What is an API</a><a class="page-link" href="/Social-Media-Observatory.wiki/Twitter-Tools.html">Twitter Tool List</a><a class="page-link" href="/Social-Media-Observatory.wiki/Wikipedia-Tools.html">Wikipedia Tools</a><a class="page-link" href="/Social-Media-Observatory.wiki/YouTube-Tools.html">YouTube Tool List</a><a class="page-link" href="/docs/Access-on-Request.html">Access on Request</a><a class="page-link" href="/docs/Content-Analysis.html">Content Analysis</a><a class="page-link" href="/docs/Data-Collection-Tools.html">Data Collection Tools</a><a class="page-link" href="/docs/Datasets.html">Datasets</a><a class="page-link" href="/docs/Development-setup-for-Python-with-the-Windows-Linux-Subsystem-(WSL).html">Development setup for Python with the Windows Linux Subsystem (WSL)</a><a class="page-link" href="/docs/Facebook-Tools.html">Facebook Tools</a><a class="page-link" href="/docs/General-News-Scrapers.html">General News Scrapers</a><a class="page-link" href="/docs/How-to-use-and-maintain-the-wiki.html">How to use and maintain the wiki</a><a class="page-link" href="/docs/Instagram-Tools.html">Instagram Tools</a><a class="page-link" href="/docs/Miscellaneous-Tools.html">Miscellaneous Tools</a><a class="page-link" href="/docs/Network-Analysis.html">Network Analysis</a><a class="page-link" href="/docs/Twitter's-API-setup.html">Twitter’s API setup</a><a class="page-link" href="/docs/Twitter-Tools.html">Twitter Tools</a><a class="page-link" href="/docs/Wikipedia-Tools.html">Wikipedia Tools</a><a class="page-link" href="/docs/YouTube-Tools.html">YouTube Tools</a><a class="page-link" href="/docs/">Welcome to the Social-Media-Observatory wiki!</a><a class="page-link" href="/docs/test.html">test</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Twitter’s API setup</h1>
+  </header>
+
+  <div class="post-content">
+    <h1 id="twitters-api-setup">Twitter’s API setup</h1>
+
+<h2 id="what-is-an-api">What is an API</h2>
+<p>An API (<a href="https://simple.wikipedia.org/wiki/Application_programming_interface">Application Programming Interface</a>) is a set of [routines], protocols, and tools for developing applications for a particular system. It may be a web based system, operating system, or database system. The API provides facilities to develop applications for that system using a programming language. Currently, most social media platforms require an authenticated app to collect data.</p>
+
+<p>In a nutshell: Many social media platforms provide an API that enables authenticated users to get data for free.</p>
+
+<h2 id="twitters-api-setup-1">Twitter’s API setup</h2>
+<p>Twitter provides users’ data through two APIs, the streaming API and the REST API. The REST API provides access to past tweets, user metadata and account relationships. The streaming API provides access to data in real time and as far back as a week. Refer to <a href="https://developer.twitter.com/en/docs/basics/getting-started"><em>Twitter’s developer platform</em></a> for more information.</p>
+
+<h2 id="api-access">API access</h2>
+<p>As of March 2018 a Twitter developer account is needed to access the Twitter API. This access can be requested at Twitter.com. Once the developer account is approved by Twitter, a new application has to be registered. An application is needed for Twitter to grant access to the data with a token based authentication method called Open Authentication. The following access tokens have to be obtained once the application is registered and approved</p>
+<ul>
+  <li>Consumer key: This key identifies the client to the application.</li>
+  <li>Consumer Secret: This is the clients password that is used with server authentication.</li>
+  <li>Access Token: This is the consumer identification that is used to define privileges.</li>
+  <li>Access Secret: This is sent with the access token as a password.</li>
+</ul>
+
+<p>Instructions on how to create a Twitter app are available at: https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/</p>
+
+<h2 id="api-restrictions">API Restrictions</h2>
+<p>Twitter imposes limits on how quickly or how many data can be retrieved from the API. For the REST API limits on the download speed are imposed. Details on rate limits for specific endpoints are available at <a href="https://developer.twitter.com/en/docs/basics/rate-limits"><em>Twitter’s developer platform</em></a> for more information. The endpoints have to be queried multiple times if more data than the rate limit allows is needed. Otherwise Twitter will sever the connection and reserves the right to ban the account from querying the APIs again. For the streaming API the only restriction is that not every tweet is returned if the number of matching tweets exceeds 1% of the total volume of tweets.</p>
+
+<p>The second API restriction is that Twitter only allows one connection per IP address to any part of its API. For example, downloading the 1% stream while scraping a user’s followers would require two separate IP addresses. Without this restriction, the rate limits would be meaningless.</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Your awesome title</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Your awesome title</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

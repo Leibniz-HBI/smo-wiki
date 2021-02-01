@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-.navigation h1 {
-  font-size:14px;
+.navigation h2 {
+  font-size:10px;
   float:none;
 	margin-bottom: 6px;
 }
@@ -34,6 +34,5 @@ footer a:hover {
 font-weight: normal;
  position: relative;
     bottom: auto;
-
     height: auto;
 }

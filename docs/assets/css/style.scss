@@ -4,16 +4,16 @@
 @import "{{ site.theme }}";
 
 .navigation h1 {
-  font-size:12px;
+  font-size:14px;
   float:none;
-	margin-bottom: 8px;
+	margin-bottom: 12px;
 }
 
 .navigation li {
- width:auto;
- text-align: left;
+  width:100%;
+  text-align: left;
   border: none;
-  height: 45px;
+	height: 25px;
 }
 
 .navigation ul li:last-child {
@@ -27,11 +27,9 @@
 .navigation ul {
 	border: none;
 	background: none;
-
 }
 
 footer a:hover {
-font-weight: normal;
- position: relative;
-
+	font-weight: normal;
 }
+

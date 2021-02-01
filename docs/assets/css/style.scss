@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .navigation h2 {
-  font-size:10px;
+  font-size:6px;
   float:none;
 	margin-bottom: 6px;
 }
@@ -18,7 +18,7 @@
 }
 
 .navigation ul li:last-child {
-	margin-bottom: 20%;
+	margin-bottom: 10%;
 }
 
 .navigation a {
@@ -28,6 +28,7 @@
 .navigation ul {
 	border: none;
 	background: none;
+	 width: 100%;
 }
 
 footer a:hover {

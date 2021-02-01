@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.navigation h2 {
+.navigation h1 {
   font-size:6px;
   float:none;
 	margin-bottom: 6px;
@@ -11,10 +11,9 @@
 
 .navigation li {
  width:100%;
-//   width: auto;
  text-align: left;
   border: none;
-  height: 35px;
+  height: 15px;
 }
 
 .navigation ul li:last-child {

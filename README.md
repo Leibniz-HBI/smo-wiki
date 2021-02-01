@@ -17,3 +17,7 @@ The changes made to the theme so far are in:
 
  -  `docs/_layouts/default.html`
  -  `docs/assets/css/style.scss`
+ 
+ 
+ 
+ 

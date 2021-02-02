@@ -19,5 +19,22 @@ The changes made to the theme so far are in:
  -  `docs/assets/css/style.scss`
  
  
+ # Rendering locally 
+ 1. clone the repo
+ 2. Inside doc folder insall required gem and jekyll library 
  
+ ```
+ gem install bundle jekyll
+ 
+ 
+ cd \your path \ docs
+ 
+ jekyll new . --force
+ #edit the gem file comment out line 10 and comment in line 15 to add gh pages
+ 
+ bundle update 
+ 
+ # build the site locally 
+ bundle exec jekyll serve
+ ```
  

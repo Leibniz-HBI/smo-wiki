@@ -10,8 +10,8 @@
 }
 
 .navigation li {
-  max-height: calc(100vh - 9rem);
-  overflow-y: auto;
+  position: relative;
+  overflow-y: scroll;
   width: 100%;
   text-align: left;
   border: none;

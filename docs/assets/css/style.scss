@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+@media screen and (max-width: 40.5em) {
 .navigation h1 {
   font-size:14px;
   float:none;
@@ -32,28 +32,5 @@
 footer a:hover {
 	font-weight: normal;
 }
-
-// ==================================
-@media screen and (max-width: 54.375em) and (min-height: 32.5em) {
-
-    /* keep the repo list containers the same height, but account for the need for more height */
-
-    .repo-list li {
-        height: 6em;
-        max-height: 6em;
-    }
-
-    .repo-list a:link,
-    .repo-list a:visited {
-        max-height: 6em;
-    }
-}
-
-
-@media screen and (max-width: 40.5em) {
-
-    .main-content {
-        margin-top: 1.5em;
-    }
 
 }

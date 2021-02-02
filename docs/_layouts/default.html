@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif] -->
+    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -42,19 +41,6 @@
         {% endif %}
         
         <div class="navigation">
-          
-                </div>
-                  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
-
-                  <script>
-                  function openNav() {
-                    document.getElementById("mySidenav").style.width = "250px";
-                  }
-
-                  function closeNav() {
-                    document.getElementById("mySidenav").style.width = "0";
-                  }
-                  </script>
           {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
           {{ sidebar | markdownify }}
         </div>
@@ -71,7 +57,7 @@
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer> -->
-<!--     </div>
+    </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
@@ -81,9 +67,7 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
-    </script> -->
-<!--     {% endif %} -->
-  
-
-      </body>
+    </script>
+    {% endif %}
+  </body>
 </html>

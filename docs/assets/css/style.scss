@@ -11,11 +11,11 @@
 
 .navigation li {
   position: relative;
-  overflow-y: scroll;
-  width: 100%;
+  overflow: scroll;
+  width: 60%;
   text-align: left;
   border: none;
-  height: 25px;
+  height: 1000px;
 }
 
 .navigation ul li:last-child {

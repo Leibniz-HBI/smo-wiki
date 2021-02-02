@@ -2,9 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@media only screen and (max-width: 600px) {
-  body {
-   
+
 
 #mySearch {
   width: 100%;
@@ -47,5 +45,3 @@ footer a:hover {
 	font-weight: normal;
 }
 
-  }
-}

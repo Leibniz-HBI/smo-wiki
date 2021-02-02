@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@media screen and (max-width: 40.5em) {
+
 .navigation h1 {
   font-size:14px;
   float:none;
@@ -19,7 +19,7 @@
 .navigation ul li:last-child {
 	margin-bottom: 12px;
 }
-}
+
 .navigation a {
 	text-align: left;
 }

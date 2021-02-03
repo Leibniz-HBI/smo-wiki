@@ -16,14 +16,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <style>
       body {
-        background-color: none;
-      }
-
-      @media only screen and (max-width: 600px) {
-        body {
-          background-color: none;
-        }
-      }
+       
+   
       </style>
       </head>
       <body>
@@ -70,6 +64,13 @@
       {{ content }}
 
       </section>
+          }
+
+        @media only screen and (max-width: 600px) {
+          body {
+            background-color: none;
+          }
+        }
 <!--       <footer>
         {% if site.github.is_project_page %}
         <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>

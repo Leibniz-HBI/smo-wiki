@@ -64,6 +64,13 @@
       {{ content }}
 
       </section>
+          
+<!--       <footer>
+        {% if site.github.is_project_page %}
+        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer> -->
           }
 
         @media only screen and (max-width: 600px) {
@@ -71,12 +78,6 @@
             background-color: none;
           }
         }
-<!--       <footer>
-        {% if site.github.is_project_page %}
-        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

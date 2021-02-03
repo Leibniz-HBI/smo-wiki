@@ -1,1 +1,0 @@
-This Wiki is curated by the [Social Media Observatory](https://leibniz-hbi.github.io/SMO), which is hosted by the [Leibniz Institute for Media Research | Hans-Bredow-Institut](https://leibniz-hbi.de/en)

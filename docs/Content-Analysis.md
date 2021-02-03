@@ -1,5 +1,3 @@
-# Content Analysis
-
 # Text Mining and Content Analysis with R
 
 This list contains links to third party tutorial collections:

@@ -1,5 +1,3 @@
-# Twitter's API setup
-
 ## What is an API
 An API ([Application Programming Interface](https://simple.wikipedia.org/wiki/Application_programming_interface)) is a set of [routines], protocols, and tools for developing applications for a particular system. It may be a web based system, operating system, or database system. The API provides facilities to develop applications for that system using a programming language. Currently, most social media platforms require an authenticated app to collect data.
 

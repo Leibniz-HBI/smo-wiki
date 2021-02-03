@@ -16,4 +16,4 @@ python convert_links.py # convert [[wiki links]] to [wiki links](wiki-links)
 python generate_titles_from_filename.py # use the file-name to add # file name as title to md files
 git add -A # add updates
 git commit -a -m "updating markdowns" # commit updates
-git push # push updates
+# git push # push updates

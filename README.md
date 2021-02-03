@@ -2,7 +2,7 @@
 
 1. clone repository
 2. cd into project directory
-3. run `bash build.sh`. On Windows you might have to use WSL, Cygwin (with Python3), or similar. This:
+3. run `bash build.sh`. On Windows you might have to use WLS, Cygwin (with Python3), or similar. This:
     1. pulls the latest markdowns from the Wiki
     2. copies/replaces them into/in the `docs/` directory
     3. processes the markdown (with Python scripts) so that it becomes digestible by Jekyll (especially Wiki link formatting)

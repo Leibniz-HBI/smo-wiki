@@ -2,7 +2,7 @@
 
 1. clone repository
 2. cd into project directory
-3. run `bash build.sh` This:
+3. run `bash build.sh`. On Windows you might have to use WSL, Cygwin (with Python3), or similar. This:
     1. pulls the latest markdowns from the Wiki
     2. copies/replaces them into/in the `docs/` directory
     3. processes the markdown (with Python scripts) so that it becomes digestible by Jekyll (especially Wiki link formatting)
@@ -19,22 +19,8 @@ The changes made to the theme so far are in:
  -  `docs/assets/css/style.scss`
  
  
- # Rendering locally 
- 1. clone the repo
- 2. Inside doc folder insall required gem and jekyll library 
+# Rendering locally
  
- ```
- gem install bundle jekyll
- 
- 
- cd \your path \ docs
- 
- jekyll new . --force
- #edit the gem file comment out line 10 and comment in line 15 to add gh pages
- 
- bundle update 
- 
- # build the site locally 
- bundle exec jekyll serve
- ```
- 
+1. Install Jekyll according to instructions for your OS: https://jekyllrb.com/docs/installation/
+2. in docs folder run `bundle install`
+3. in docs folder run `bundle exec jekyll serve`

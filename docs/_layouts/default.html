@@ -71,13 +71,7 @@
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer> -->
-          }
-
-        @media only screen and (max-width: 600px) {
-          body {
-            background-color: none;
-          }
-        }
+     
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
@@ -90,5 +84,12 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+          }
+
+        @media only screen and (max-width: 600px) {
+          body {
+            background-color: none;
+          }
+        }                                               
   </body>
 </html>

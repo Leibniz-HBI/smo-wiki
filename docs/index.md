@@ -1,8 +1,6 @@
 # Welcome to the Social-Media-Observatory wiki!
 
-This wiki is the central knowledge and documentation base of the SMO. 
-
-Please find the navigation menu on the right or below (depending on your window size/screen resolution).
+This wiki is the central knowledge and documentation base of the SMO. The bleeding-edge editable version can be found [here](https://github.com/leibniz-hbi/Social-Media-Observatory/wiki), the less frequently updated, but better reviewed version waits [here](https://leibniz-hbi.github.io/smo-wiki/).
 
 ## Landing Page
 
@@ -26,7 +24,7 @@ Because we're just starting out, some sections are not much more than a heading.
 
 ### [Research Ethics and Law](Research-Ethics-and-Law)
 
-We are working on and invite contributions to the [Ethics / Legal](Ethics-/-Legal) section, where we plan to collect advice on common issues when working with (social) media data.
+We are working on and invite contributions to this section, where we plan to collect advice on common issues when working with (social) media data.
 
 ### [Knowledge Base](Knowledge-Base)
 

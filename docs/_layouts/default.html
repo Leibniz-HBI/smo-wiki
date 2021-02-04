@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
 
-     {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -46,8 +46,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        
-        
+       <div class="search">
         <form method="get" id="search" action="https://duckduckgo.com/">
         <input type="hidden" name="sites" value="smo-wiki.leibniz-hbi.de directly"/>
         <input class="search" type="text" name="q" maxlength="300" placeholder="Search"/>

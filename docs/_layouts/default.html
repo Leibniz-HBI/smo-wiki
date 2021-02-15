@@ -55,11 +55,11 @@
         </form>
         </div> -->
         
-        <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-        <input name="sitesearch" type="hidden" value="smo-wiki.leibniz-hbi.de">
-        <input autocomplete="on" class="form-control search" name="q" placeholder="Search in smo-wiki.leibniz-hbi.de" required="required"  type="text">
-        <button class="button" type="submit">Search</button>
-        </form>
+          <form action="https://google.com/search" method="get">
+          <input type="hidden" name="sitesearch" value="smo-wiki.leibniz-hbi.de" />
+          <input type="text" name="q" />
+          <button class="button" type="Search">Go</button>
+          </form>
         <div class="navigation">
           {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
           {{ sidebar | markdownify }}

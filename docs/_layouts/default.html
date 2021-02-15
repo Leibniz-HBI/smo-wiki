@@ -46,14 +46,20 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-       <div class="search">
+<!--        <div class="search">
         <form method="get" id="search" action="https://duckduckgo.com/">
         <input type="hidden" name="sites" value="smo-wiki.leibniz-hbi.de directly"/>
         <input class="search" type="text" name="q" maxlength="300" placeholder="Search"/>
         <input type="submit" value="Search" style="visibility: hidden;" />
         <button class="button" type="Search">Go</button>
         </form>
-        </div>
+        </div> -->
+        
+        <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+        <input name="sitesearch" type="hidden" value="smo-wiki.leibniz-hbi.de">
+        <input autocomplete="on" class="form-control search" name="q" placeholder="Search in smo-wiki.leibniz-hbi.de" required="required"  type="text">
+        <button class="button" type="submit">Search</button>
+        </form>
         <div class="navigation">
           {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
           {{ sidebar | markdownify }}

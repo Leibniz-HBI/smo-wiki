@@ -55,15 +55,13 @@
         </form>
         </div> -->
         
+        <div class="search">
           <form action="https://google.com/search" method="get">
           <input type="hidden" name="sitesearch" value="smo-wiki.leibniz-hbi.de" />
           <input type="text" name="q" />
           <button class="button" type="Search">Go</button>
           </form>
-        <div class="navigation">
-          {% capture sidebar %}{% include_relative _Sidebar.md %}{% endcapture %}
-          {{ sidebar | markdownify }}
-        </div>
+        <div class="search">
 
       </header>
       <section>

@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
+// Google Fonts Barlow
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed&display=swap');
+
+body {
+  font-family: 'Barlow', Helvetica, Arial, sans-serif;
+}
+
+body h1,h2,h3,h4,h5,h6 {
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+}
+
 .topnav input[type=text]  {
   width: 100%;
   font-size: 18px;

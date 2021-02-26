@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: SMO Wiki
-description: A beautiful snapshot version of the Wiki brought to you by the Social Media Observatory at HBI
+description: A beautiful snapshot version of the Wiki brought to you by the <a href="smo.leibniz-hbi.de/about">Social Media Observatory at HBI</a>
 
 plugins:
   - jekyll-sitemap

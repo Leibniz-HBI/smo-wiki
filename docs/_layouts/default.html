@@ -10,18 +10,18 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-        </head>
-        <body>
-         <head>
+    </head>
+     <body>
+     <head>
       <style>
- 
+
       </style>
       </head>
       <body>
-    <div class="wrapper">
+      <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -78,13 +78,19 @@
           </a>
         </div>
 
-        {% if site.github.is_project_page %}
-        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+
+        <a href=" https://leibniz-hbi.de">
+        <img src="images/mainlogo.jpg " width="20%" height="20%"style="vertical-align:center;" ></a>
+        <a href="https://fgz-risc.de">
+        <img src="images/fgzlogo.jpg " width="18%" height="18%"style="vertical-align:center;" ></a>
+
+       {% if site.github.is_project_page %}
+       <p>Powered By <a href="https://leibniz-hbi.de/en"> leibniz-HBI</a></p>
+       {% endif %}
+       <p>Made with <a href="https://jekyllrb.com/"> jekyll</a></p>
 
       </footer>
-     
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
@@ -97,6 +103,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-                                             
+
   </body>
 </html>

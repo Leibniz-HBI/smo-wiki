@@ -13,17 +13,7 @@
 
 .navigation h1 {
   font-size:14px;
-  float:none;
-	margin-bottom: 6px;
-}
-
-.navigation li {
-
-
-  width: 100%;
-  text-align: left;
-  border: none;
-  height: 25px;
+	margin-bottom: 10px;
 }
 
 .navigation ul li:last-child {
@@ -38,9 +28,27 @@
 .navigation ul {
 	border: none;
 	background: none;
+  list-style-type: none;
+  padding-inline-start: 20px;
+}
+
+.navigation ul li {
+	height: auto;
+  margin-bottom: 5px;
+}
+
+.search {
+  margin: 20px 0 20px
 }
 
 footer a:hover {
 	font-weight: normal;
 }
 
+footer {
+  position: unset
+}
+
+header {
+  position: unset
+}

@@ -11,8 +11,8 @@ mv _layouts docs/ # move back backuped files
 mv assets docs/ # move back backuped files
 rm docs/.git # remove repository files from docs folder so that it is not recognised as another submodule
 mv docs/Home.md docs/index.md # rename, so that Jekyll uses it as homepage
-python convert_links.py # convert [[wiki links]] to [wiki links](wiki-links)
-python generate_titles_from_filename.py # use the file-name to add # file name as title to md files
+python3 convert_links.py # convert [[wiki links]] to [wiki links](wiki-links)
+python3 generate_titles_from_filename.py # use the file-name to add # file name as title to md files
 git add -A # add updates
 git commit -a -m "updating markdowns" # commit updates
 # git push # push updates

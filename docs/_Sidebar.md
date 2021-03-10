@@ -19,7 +19,7 @@
 
 
 # Research Ethics and Law
-* [Helpful resources](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Research-Ethics-and-Law)
+* [Helpful resources](Helpful-resources)
 * [SOCRATES ethics guide](SOCRATES-ethics-guide)
 
 # Knowledge Base

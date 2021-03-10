@@ -12,8 +12,14 @@ All of the following tools have the ability to search for a certain username, ha
 Most of these Facebook tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of Facebook. Despite being public, Facebook data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
 
 ### Useful Scrapers
-![Overview](/image/facebook.png)
-
+<!--- ![Overview](/image/facebook.png) -->
+| FaceBook                                                                              | User Info | Media | Followers/ings | Location | Login | Posts | Hashtags | Metadata | Shares | API Based |
+| ------------------------------------------------------------------------------------- | --------- | ----- | -------------- | -------- | ----- | ----- | -------- | -------- | ------ | --------- |
+| [facepager](https://github.com/strohne/Facepager/)                                    | √         | √     | √              | √        | √     | √     | √        | √        | √      | √         |
+| [Crowtangle](https://www.crowdtangle.com/)                                            | √         | √     | √              | √        | √     | √     | √        | √        | √      |           |
+| [FB Crawler](https://github.com/Charleswyt/crawler)                                   | √         | √     | √              | √        | √     | √     | √        | √        | √      | x         |
+| [Facebook Scraper](https://github.com/kevinzg/facebook-scraper)                       | \-        | √     | x              | x        | √     | √     | x        | x        | \-     | x         |
+| [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) | √         | √     | √              |          |       |       |          |          | x      | x         |
 
 **Keys**
 

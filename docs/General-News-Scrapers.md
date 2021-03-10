@@ -4,7 +4,14 @@ Welcome to the General News Scrapers page.
 This site aims to provide a overview of all useful Tools that can be used to research on different Newssites f.e. NYT, SPON, Guardian and other. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
 
 ### Useful News Scrapers
-![Overview](https://abload.de/img/bildschirmfoto2019-11jwkyf.png)
+<!-- ![Overview](https://abload.de/img/bildschirmfoto2019-11jwkyf.png) -->
+| General Scrapers                                       | Headlines | Lead Paragraph | Article | <br>Main Image | Login | Author | Date | Language |
+| ------------------------------------------------------ | --------- | -------------- | ------- | -------------- | ----- | ------ | ---- | -------- |
+| [News Please](https://github.com/fhamborg/news-please) | √         | √              | √       | √              | x     | √      | √    | √        |
+| [Scrapy](https://github.com/scrapy/scrapy)             | √         | √              | √       | √              | \-    | √      | √    | \-       |
+| [Newspaper3k](https://github.com/codelucas/newspaper)  | √         | √              | √       | √              | x     | √      | √    | \-       |
+| [Scrape Bot](https://github.com/MarHai/ScrapeBot)      | √         | √              | √       | √              | x     | √      | √    | \-       |
+| [Media Cloud](https://mediacloud.org/)                 |           |                |         |                |       |        |      |
 
 **Keys**
 * _Headline_: Scraped the Headline of an Article

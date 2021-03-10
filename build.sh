@@ -3,6 +3,7 @@ cp docs/_config.yml ./ # back up _config.yml for Github pages
 cp docs/Gemfile* ./ # back up  for Github pages
 cp -r docs/_layouts ./ # back up website layout
 cp -r docs/assets ./ # back up CSS
+cp -r docs/images ./ # back up CSS
 cp docs/CNAME ./
 cp docs/google*.html ./
 rm -rf docs # delete old files
@@ -11,6 +12,8 @@ mv _config.yml docs/ # move back backuped files
 mv Gemfile* docs/ # move back backuped files
 mv _layouts docs/ # move back backuped files
 mv assets docs/ # move back backuped files
+mv images/* docs/images/
+rm -r images
 mv CNAME docs/
 mv google*.html docs/
 rm docs/.git # remove repository files from docs folder so that it is not recognised as another submodule

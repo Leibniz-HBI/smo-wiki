@@ -6,8 +6,9 @@
     1. pulls the latest markdowns from the Wiki
     2. copies/replaces them into/in the `docs/` directory
     3. processes the markdown (with Python scripts) so that it becomes digestible by Jekyll (especially Wiki link formatting)
-    4. pushes the changes back to the repository
-
+4. review the changes in your favourite git client
+5. (optional) render locally (see below) and inspect
+6. if happy, commit and push the changes back to the repository
 
 # How to change website design and layout
 

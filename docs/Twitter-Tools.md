@@ -13,22 +13,23 @@ Most of these Twitter tools connect to official Twitter APIs and therefore need 
 Some of the tools are scrapers, which do not use the official APIs. Please be aware that the use of these tools might violate Twitter's [Terms of Service](https://twitter.com/de/tos). Despite being public, Twitter data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and ethical guidelines that apply to your research **before** starting your data collection. 
 
 ### Useful Scrapers
-<!-- ![Overview](https://abload.de/img/bildschirmfoto2020-03vqj3x.png) -->
+![Overview](https://abload.de/img/bildschirmfoto2020-03vqj3x.png)
 
-| Twitter                                                             | API based | Last Tested    | Laguage             | Interface     | Comments              |
-| ------------------------------------------------------------------- | --------- | -------------- | ------------------- | ------------- | --------------------- |
-| [Facepager](https://github.com/strohne/Facepager/)                  | V1 and V2 | 2/2/2021       | \-                  | GUI           | No programming needed |
-| [Twitterscraper](https://github.com/taspinar/twitterscraper)        | V1        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [Twint](https://github.com/twintproject/twint)                      | Scraping  | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [twarc](https://github.com/DocNow/twarc)                            | V1        | 2/2/2021       | Command Line/Python | Python Module | Programming needed    |
-| [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V2        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [tweepy](https://www.tweepy.org/)                                   | V1        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1        | Not Tested Yet | R                   | R Module      | Programming needed    | 
 
 **Keys**
 
-* _API Based_: The tool uses the official Twitter API.
+* _-_: The tool will only partially pull the data.
+* _x_: The tool is not able to fetch the described data.
+* _√_: The tool is able to fetch the described data.
 
+* _User Info_: In general, retrieving number of posts, followers/followings, creation date, username, etc..
+* _Media_: Feature includes the scraping of videos and pictures. 
+* _Followers/Followings_: Allows you to download a list of all followers/followings from one or more accounts. 
+* _Login Module_: The tool can log you into an account. 
+* _Posts_ and _Hashtags_: In general the function to retrieve tweets and seek tweets for a certain hashtag. 
+* _MetaData_: Includes all data other than the actual tweets, user info, media or followers. This includes location and user-ID, which is crucial to maintain a DB.
+* _API Based_: The tool uses the official Twitter API.
+* _Scheduled Data collection_: Allows you to plan updates to data sets at/after a certain time. 
 
 ### [Facepager](https://github.com/strohne/Facepager)
 > Facepager was made for fetching public available data from YouTube, Twitter and other JSON-based APIs. All data is stored in a SQLite database and may be exported to csv. This app has a Graphic Unit Interface, which makes it extremely easy to use. Official API from Twitter is needed.
@@ -75,6 +76,15 @@ Twint utilizes Twitter's search operators to let you scrape Tweets from specific
 [Download and Installation Instructions](https://github.com/twintproject/twint)<br>
 [Tutorial by Null-Byte](https://null-byte.wonderhowto.com/how-to/mine-twitter-for-targeted-information-with-twint-0193853/)
 
+### [DMI-TCAT](https://wiki.digitalmethods.net/Dmi/ToolDmiTcat)
+
+The Digital Methods Initiative Twitter Capture and Analysis Toolset [DMI-TCAT] is a set of tools to retrieve and collect tweets from Twitter and to analyze them in various ways. It is written mostly in PHP and runs in a webserver (LAMP) environment.
+
+DMI-TCAT provides robust and reproducible data capture and analysis, and interlinks with existing analytical software. Captured data sets can be refined in different ways (search queries, exclusions, date range, etc.) and the resulting selections of tweets can be analyzed in various ways, mainly by outputting files in standard formats (CSV for tabular files and GEXF for network files).
+
+The big plus of DMI-TCAT is that it is organized around a MySQL database, which can run 24/7 robustly over months to years. However, setting up DMI-TCAT on a server requires some command line skills.
+
+[Installation Instructions](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide)
 
 ### [Twarc](https://github.com/DocNow/twarc)
 
@@ -92,17 +102,6 @@ Twint utilizes Twitter's search operators to let you scrape Tweets from specific
 
 [Download](https://github.com/twintproject/twint)<br>
 [Documentation, Installation and Usage](https://github.com/DocNow/twarc/blob/master/README.md)<br>
-## Other Tools 
-
-### [DMI-TCAT](https://wiki.digitalmethods.net/Dmi/ToolDmiTcat)
-
-The Digital Methods Initiative Twitter Capture and Analysis Toolset [DMI-TCAT] is a set of tools to retrieve and collect tweets from Twitter and to analyze them in various ways. It is written mostly in PHP and runs in a webserver (LAMP) environment.
-
-DMI-TCAT provides robust and reproducible data capture and analysis, and interlinks with existing analytical software. Captured data sets can be refined in different ways (search queries, exclusions, date range, etc.) and the resulting selections of tweets can be analyzed in various ways, mainly by outputting files in standard formats (CSV for tabular files and GEXF for network files).
-
-The big plus of DMI-TCAT is that it is organized around a MySQL database, which can run 24/7 robustly over months to years. However, setting up DMI-TCAT on a server requires some command line skills.
-
-[Installation Instructions](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide)
 
 ### [VOSONDash](https://github.com/vosonlab/VOSONDash)
 

@@ -13,19 +13,7 @@ All of the following tools have the ability to search for a certain username, ha
 Most of these Instagram tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research **before** starting your data collection.
 
 ### Useful Scrapers
-<!-- ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png) -->
-| INSTAGRAM                                                                      | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
-| ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | -------- | ------------- | --------- |
-| [Instamancer](https://github.com/ScriptSmith/instamancer)                      | √         | √     | √              | √            | √     | √        | √        | x             | x         |
-| [Instaloader](https://github.com/instaloader/instaloader)                      | √         | √     | √              | √            | √     | √        | \-       | √             | x         |
-| [Instagram-Scraper](https://github.com/rarcega/instagram-scraper)              | √         | √     | x              | √            | √     | √        | √        | √             | x         |
-| [Instaphyte](https://github.com/ScriptSmith/instaphyte)                        | x         | √     | √              | √            | √     | √        | √        | x             | x         |
-| [Instalooter](https://github.com/althonos/InstaLooter)                         | √         | √     | √              | √            | √     | √        | √        | √             | x         |
-| [Instagram Private API](https://github.com/ping/instagram_private_api)         | √         | √     | √              | √            | √     | √        | √        | √             | √         |
-| [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) | √         | √     | √              | √            | √     | √        | √        | √             | x         |
-| [Rinstapkg](https://github.com/eric88tchong/Rinstapkg)                         | √         | √     | √              | √            | √     | √        | √        | \-            | √         |
-| Instagram Java Scraper                                                         | √         | √     | √              | √            | √     | √        | √        | √             | x         |
-
+![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png)
 
 **Keys**
 

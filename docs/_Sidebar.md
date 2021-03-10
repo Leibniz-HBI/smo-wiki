@@ -19,8 +19,8 @@
 
 
 # Research Ethics and Law
-* [Helpful resources](Helpful-resources)
-* [SOCRATES ethics guide](SOCRATES-ethics-guide)
+* [Helpful Resources](Helpful-Resources)
+* [SOCRATES Ethics Guide](SOCRATES-Ethics-Guide)
 
 # Knowledge Base
 

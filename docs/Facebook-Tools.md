@@ -12,7 +12,9 @@ All of the following tools have the ability to search for a certain username, ha
 Most of these Facebook tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of Facebook. Despite being public, Facebook data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
 
 ### Useful Scrapers
+
 <!--- ![Overview](/image/facebook.png) -->
+
 | FaceBook                                                                              | User Info | Media | Followers/ings | Location | Login | Posts | Hashtags | Metadata | Shares | API Based |
 | ------------------------------------------------------------------------------------- | --------- | ----- | -------------- | -------- | ----- | ----- | -------- | -------- | ------ | --------- |
 | [facepager](https://github.com/strohne/Facepager/)                                    | √         | √     | √              | √        | √     | √     | √        | √        | √      | √         |

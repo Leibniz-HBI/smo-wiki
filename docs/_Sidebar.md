@@ -33,6 +33,6 @@
 # HowTos
 
 - [Shiny tutorial](https://github.com/Leibniz-HBI/SMO-TMAS/wiki)
-- [Windows Linux Subsystem dev setup](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/Development-setup-for-Python-with-the-Windows-Linux-Subsystem-%28WSL%29)
+- [Windows Linux Subsystem dev setup](Windows-Linux-Subsystem-dev-setup)
 - [macOS dev setup for python](macOS-dev-setup-for-python)
 - [How to use and maintain this wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/How-to-use-and-maintain-the-wiki)

@@ -15,9 +15,9 @@ Useful Scrapers :
 | YOUTUBE                                                                        | User Info | Media | Likes/Dislikes | Login Module | Posts | Metadata | Private feeds | API based |
 | ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | ------------- | --------- |
 | [Facepager](https://github.com/strohne/Facepager)                              | √         | √     | √              | √            | √     | √        | x             | √         |
-| [vosonSML](http://vosonlab.net/SocialMediaLab)                                 | √         | √     | √              | √            |   √     |    -       |               |           |
+| [vosonSML](http://vosonlab.net/SocialMediaLab)                                 |           |       |                |              |       |          |               |           |
 | [Tuber](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html) | √         | √     | √              | √            | √     | √        |               | √         |
-| [Youtube Data API](https://pypi.org/project/youtube-data-api/)                 | √         | √     | √              | √            | √     | √        |               | √         |
+| [Youtube Data API](https://developers.google.com/youtube/v3)                   | √         | √     | √              | √            | √     | √        |               | √         |
 
 * _-_: The scraper will only partially pull the Data but not fully.<br>
 * _x_: The scraper is not able to fetch the described data <br>
@@ -66,7 +66,7 @@ Last tested: 14/01/2021
 
 [**4.YouTube Data API 0.0.20**](https://pypi.org/project/youtube-data-api/)
 
-> This package seeks to make thisdata source more accessible, while introducing new applications and methods to analyze this platform.This client is built for GET requests from public data on YouTube.  It does not work for updating data on YouTubeChannels you own, or getting data from managed accounts from the Reporting API. Further information can be found in there [youtube channel](https://www.youtube.com/watch?v=sbErTW2MzCY)
+> This package seeks to make thisdata source more accessible, while introducing new applications and methods to analyze this platform.This client is built for GET requests from public data on YouTube.  It does not work for updating data on YouTubeChannels you own, or getting data from managed accounts from the Reporting API.
 
 Installation
 

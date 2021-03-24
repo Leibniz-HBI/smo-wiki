@@ -1,4 +1,4 @@
-[[pretty](https://smo-wiki.leibniz-hbi.de)][[edge](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki)]
+version: [[pretty](https://smo-wiki.leibniz-hbi.de)] <-> [[edge](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki)]
 
 # Data Collection Tools
 

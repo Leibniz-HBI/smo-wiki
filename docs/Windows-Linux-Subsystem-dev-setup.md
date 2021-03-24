@@ -8,14 +8,23 @@ To get your Linux-based setup in Windows 10, follow these steps:
 * [Install Ubuntu in WSL](https://docs.microsoft.com/de-de/windows/wsl/install-win10#step-6---install-your-linux-distribution-of-choice)
 * Start and update Ubuntu: `sudo apt update`
 
-Miniconda 
-* [Install Miniconda within ubuntu]
-* [Create a conda env] to get a python virtual environment
+Pipenv
+* [Install Pipenv](https://pipenv.pypa.io/en/latest/install/#installing-pipenv)
+* [Make yourself familiar with the basics of Pipenv](https://pipenv.pypa.io/en/latest/basics/)
+* It's recommended to create a new environment with pipenv for each project
+* If you want to work with different Python versions in your environments, [install pyenv](https://github.com/pyenv/pyenv#installation)
 
 Visual Studio Code
 * Install Visual Studio Code in Windows 
 * Install WSL extension for VSC
 
+(optional)
+Install Miniconda, an alternative to pipenv that is preferrable to install some tools
+* [Install Miniconda within Ubuntu](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+* [Create a conda env](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-environments) to get a python virtual environment
+
+
+(optional)
 Docker
 * Install and setup [Docker](https://www.docker.com):
   * [Update to Windows 10 build 2004 or later](https://www.microsoft.com/en-us/software-download/windows10)

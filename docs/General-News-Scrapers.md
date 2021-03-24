@@ -1,7 +1,7 @@
 # General News Scrapers
 
 Welcome to the General News Scrapers page.  
-This site aims to provide a overview of all useful Tools that can be used to research on different Newssites f.e. NYT, SPON, Guardian and other. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
+This site aims to provide an overview of all useful tools that can be used to research on different Newssites f.e. NYT, SPON, Guardian, and others. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
 
 ### Useful News Scrapers
 
@@ -13,7 +13,7 @@ This site aims to provide a overview of all useful Tools that can be used to res
 | [Scrapy](https://github.com/scrapy/scrapy)             | √         | √              | √       | √              | \-    | √      | √    | \-       |
 | [Newspaper3k](https://github.com/codelucas/newspaper)  | √         | √              | √       | √              | x     | √      | √    | \-       |
 | [Scrape Bot](https://github.com/MarHai/ScrapeBot)      | √         | √              | √       | √              | x     | √      | √    | \-       |
-| [Media Cloud](https://mediacloud.org/)                 |           |                |         |                |       |        |      |
+| [Media Cloud](https://mediacloud.org/)                 | √         |   -            |         |     -           | √     |        | √    | √
 
 **Keys**
 * _Headline_: Scraped the Headline of an Article
@@ -23,13 +23,13 @@ This site aims to provide a overview of all useful Tools that can be used to res
 * _Login_: Logs into the Memberspage
 * _Author_: Scrapes the name of the Author
 * _Date_: gets date (and Time) 
-* _language_: Trys to find out what language the article is written in
+* _language_: Try to find out what language the article is written in
 
 ## Description
 
 [**1. News Please**](https://github.com/fhamborg/news-please)
 
-> news-please is an open source, easy-to-use news crawler that extracts structured information from almost any news website. It can follow recursively internal hyperlinks and read RSS feeds to fetch both most recent and also old, archived articles. You only need to provide the root URL of the news website to crawl it completely.
+> news-please is an open-source, easy-to-use news crawler that extracts structured information from almost any news website. It can follow recursively internal hyperlinks and read RSS feeds to fetch both most recent and also old, archived articles. You only need to provide the root URL of the news website to crawl it completely.
 
 **Features:**
 
@@ -56,7 +56,7 @@ For the complete documentation of Scrapy's features, please visit the [Offical S
 
 [**3. Newspaper3k**](https://github.com/codelucas/newspaper)
 
-> Inspired by requests for its simplicity and powered by lxml for its speed. Its worksd as a Python Library. 
+> Inspired by requests for its simplicity and powered by lxml for its speed. It worked as a Python Library. 
 
 **Features:**
 
@@ -82,7 +82,7 @@ For the complete documentation of Scrapy's features, please visit the [Offical S
 
 [**5. Media Cloud**](https://mediacloud.org/)
 
-> Media Cloud is an open source content analysis tools that aims to map news media coverage of current events. The media cloud platform offers three tools explorer , topic mapper and source manager.
+> Media Cloud is an open-source content analysis tool that aims to map news media coverage of current events. The media cloud platform offers three tools explorer, topic mapper, and source manager. Video intro can be found [here](https://www.youtube.com/watch?v=sw7UoFFsGOA&list=PL48YHRNVv8PS5JltJQu5hgJmH98nDxP_U)
 
 **Features:**
 

@@ -1,3 +1,5 @@
+[[pretty](https://smo-wiki.leibniz-hbi.de)]|[[edge](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki)]
+
 # Data Collection Tools
 
 - [Data preparation and cleaning](Data-preparation-and-cleaning)
@@ -36,3 +38,4 @@
 - [Windows Linux Subsystem dev setup](Windows-Linux-Subsystem-dev-setup)
 - [macOS dev setup for python](macOS-dev-setup-for-python)
 - [How to use and maintain this wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/How-to-use-and-maintain-the-wiki)
+- [Twitter Academic API Track Application](Twitter-Academic-API-Track-Application)

@@ -67,7 +67,7 @@
         
         {{ content }}
       
-        {% if page.title %}
+        {% if page.title != "Welcome to the Social-Media-Observatory wiki!" %}
           <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/{{page.title}}/_edit">[edit the edge version of this page]</a>
         {% else %}
           <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/home/_edit">[edit the edge version of this page]</a>

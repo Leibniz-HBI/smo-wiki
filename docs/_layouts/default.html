@@ -65,11 +65,14 @@
       </header>
       <section>
         
-      {{ content }}
+        {{ content }}
+      
         {% if page.title %}
-        <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/{{page.title}}/_edit">[edit the edge version of this page]</a>
+          <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/{{page.title}}/_edit">[edit the edge version of this page]</a>
         {% else %}
-        <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/home/_edit">[edit the edge version of this page]</a>
+          <a href="https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/home/_edit">[edit the edge version of this page]</a>
+        {% endif %}
+
       </section>
 
       <footer>

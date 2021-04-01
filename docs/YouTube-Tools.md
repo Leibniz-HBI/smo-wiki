@@ -9,7 +9,6 @@ This list aims to provide an overview of all useful tools that can be used for r
 
 All of the following tools have the ability to search for a certain username, hashtag, location, or post and collect associated data from YouTube. All tools download the associated media (i.e. pictures and videos), comments, and related hashtags. The list below is sorted in an opinionated way in the order of what we would recommend first.
 Most of these YouTube tools are so-called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of YouTube. Despite being public, YouTube data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
-**Keys**
 
 Useful Scrapers : 
 
@@ -21,6 +20,7 @@ Useful Scrapers :
 | [Youtube Data API](https://developers.google.com/youtube/v3)                   | √         | √     | √              | √            | √     | √        |               | √         |
 | [YTDT](https://tools.digitalmethods.net/netvizz/youtube/)                      | √         | √     | x              | x            | √     | √        | x             | √         |
 
+**Keys**
 
 * _-_: The scraper will only partially pull the Data but not fully.<br>
 * _x_: The scraper is not able to fetch the described data <br>

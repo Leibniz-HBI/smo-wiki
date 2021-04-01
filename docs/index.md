@@ -1,6 +1,6 @@
 # Welcome to the Social-Media-Observatory wiki!
 
-This wiki is the central knowledge and documentation base of the SMO. The bleeding-edge editable version can be found [here](https://github.com/leibniz-hbi/Social-Media-Observatory/wiki), the less frequently updated, but better reviewed version waits [here](https://leibniz-hbi.github.io/smo-wiki/).
+This wiki is the central knowledge and documentation base of the SMO. The bleeding-edge, editable version can be found [here](https://github.com/leibniz-hbi/Social-Media-Observatory/wiki), the less frequently updated, but better reviewed, 'pretty' version waits [here](https://leibniz-hbi.github.io/smo-wiki/).
 
 ## About Us
 

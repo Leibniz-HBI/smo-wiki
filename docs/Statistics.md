@@ -1,5 +1,7 @@
 # Statistics
 
+# R or Python?
+
 One of the first major decisions to make when getting into data analysis is about which language to choose. Python and R are the widely used programming languages in the field of statistics and data science and both are great choices. Below you will find some condensed information about their application for statistics. However, you also might want to have a look at this [infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) by Datacamp, as it provides some helpful general guidance about both languages and might be a good starting point to inform yourself. 
 
 
@@ -28,12 +30,12 @@ R was initially used mostly in academia and is nowadays popular among social sci
 
 ### Popular libraries:
 
-- Data manipulation: [Dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html), [tidyr](https://tidyr.tidyverse.org/) and [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf) 
-- String manipulation: [Stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) 
-- Time series: [Zoo](https://cran.r-project.org/web/packages/zoo/zoo.pdf) 
+- Data manipulation: [dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html), [tidyr](https://tidyr.tidyverse.org/) and [data.table](https://cran.r-project.org/web/packages/data.table/data.table.pdf) 
+- String manipulation: [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) 
+- Time series: [zoo](https://cran.r-project.org/web/packages/zoo/zoo.pdf) 
 - Machine learning: [caret](https://topepo.github.io/caret/) is also known as classification and regression training. this package contains tools for data splitting, pre-processing, feature selection, model tuning using resampling, variable importance estimation.
 - visualization: [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
-- Nlp and text analysis: [Qunteda](https://quanteda.io/), [Text2vec](http://text2vec.org/), [Tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
+- NLP and text analysis: [quanteda](https://quanteda.io/), [Text2vec](http://text2vec.org/), [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
 
 ### IDE
 
@@ -41,7 +43,7 @@ Writing code can be a messy task and to get some support on this, programmers re
 
 ### Ecosystems:
 
-- Packages are a collection of R functions and compiled code, usually provided by the community. This work by others allows you to execute complex tasks with just a few lines of codes, as you profit from the shared effort by your fellow R coders.  
+- Packages are a collection of R functions and compiled code, usually provided by the community. This work by others allows you to execute complex tasks with just a few lines of code, as you profit from the shared effort by your fellow R coders.  
 - Packages are available at [CRAN](-https://cran.r-project.org/mirrors.html) and at the Github pages of the developers
 - For more advanced users, R has a rich ecosystem of functionalities to enable a smooth stringing of your data analysis workflow  
 

@@ -18,9 +18,9 @@ We recommend simply using the pip installation for (most) purposes.
 
 Jupyter uses 'kernels' to accommodate working in different programming languages and environments
 
-While it is possible to simply install and run `jupyter-lab` within a Python virtualenv, it is maybe not desirable to install the whole jupyter-lab package for every single project environment. A more elegant solution is to install a so-called 'kernelspec' that provides your system-level Jupyter with information about where your virtualenv lives, respectively.
+While it is possible to simply install and run `jupyter-lab` within a Python virtualenv or conda env, it is maybe desirable to have certain environments offered to you by the launcher also within your system-level Jupyter installation. To get this, you have to specify a so-called 'kernelspec' that provides your system-level Jupyter with information about where your virtualenv lives, respectively.
 
-Assumes that Jupyter-Lab is installed on your system (outside a virtual env).
+To do so, assuming that Jupyter-Lab is installed on your system (outside a virtual env) already:
 
 * enter virtual env with `pipenv shell`
 * `pipenv install ipykernel` or `pipenv install --dev ipykernel` if end users don't need to use Jupyter.

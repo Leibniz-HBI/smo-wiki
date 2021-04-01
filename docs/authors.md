@@ -27,3 +27,12 @@
   17 author FlxVctr
   12 author adyk007
 ```
+
+## Commits to the pretty wiki codebase
+
+```
+   137	FlxVctr
+   113	Khandoker Tanjim Ahammad
+    38	Felix Victor Münch
+    15	Khandoker09
+```

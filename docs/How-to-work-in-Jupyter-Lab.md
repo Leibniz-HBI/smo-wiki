@@ -24,7 +24,7 @@ Assumes that Jupyter-Lab is installed on your system (outside a virtual env).
 
 * enter virtual env with `pipenv shell`
 * `pipenv install ipykernel` or `pipenv install --dev ipykernel` if end users don't need to use Jupyter.
-* python -m ipykernel install --user --name=YOUR_RECOGNIZABLE_NAME_FOR_THIS_ENV
+* `python -m ipykernel install --user --name=YOUR_RECOGNIZABLE_NAME_FOR_THIS_ENV`
 
 Now you should be able to start `jupyter-lab` on your system (outside the virtual env) and the launcher will offer you to start a notebook using this virtualenv.
 

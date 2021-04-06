@@ -10,7 +10,8 @@ for file in glob('docs/*.md'):
 
     with open(file, 'r') as f:
         text = f.read()
-    
+    # convert any link to [[markdown link]]
+    replaced = re.sub(r'(https?:\/\/(?!.*:\/\/)\S+)', r'[[\1]]', text)
     # replace [[something something]] with [something something](something something)
     replaced = re.sub(r'\[\[(.+)\]\]', r'[\1](\1)', text)  
     # replace [something something](something something) with [something something](something-something)

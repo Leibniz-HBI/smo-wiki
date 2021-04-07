@@ -16,7 +16,7 @@ Most of these Instagram tools are so called scrapers that work without an offici
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png) -->
 
-| INSTAGRAM                                                                      | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
+|                                                                       | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
 | ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | -------- | ------------- | --------- |
 | [Instamancer](https://github.com/ScriptSmith/instamancer)                      | √         | √     | √              | √            | √     | √        | √        | x             | x         |
 | [Instaloader](https://github.com/instaloader/instaloader)                      | √         | √     | √              | √            | √     | √        | \-       | √             | x         |

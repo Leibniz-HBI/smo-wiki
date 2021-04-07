@@ -6,7 +6,7 @@ We are currently writing an ethics guide for researching online communication an
 
 **Ethical Internet Research**
 
-franzke, alineshakti, Bechmann, Anja, Zimmer, Michael, Ess, Charles and the Association of Internet Researchers (2020). Internet Research: Ethical Guidelines 3.0. [https://aoir.org/reports/ethics3.pdf](https://aoir.org/reports/ethics3.pdf) (accessed: 10.02.2020)
+franzke, alineshakti; Anja Bechmann; Michael Zimmer; Charles Ess, and the Association of Internet Researchers (2020). Internet Research: Ethical Guidelines 3.0. [https://aoir.org/reports/ethics3.pdf](https://aoir.org/reports/ethics3.pdf) (accessed: 10.02.2020)
 
 Central University Research Ethics Committee (CUREC). Internet based research (IBR). Best Practice Guidance 06_Version 6.2. [https://researchsupport.admin.ox.ac.uk/files/bpg06internet-basedresearchpdf](https://researchsupport.admin.ox.ac.uk/files/bpg06internet-basedresearchpdf) (accessed: 08.10.2020)
 
@@ -18,7 +18,7 @@ Federal Data Protection Act [https://www.gesetze-im-internet.de/englisch_bdsg/](
 
 **Web Scraping**
 
-Golla, Sebastian. (2019). Kratzen und Schürfen im Datenmilieu – Web Scraping in sozialen Netzwerken zu wissenschaftlichen Forschungszwecken. Kommunikation & Recht, Heft 1. [https://baecker.jura.uni-mainz.de/files/2019/01/KUR_01_19_Beitrag_Golla_Schoenfeld.pdf](https://baecker.jura.uni-mainz.de/files/2019/01/KUR_01_19_Beitrag_Golla_Schoenfeld.pdf)
+Golla, Sebastian (2019). Kratzen und Schürfen im Datenmilieu – Web Scraping in sozialen Netzwerken zu wissenschaftlichen Forschungszwecken. Kommunikation & Recht, Heft 1. [https://baecker.jura.uni-mainz.de/files/2019/01/KUR_01_19_Beitrag_Golla_Schoenfeld.pdf](https://baecker.jura.uni-mainz.de/files/2019/01/KUR_01_19_Beitrag_Golla_Schoenfeld.pdf)
 [http://methods.sagepub.com/book/researching-power-elites-and-leadership](http://methods.sagepub.com/book/researching-power-elites-and-leadership) (accessed: 08.10.2020)
 
 **Data Archiving**

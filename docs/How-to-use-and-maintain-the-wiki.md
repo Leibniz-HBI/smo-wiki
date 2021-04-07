@@ -17,6 +17,8 @@ The search function is a bit hidden.
 
 # How to edit a page
 
+For editing pages in this Wiki, you need to be logged into a [Github account](https://github.com/).
+
 1. Navigate to the page
 2. Click edit
 3. The recommended and easiest way to edit this wiki is "Markdown" (in a dropdown above the editor). Tutorials for this can be found [here](https://commonmark.org/help/) (simple, interactive), [here](https://help.github.com/en/articles/about-writing-and-formatting-on-github) and [here](https://guides.github.com/features/mastering-markdown/) (both more detailed, and including Github-specific extras).

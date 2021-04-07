@@ -15,15 +15,16 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 ### Useful Scrapers
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-03vqj3x.png) -->
 
-| Twitter                                                             | API based | Last Tested    | Laguage             | Interface     | Comments              |
-| ------------------------------------------------------------------- | --------- | -------------- | ------------------- | ------------- | --------------------- |
-| [Facepager](https://github.com/strohne/Facepager/)                  | V1 and V2 | 2/2/2021       | \-                  | GUI           | No programming needed |
-| [Twitterscraper](https://github.com/taspinar/twitterscraper)        | V1        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [Twint](https://github.com/twintproject/twint)                      | Scraping  | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [twarc](https://github.com/DocNow/twarc)                            | V1        | 2/2/2021       | Command Line/Python | Python Module | Programming needed    |
-| [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V2        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [tweepy](https://www.tweepy.org/)                                   | V1        | 2/2/2021       | Python              | Python Module | Programming needed    |
-| [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1        | Not Tested Yet | R                   | R Module      | Programming needed    | 
+| Twitter                                                             | API?    | Last Tested | Language | Interfaces          | Comments              |
+| ------------------------------------------------------------------- | ------- | ----------- | -------- | ------------------- | --------------------- |
+| [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | Python   | GUI                 | No programming needed |
+| [twacapic](https://pypi.org/project/twacapic/)                      | V2      | 7/4/2021    | Python   | CLI                 | not feature complete  |
+| [twarc](https://github.com/DocNow/twarc)                            | V1/V2   | 2/2/2021    | Python   | CLI / Python Module | Programming possible  |
+| [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V1/V2   | 2/2/2021    | Python   | Python Module       | Programming needed    |
+| [Twint](https://github.com/twintproject/twint)                      | Scraper | 2/2/2021    | Python   | Python Module       | Programming needed    |
+| [Twitterscraper](https://github.com/taspinar/twitterscraper)        | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
+| [tweepy](https://www.tweepy.org/)                                   | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
+| [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1      | Not Tested  | R        | R Module            | Programming needed    |
 
 **Keys**
 

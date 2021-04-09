@@ -1,10 +1,10 @@
-# Authorship Statistics
+# 👏💫🏆 Wall of Fame 🏆💫👏
 
 ## Authors by number of commits (edits)
 
 ```
    218	Mani Levian Asli
-   214	Felix Victor Münch
+   215	Felix Victor Münch
     70	Jason Young
     52	Khandoker Tanjim Ahammad
     23	Gregor W
@@ -35,6 +35,6 @@
 ```
    138	FlxVctr
    118	Khandoker Tanjim Ahammad
-    62	Felix Victor Münch
+    64	Felix Victor Münch
     16	Khandoker09
 ```

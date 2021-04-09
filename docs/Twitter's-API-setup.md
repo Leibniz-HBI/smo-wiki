@@ -15,7 +15,7 @@ As of March 2018 a Twitter developer account is needed to access the Twitter API
 * Access Token: This is the consumer identification that is used to define privileges. 
 * Access Secret: This is sent with the access token as a password.
 
-Instructions on how to create a Twitter app are available at: https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/
+Instructions on how to create a Twitter app are available at: [https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/](https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/)
 
 ## API Restrictions
 Twitter imposes limits on how quickly or how many data can be retrieved from the API. For the REST API limits on the download speed are imposed. Details on rate limits for specific endpoints are available at [*Twitter's developer platform*](https://developer.twitter.com/en/docs/basics/rate-limits) for more information. The endpoints have to be queried multiple times if more data than the rate limit allows is needed. Otherwise Twitter will sever the connection and reserves the right to ban the account from querying the APIs again. For the streaming API the only restriction is that not every tweet is returned if the number of matching tweets exceeds 1% of the total volume of tweets.

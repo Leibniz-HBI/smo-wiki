@@ -48,7 +48,7 @@ The big plus of vosonSML is that it allows automated/scheduled collection of pub
 
 [**3. tuber**](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html)
 
-> Access YouTube API via R. Get comments posted on YouTube videos, get information on how many times a video has been liked, search for videos with particular content, and much more. You can also get closed captions of videos you own. To learn more about the YouTube API, see https://developers.google.com/youtube/v3/.
+> Access YouTube API via R. Get comments posted on YouTube videos, get information on how many times a video has been liked, search for videos with particular content, and much more. You can also get closed captions of videos you own. To learn more about the YouTube API, see [https://developers.google.com/youtube/v3/.](https://developers.google.com/youtube/v3/.)
 
 Installation
 

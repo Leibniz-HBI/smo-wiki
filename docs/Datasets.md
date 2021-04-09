@@ -34,8 +34,10 @@ As a result it contains a set of approximately 200 000 accounts which makes up a
 
 ### useNews 
 
-The useNews data set comes in (Puschmann & Haim, 2020). It combines three innovative data sources and links their content for the years 2018-2020: the Reuters Digital News Report (user preferences and rankings of news brands), MediaCloud (news content) and CrowdTangle (Facebook engagement metrics). The dataset can be found here : [https://osf.io/uzca3/](https://osf.io/uzca3/)
+The useNews data set comes in (Puschmann & Haim, 2020). It combines three innovative data sources and links their content for the years 2018-2020: the Reuters Digital News Report (user preferences and rankings of news brands), MediaCloud (news content) and CrowdTangle (Facebook engagement metrics). The dataset can be found here: [https://osf.io/uzca3/](https://osf.io/uzca3/)
+
 It comprises
+
 * 3 million news items from 81 sources and 12 countries
 * 530 million words
 * 4 million Facebook posts from 400,000 Facebook users which mention these amounts.

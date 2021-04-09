@@ -31,3 +31,11 @@ We are working on and invite contributions to this section, where we plan to col
 Also, if you have basic, but crucial, social media knowledge to share (for example overall measurement baselines for certain platforms or demographics) or examples of instructive (un)successful case studies (not necessarily your own), feel free to create the first pages in the [Knowledge Base](Knowledge-Base) section.
 * [Case Studies](Case-Studies): Examples for data analytics in computational communication research
 * [Projects](Projects): A selection of current projects to be aware of
+
+## 👏💫🏆 Wall of Fame 🏆💫👏
+
+We have an ongoing authorship statistic that will be used to acknowledge authors in future publications based on this wiki (e.g. in form of a citations for a Figshare or OSF project):
+
+🌟🌟🌟 **[The Wall of Fame](https://smo-wiki.leibniz-hbi.de/authors)** 🌟🌟🌟
+
+If you want to be properly acknowledged, make sure to use your clear name on Github when editing. Otherwise it'll be hard for us to properly acknowledge you. However, pseudonymous contributions are always welcome and will be counted.

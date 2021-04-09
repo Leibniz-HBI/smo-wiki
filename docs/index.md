@@ -32,6 +32,7 @@ Also, if you have basic, but crucial, social media knowledge to share (for examp
 * [Case Studies](Case-Studies): Examples for data analytics in computational communication research
 * [Projects](Projects): A selection of current projects to be aware of
 
+
 ## 👏💫🏆 Wall of Fame 🏆💫👏
 
 We have an ongoing authorship statistic that will be used to acknowledge authors in future publications based on this wiki (e.g. in form of a citations for a Figshare or OSF project):

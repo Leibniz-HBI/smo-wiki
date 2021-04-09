@@ -4,9 +4,7 @@ This list provides an overview of useful tools that can be used for research on 
 
 ## Overview
 
-All of the following tools have the ability to search for a certain username, hashtag, location or post and collect associated data from Instagram. All tools download the associated media (i.e. pictures and videos), comments and related hashtags. The list below is sorted in an opinionated way in the order of what we would recommend first.
-
-Most of these Instagram tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research **before** starting your data collection.
+Many of these Instagram tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research **before** starting your data collection.
 
 ### Useful Scrapers
 
@@ -22,7 +20,7 @@ Most of these Instagram tools are so called scrapers that work without an offici
 | [Instagram Private API](https://github.com/ping/instagram_private_api)         | √         | √     | √              | √            | √     | √        | √        | √             | √         |
 | [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) | √         | √     | √              | √            | √     | √        | √        | √             | x         |
 | [Rinstapkg](https://github.com/eric88tchong/Rinstapkg)                         | √         | √     | √              | √            | √     | √        | √        | \-            | √         |
-| Instagram Java Scraper                                                         | √         | √     | √              | √            | √     | √        | √        | √             | x         |
+| [Instagram Java Scraper](https://github.com/postaddictme/instagram-java-scraper)                                                         | √         | √     | √              | √            | √     | √        | √        | √             | x         |
 
 
 **Keys**
@@ -39,7 +37,7 @@ Most of these Instagram tools are so called scrapers that work without an offici
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
 
-## Description
+## Descriptions
 
 ### [1. Instamancer](https://adamsm.com/instamancer/)<br>
 

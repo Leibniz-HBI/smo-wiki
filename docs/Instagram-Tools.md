@@ -1,9 +1,5 @@
 # Instagram Tools
 
-# Instagram Tool List
-
-
-Welcome to the Instagram Tools.
 This list provides an overview of useful tools that can be used for research on Instagram. If you face problems or issues with one of the applications on the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.
 
 ## Overview
@@ -16,7 +12,7 @@ Most of these Instagram tools are so called scrapers that work without an offici
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png) -->
 
-| INSTAGRAM                                                                      | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
+|                                                                       | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
 | ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | -------- | ------------- | --------- |
 | [Instamancer](https://github.com/ScriptSmith/instamancer)                      | √         | √     | √              | √            | √     | √        | √        | x             | x         |
 | [Instaloader](https://github.com/instaloader/instaloader)                      | √         | √     | √              | √            | √     | √        | \-       | √             | x         |

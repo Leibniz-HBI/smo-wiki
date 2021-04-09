@@ -28,12 +28,13 @@ While we a working on a formal request procedure, please contact us [via email](
 
 ### German Twittersphere Core [available] (GETCORE)
 
-This dataset comprises a sparsified sample of the German-speaking Twitter follow network. It was collected via an adaption of a graph sampling method that aims to prioritise the most central nodes in a network (https://github.com/flxvctr/RADICES).
+This dataset comprises a sparsified sample of the German-speaking Twitter follow network. It was collected via an adaption of a graph sampling method that aims to prioritise the most central nodes in a network ([https://github.com/flxvctr/RADICES](https://github.com/flxvctr/RADICES)).
 
-As a result it contains a set of approximately 200 000 accounts which makes up an estimated 40% of an average German-using Twitter account's followings (based on data from 2016 and 2019, we have reasons to assume however, that the user base is only changing slowly since 2016). A detailed description of the collection method and the dataset can be found here: https://arxiv.org/abs/1908.07788
+As a result it contains a set of approximately 200 000 accounts which makes up an estimated 40% of an average German-using Twitter account's followings (based on data from 2016 and 2019, we have reasons to assume however, that the user base is only changing slowly since 2016). A detailed description of the collection method and the dataset can be found here: [https://arxiv.org/abs/1908.07788](https://arxiv.org/abs/1908.07788)
+
 ### useNews 
 
-The useNews data set comes in (Puschmann & Haim, 2020). It combines three innovative data sources and links their content for the years 2018-2020: the Reuters Digital News Report (user preferences and rankings of news brands), MediaCloud (news content) and CrowdTangle (Facebook engagement metrics). The dataset can be found here : https://osf.io/uzca3/
+The useNews data set comes in (Puschmann & Haim, 2020). It combines three innovative data sources and links their content for the years 2018-2020: the Reuters Digital News Report (user preferences and rankings of news brands), MediaCloud (news content) and CrowdTangle (Facebook engagement metrics). The dataset can be found here : [https://osf.io/uzca3/](https://osf.io/uzca3/)
 It comprises
 * 3 million news items from 81 sources and 12 countries
 * 530 million words
@@ -45,6 +46,7 @@ It comprises
 
 ### Mediacloud
 
+[TODO]
 
 ***
 

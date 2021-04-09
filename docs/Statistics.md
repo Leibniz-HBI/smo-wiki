@@ -41,14 +41,14 @@ Writing code can be a messy task and to get some support on this, programmers re
 ### Ecosystems
 
 - Packages are a collection of R functions and compiled code, usually provided by the community. This work by others allows you to execute complex tasks with just a few lines of code, as you profit from the shared effort by your fellow R coders.  
-- Packages are available at [CRAN](-https://cran.r-project.org/mirrors.html) and at the Github pages of the developers
+- Packages are available at [CRAN](https://cran.r-project.org/mirrors.html) and at the Github pages of the developers
 - For more advanced users, R has a rich ecosystem of functionalities to enable a smooth stringing of your data analysis workflow  
 
 ### Communities
 
-- [Stack overflow](-https://stackoverflow.com/tags/r/info)
-- [Reddit rstats](-https://www.reddit.com/r/rstats/)
-- [r-help](-https://www.r-project.org/mail.html)
+- [Stack overflow](https://stackoverflow.com/tags/r/info)
+- [Reddit rstats](https://www.reddit.com/r/rstats/)
+- [r-help](https://www.r-project.org/mail.html)
 
 ## Python + pandas
 
@@ -94,6 +94,6 @@ Where user can also contribute
 
 ### Communities
 
-- [Stack overflow](-https://stackoverflow.com/tags/python/info)
-- [Reddit Python](-https://www.reddit.com/r/Python/)
-- [Pydata](-https://pydata.org/)
+- [Stack overflow](https://stackoverflow.com/tags/python/info)
+- [Reddit Python](https://www.reddit.com/r/Python/)
+- [Pydata](https://pydata.org/)

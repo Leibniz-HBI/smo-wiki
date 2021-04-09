@@ -4,7 +4,7 @@
 
 ```
    218	Mani Levian Asli
-   216	Felix Victor Münch
+   217	Felix Victor Münch
     70	Jason Young
     52	Khandoker Tanjim Ahammad
     23	Gregor W
@@ -20,10 +20,10 @@
 ```
  415 author Khandoker Tanjim Ahammad
  400 author Felix Victor Münch
- 254 author Mani Levian Asli
+ 253 author Mani Levian Asli
   43 author Gregor W
   38 author JanRau
-  35 author Jason Young
+  34 author Jason Young
   34 author Cornelius Puschmann
   17 author FlxVctr
   12 author adyk007
@@ -35,6 +35,6 @@
 ```
    138	FlxVctr
    118	Khandoker Tanjim Ahammad
-    65	Felix Victor Münch
+    66	Felix Victor Münch
     16	Khandoker09
 ```

@@ -6,7 +6,7 @@
 - [Twitter-Tools](Twitter-Tools)
 - [Wikipedia-Tools](Wikipedia-Tools)
 - [Facebook-Tools](Facebook-Tools)
-- [YouTube Tools](YouTube-Tools)
+- [YouTube-Tools](YouTube-Tools)
 - [General News Scrapers](General-News-Scrapers)
 - [Miscellaneous Tools](Miscellaneous-Tools)
 

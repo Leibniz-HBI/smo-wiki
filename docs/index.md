@@ -37,6 +37,6 @@ Also, if you have basic, but crucial, social media knowledge to share (for examp
 
 We have an ongoing authorship statistic that will be used to acknowledge authors in future publications based on this wiki (e.g. in form of a citations for a Figshare or OSF project):
 
-🌟🌟🌟 **[The Wall of Fame](https://smo-wiki.leibniz-hbi.de/wall-of-fame)** 🌟🌟🌟
+🌟🌟🌟 **[The Wall of Fame](https://smo-wiki.leibniz-hbi.de/Wall-of-Fame)** 🌟🌟🌟
 
 If you want to be properly acknowledged, make sure to use your clear name on Github when editing. Otherwise it'll be hard for us to properly acknowledge you. However, pseudonymous contributions are always welcome and will be counted.

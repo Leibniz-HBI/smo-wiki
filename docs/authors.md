@@ -13,7 +13,6 @@
      3	adyk007
      1	janhinrikschmidt
      1	Cornelius Puschmann
-     1	janhinrikschmidt
 ```
 
 ## Authors by number of lines
@@ -35,7 +34,7 @@
 
 ```
    138	FlxVctr
-   113	Khandoker Tanjim Ahammad
-    40	Felix Victor Münch
-    15	Khandoker09
+   117	Khandoker Tanjim Ahammad
+    49	Felix Victor Münch
+    16	Khandoker09
 ```

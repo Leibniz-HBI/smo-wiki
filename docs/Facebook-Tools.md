@@ -8,20 +8,23 @@ This list aims to provide a overview of all useful Tools that can be used for re
 
 ## Overview
 
-All of the following tools have the ability to search for a certain username, hashtag, location or post and collect associated data from Facebook. All tools download the associated media (i.e. pictures and videos), comments and related hashtags. The list below is sorted in an opinionated way in the order of what we would recommend first.
-Most of these Facebook tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of Facebook. Despite being public, Facebook data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
+Many of these Facebook tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of Facebook. Despite being public, Facebook data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
 
 ### Useful Scrapers
 
 <!--- ![Overview](/image/facebook.png) -->
 
+<div style="overflow-x: scroll" markdown="1">
+
 | FaceBook                                                                              | User Info | Media | Followers/ings | Location | Login | Posts | Hashtags | Metadata | Shares | API Based |
 | ------------------------------------------------------------------------------------- | --------- | ----- | -------------- | -------- | ----- | ----- | -------- | -------- | ------ | --------- |
 | [facepager](https://github.com/strohne/Facepager/)                                    | √         | √     | √              | √        | √     | √     | √        | √        | √      | √         |
-| [Crowtangle](https://www.crowdtangle.com/)                                            | √         | √     | √              | √        | √     | √     | √        | √        | √      |           |
+| [Crowdtangle](https://www.crowdtangle.com/)                                            | √         | √     | √              | √        | √     | √     | √        | √        | √      |           |
 | [FB Crawler](https://github.com/Charleswyt/crawler)                                   | √         | √     | √              | √        | √     | √     | √        | √        | √      | x         |
 | [Facebook Scraper](https://github.com/kevinzg/facebook-scraper)                       | \-        | √     | x              | x        | √     | √     | x        | x        | \-     | x         |
 | [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) | √         | √     | √              |          |       |       |          |          | x      | x         |
+
+</div>
 
 **Keys**
 

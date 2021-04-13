@@ -12,6 +12,8 @@ Most of these YouTube tools are so-called scrapers that work without an official
 
 Useful Scrapers : 
 
+<div style="overflow-x: scroll" markdown="1">
+
 | YOUTUBE                                                                        | User Info | Media | Likes/Dislikes | Login Module | Posts | Metadata | Private feeds | API based |
 | ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | ------------- | --------- |
 | [Facepager](https://github.com/strohne/Facepager)                              | √         | √     | √              | √            | √     | √        | x             | √         |
@@ -19,6 +21,8 @@ Useful Scrapers :
 | [Tuber](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html) | √         | √     | √              | √            | √     | √        |               | √         |
 | [Youtube Data API](https://developers.google.com/youtube/v3)                   | √         | √     | √              | √            | √     | √        |               | √         |
 | [YTDT](https://tools.digitalmethods.net/netvizz/youtube/)                      | √         | √     | x              | x            | √     | √        | x             | √         |
+
+</div>
 
 **Keys**
 

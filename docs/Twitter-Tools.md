@@ -23,9 +23,11 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 ### Data collectors
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-03vqj3x.png) -->
 
+<div style="overflow-x: scroll" markdown="1">
+
 | Twitter                                                             | API?    | Last Tested | Language | Interfaces          | Comments              |
 | ------------------------------------------------------------------- | ------- | ----------- | -------- | ------------------- | --------------------- |
-| [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | Python   | GUI                 | No programming needed |
+| [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | -   | GUI                 | No programming needed |
 | [twacapic](https://pypi.org/project/twacapic/)                      | V2      | 7/4/2021    | Python   | CLI                 | not feature complete  |
 | [twarc](https://github.com/DocNow/twarc)                            | V1/V2   | 2/2/2021    | Python   | CLI / Python Module | Programming possible  |
 | [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V1/V2   | 2/2/2021    | Python   | Python Module       | Programming needed    |
@@ -33,6 +35,9 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 | [Twitterscraper](https://github.com/taspinar/twitterscraper)        | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [tweepy](https://www.tweepy.org/)                                   | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1      | Not Tested  | R        | R Module            | Programming needed    |
+| [twitter-explorer](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md) | V1      | Not Tested  | Python        | GUI            | No Programming needed    |
+
+</div>
 
 ### Tools with extended analysis/refinement capabilities and/or dashboards
 
@@ -119,3 +124,42 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 [Downloads](https://github.com/DocNow/hydrator/releases)
 
 [Documentation and Usage](https://github.com/DocNow/hydrator/blob/master/README.md)
+
+### [Twitter Explorer](https://twitterexplorer.org/index.html)
+
+> Twitter explorer is an openly accessible interface that can collect, transform and visualize Twitter data.
+It can create a complex network without prior programming skills. twitter explorer consists of mainly three parts which are collector, visualizer, and explorer.
+
+**Notable Features:**
+
++ **Collector :**
+* Collects Twitter using API search.
+* Save the data in jsonl format.
+
++ **Visualizer:**
+* Timeline plotting
+* Can generate network depending on retweet and  Hashtags networks
+* Can aggregate data based on node degree
+* Plot can be export in .gml/.csv/.gv
+
++ **Explorer:**
+* Display network using an html format with interactive dashboard in a browser.
+* Show information about datasets, number of nodes, node size, node scaling, users metadata on click.
+
+**Installation via:** An installation package is available for Windows, Linux and MacOS
+
+Requires python 3.6 or above .
+
+```
+# replace XXX by release number
+ cd ~/Downloads/twitter-explorer-vXXX
+pip install -r requirements.txt
+
+```
+After installation we can collect data using streamlit
+
+```
+streamlit run collector.py
+
+```
+[Documentation and Usage](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md)

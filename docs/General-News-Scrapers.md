@@ -7,13 +7,17 @@ This site aims to provide an overview of all useful tools that can be used to re
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2019-11jwkyf.png) -->
 
+<div style="overflow-x: scroll" markdown="1">
+
 | General Scrapers                                       | Headlines | Lead Paragraph | Article | <br>Main Image | Login | Author | Date | Language |
 | ------------------------------------------------------ | --------- | -------------- | ------- | -------------- | ----- | ------ | ---- | -------- |
 | [News Please](https://github.com/fhamborg/news-please) | √         | √              | √       | √              | x     | √      | √    | √        |
 | [Scrapy](https://github.com/scrapy/scrapy)             | √         | √              | √       | √              | \-    | √      | √    | \-       |
 | [Newspaper3k](https://github.com/codelucas/newspaper)  | √         | √              | √       | √              | x     | √      | √    | \-       |
 | [Scrape Bot](https://github.com/MarHai/ScrapeBot)      | √         | √              | √       | √              | x     | √      | √    | \-       |
-| [Media Cloud](https://mediacloud.org/)                 | √         |   -            |         |     -           | √     |        | √    | √
+| [Media Cloud](https://mediacloud.org/)                 | √         |   -            |         |     -           | √     |        | √    | √       |
+
+</div>
 
 **Keys**
 * _Headline_: Scraped the Headline of an Article

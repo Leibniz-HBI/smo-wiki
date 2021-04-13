@@ -10,6 +10,8 @@ Many of these Instagram tools are so called scrapers that work without an offici
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png) -->
 
+<div style="overflow-x: scroll" markdown="1">
+
 |                                                                       | User Info | Media | Followers/ings | Login Module | Posts | Hashtags | Metadata | Private feeds | API based |
 | ------------------------------------------------------------------------------ | --------- | ----- | -------------- | ------------ | ----- | -------- | -------- | ------------- | --------- |
 | [Instamancer](https://github.com/ScriptSmith/instamancer)                      | √         | √     | √              | √            | √     | √        | √        | x             | x         |
@@ -21,6 +23,8 @@ Many of these Instagram tools are so called scrapers that work without an offici
 | [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) | √         | √     | √              | √            | √     | √        | √        | √             | x         |
 | [Rinstapkg](https://github.com/eric88tchong/Rinstapkg)                         | √         | √     | √              | √            | √     | √        | √        | \-            | √         |
 | [Instagram Java Scraper](https://github.com/postaddictme/instagram-java-scraper)                                                         | √         | √     | √              | √            | √     | √        | √        | √             | x         |
+
+</div>
 
 
 **Keys**

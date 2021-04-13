@@ -22,8 +22,8 @@ for file in glob('docs/*.md'):
     replaced = re.sub(r'(?<=\]\()[^)]*(?=\))', swap_space_for_dash, replaced)
 
     # make tables scrollable
-    replaced = re.sub(r'\n\n(\|(.*\n)+?\|.+\|)\n\n',
-                      r'\n\n<div style="overflow-x: scroll" markdown="1">\n\n\1\n\n</div>\n\n', replaced)
+    replaced = re.sub(r'(\n\n(\|.+\|\n)+\n)',
+                      r'\n\n<div style="overflow-x: scroll" markdown="1">\1</div>\n\n', replaced)
 
     with open(file, 'w') as f:
         f.write(replaced)

@@ -3,7 +3,7 @@
 # A little step by step guide
 
 1. Start your day, don't forget to have a good breakfast!
-2. [Have a look at all issues assigned to you](https://github.com/issues/assigned?q=user:Leibniz-HBI%20is:open%20is:issue%20archived:false).
+2. [Have a look at all issues assigned to you](https://github.com/issues/assigned?q=user:Leibniz-HBI%20is:open%20is:issue%20archived:false%20sort:created-asc).
     1. If no issues are present, have a look around in your projects if any issues look interesting to you.
 3. Prioritise (e.g. by date and importance), what you'll be working on today. If unsure, ask in our Keybase chats.
 4. Ask in the issue thread or on Keybase for clarifications and missing resources.

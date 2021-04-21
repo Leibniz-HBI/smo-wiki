@@ -9,6 +9,7 @@
 - [YouTube-Tools](YouTube-Tools)
 - [General News Scrapers](General-News-Scrapers)
 - [Miscellaneous Tools](Miscellaneous-Tools)
+- [Secure Storage and Archiving](Secure-Storage-and-Archiving)
 
 
 # Analysis Tools

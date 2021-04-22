@@ -6,6 +6,17 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 * independently audited,
 * free to use for non-commercial purposes.
 
+**Table of Contents:**
++ [Encrypted File Synchronisation](#encrypted-file-synchronisation)
+  + [Cryptomator](#cryptomator)
+  + [Keybase](#keybase)
++ [Encrypted (Remote) Backups](#encrypted-remote-backups)
+  + [POSIX (Linux, MacOS)](#posix-linux-macos)
+    + [Borg Backup / Vorta](#borg-backup--vorta)
+  + [Windows](#windows)
+    + [Duplicati](#duplicati)
++ [Credential Sharing](#credential-sharing)
+
 ## Encrypted File Synchronisation
 
 ### Cryptomator
@@ -35,3 +46,12 @@ Both can backup to local or remote storage.
 #### Duplicati
 
 As Borg/Vorta cannot natively run on Windows systems, we would recommend to use [Duplicati](https://www.duplicati.com/) which offers the same functionality. It is also installable on POSIX systems, however it requires to install the mono framework beforehand (a .NET port for POSIX systems).
+
+## Credential Sharing
+
+Encrypted Storage (if its based on symmetric-key encryption) brings with it the complication of securely sharing those keys. We recommend using a KeeShare container with KeePassXC in your team, also for all other kinds of shared credentials.
+
+* [KeePassXC Download](https://keepassxc.org/)
+* [KeeShare Instructions](https://keepassxc.org/docs/KeePassXC_UserGuide.html#_database_sharing_with_keeshare)
+
+Note, that in general, however, it is recommended to use person-bound credentials whenever possible. They allow for more fine-grained access control, especially if someone leaves your organisation or if credentials have been accidentally exposed.

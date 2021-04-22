@@ -6,7 +6,10 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 * independently audited,
 * free to use for non-commercial purposes.
 
+***
+
 **Table of Contents:**
++ [Device Encryption](#device-encryption)
 + [Encrypted File Synchronisation](#encrypted-file-synchronisation)
   + [Cryptomator](#cryptomator)
   + [Keybase](#keybase)
@@ -16,6 +19,9 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
   + [Windows](#windows)
     + [Duplicati](#duplicati)
 + [Credential Sharing](#credential-sharing)
++ [Further Reading](#further-reading)
+
+***
 
 ## Device Encryption
 
@@ -61,3 +67,7 @@ Encrypted Storage (if its based on symmetric-key encryption) brings with it the 
 * [KeeShare Instructions](https://keepassxc.org/docs/KeePassXC_UserGuide.html#_database_sharing_with_keeshare)
 
 Note, that in general, however, it is recommended to use person-bound credentials whenever possible. They allow for more fine-grained access control, especially if someone leaves your organisation or if credentials have been accidentally exposed.
+
+## Further Reading
+
+[EFF Survaillance Self-Defense Security Scenario: Academic researcher](https://ssd.eff.org/en/playlist/academic-researcher)

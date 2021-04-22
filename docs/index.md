@@ -40,3 +40,10 @@ We have an ongoing authorship statistic that will be used to acknowledge authors
 🌟🌟🌟 **[The Wall of Fame](https://smo-wiki.leibniz-hbi.de/Wall-of-Fame)** 🌟🌟🌟
 
 If you want to be properly acknowledged, make sure to use your clear name on Github when editing. Otherwise it'll be hard for us to properly acknowledge you. However, pseudonymous contributions are always welcome and will be counted.
+
+## Please Cite as
+
+> Münch, F. V., Asli, M. L., Young, J., Khandoker Tanjim Ahammad, Wiedemann, G., Rau, J., Schmidt, J.-H., & Puschmann, C. (2021). SMO Wiki. [https://doi.org/10.6084/M9.FIGSHARE.14465337](https://doi.org/10.6084/M9.FIGSHARE.14465337)
+
+As this is a wiki, the citation will continuously change over time and versions regarding authors and their order, so please check back regularly and always state the date or commit hash at which you accessed it. We are in the process of working out the details of versioning this in the most appropriate way.
+

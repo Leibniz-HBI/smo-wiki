@@ -17,6 +17,10 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
     + [Duplicati](#duplicati)
 + [Credential Sharing](#credential-sharing)
 
+## Device Encryption
+
+All devices that deal with personal data (which most social media data is) and might be located in unsecured areas (e.g. mobile phones and laptops, but also desktop computers in most office settings) should be encrypted per default. All modern operating systems offer the functionality of seamless encryption of all data on the device. Please refer to your operating system's instructions on how to make sure, this is activated.
+
 ## Encrypted File Synchronisation
 
 ### Cryptomator
@@ -25,9 +29,11 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 
 ### Keybase
 
-[Keybase](https://keybase.io) is an end-to-end encrypted team-chat client that additionally offers 250 GB of end-to-end encrypted storage.
+[Keybase](https://keybase.io) is an end-to-end encrypted team-chat client that additionally offers 250 GB of end-to-end encrypted storage. Please not however, that it has been bought by Zoom in 2020, so the project's future is uncertain at the moment.
 
 ## Encrypted (Remote) Backups
+
+If your data holding devices are encrypted, you have to spend more time on backups, as in case of hardware failure data will be most likely impossible to retrieve.
 
 Please be aware that live-backups of database systems are a tricky issue. Usually the backups get corrupted when backing up a running database. Either backup regular dumps of the database or refer to the documentation of the respective database whether and how live-backups are possible.
 

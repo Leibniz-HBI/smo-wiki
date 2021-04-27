@@ -37,7 +37,7 @@
 
 - [Shiny tutorial](https://github.com/Leibniz-HBI/SMO-TMAS/wiki)
 - [Windows Linux Subsystem dev setup](Windows-Linux-Subsystem-dev-setup)
-- [macOS dev setup for python](macOS-dev-setup-for-python)
+- [macOS dev setup for Python](macOS-dev-setup-for-Python)
 - [How to work in Jupyter Lab](How-to-work-in-Jupyter-Lab)
 - [Twitter Academic API Track Application](Twitter-Academic-API-Track-Application)
 - [How to use and maintain this wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/How-to-use-and-maintain-the-wiki)

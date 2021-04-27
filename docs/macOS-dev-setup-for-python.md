@@ -1,4 +1,4 @@
-# macOS dev setup for python
+# macOS dev setup for Python
 
 #### If you have used your Mac for programming before:
 

@@ -30,7 +30,7 @@ While we a working on a formal request procedure, please contact us [via email](
 
 This dataset comprises a sparsified sample of the German-speaking Twitter follow network. It was collected via an adaption of a graph sampling method that aims to prioritise the most central nodes in a network ([https://github.com/flxvctr/RADICES](https://github.com/flxvctr/RADICES)).
 
-As a result it contains a set of approximately 200 000 accounts which makes up an estimated 40% of an average German-using Twitter account's followings (based on data from 2016 and 2019, we have reasons to assume however, that the user base is only changing slowly since 2016). A detailed description of the collection method and the dataset can be found here: [https://arxiv.org/abs/1908.07788](https://arxiv.org/abs/1908.07788)
+As a result it contains a set of approximately 200 000 accounts which makes up an estimated 40% of an average German-using Twitter account's followings (based on data from 2016 and 2019, we have reasons to assume however, that the user base is only changing slowly since 2016). A detailed description of the collection method and the dataset can be found in this journal paper: [https://journals.sagepub.com/doi/full/10.1177/2056305120984475](https://journals.sagepub.com/doi/full/10.1177/2056305120984475)
 
 ### useNews 
 

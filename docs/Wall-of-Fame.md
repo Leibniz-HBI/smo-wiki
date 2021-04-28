@@ -3,7 +3,7 @@
 ## Authors by number of commits (edits)
 
 ```
-   261	Felix Victor Münch
+   262	Felix Victor Münch
    218	Mani Levian Asli
     70	Jason Young
     53	Khandoker Tanjim Ahammad
@@ -35,6 +35,6 @@
 ```
    138	FlxVctr
    118	Khandoker Tanjim Ahammad
-    87	Felix Victor Münch
+    88	Felix Victor Münch
     16	Khandoker09
 ```

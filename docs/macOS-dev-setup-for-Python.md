@@ -10,7 +10,8 @@ We recommend to follow the instructions of ["The Hitchhiker's Guide to Python"](
 
 We also recommend highly to install and use 
 
-* [pyenv](https://github.com/pyenv/pyenv#installation), to be able to use different Python versions in different projects, and
+* [pyenv](https://github.com/pyenv/pyenv#installation), to be able to use different Python versions in different projects
+  * for M1-based Macs the [pyenv-installer](https://github.com/pyenv/pyenv-installer) installation seems to work better than the installation via Homebrew
 * [Pipenv](https://pipenv.pypa.io/en/latest/install/#installing-pipenv), to be able to separate Python package dependencies in different projects.
 
 For the latter, the [Homebrew installation](https://pipenv.pypa.io/en/latest/install/#homebrew-installation-of-pipenv-discouraged) might be the easiest, despite the caveats mentioned by the Pipenv creators, especially in combination with a Homebrew-installed pyenv.

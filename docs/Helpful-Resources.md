@@ -10,6 +10,8 @@ franzke, alineshakti; Anja Bechmann; Michael Zimmer; Charles Ess, and the Associ
 
 Central University Research Ethics Committee (CUREC). Internet based research (IBR). Best Practice Guidance 06_Version 6.2. [https://researchsupport.admin.ox.ac.uk/files/bpg06internet-basedresearchpdf](https://researchsupport.admin.ox.ac.uk/files/bpg06internet-basedresearchpdf) (accessed: 08.10.2020)
 
+K.EppertI; L.FrischlichI; N.Bögelein; N.JukschatI; M.ReddigI; A.Schmidt-Kleiner(2020). Navigating a Rugged Coastline—Ethics in Empirical (De-)Radicalization Research.[https://www.cais.nrw/wp-94fa4-content/uploads/2020/02/CORE_forschung-01_11feb20.pdf](https://www.cais.nrw/wp-94fa4-content/uploads/2020/02/CORE_forschung-01_11feb20.pdf) (accessed: 03.05.2021)
+
 **Data Protection**
 
 General Data Protection Regulation [https://gdpr-info.eu/](https://gdpr-info.eu/)

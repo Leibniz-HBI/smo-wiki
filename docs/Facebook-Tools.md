@@ -22,7 +22,6 @@ Many of these Facebook tools are so called scrapers that work without an officia
 | [Crowdtangle](https://www.crowdtangle.com/)                                            | √         | √     | √              | √        | √     | √     | √        | √        | √      |           |
 | [FB Crawler](https://github.com/Charleswyt/crawler)                                   | √         | √     | √              | √        | √     | √     | √        | √        | √      | x         |
 | [Facebook Scraper](https://github.com/kevinzg/facebook-scraper)                       | \-        | √     | x              | x        | √     | √     | x        | x        | \-     | x         |
-| [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) | √         | √     | √              |          |       |       |          |          | x      | x         |
 
 </div>
 

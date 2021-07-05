@@ -12,7 +12,7 @@ We also have made good experiences with [Codecademy](https://codecademy.com/), e
 
 ## Twitter API
 
-### [Twitter dev 101 | Getting Started with the Twitter API v2 for academic research)](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
+### [Twitter dev 101 | Getting Started with the Twitter API v2 for academic research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
 
 This [course](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) will teach you, step by step, how to set up your Twitter developer account and how to use the Twitter Academic API (v2).
 It contains 8 modules including a module dedicated to a lab environment for practical experiences using R or Python.

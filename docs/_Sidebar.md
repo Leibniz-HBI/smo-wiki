@@ -10,7 +10,7 @@
 - [General News Scrapers](General-News-Scrapers)
 - [Miscellaneous Tools](Miscellaneous-Tools)
 - [Secure Storage and Archiving](Secure-Storage-and-Archiving)
-
+- [Data Anonymization Tools](Data-Anonymization-Tools)
 
 # Analysis Tools
 
@@ -19,7 +19,7 @@
 - [Content Analysis](Content-Analysis)
 - [Statistics](Statistics)
 - [Visualisation](Visualisation)
-
+- [Web Scraping](Web-Scraping)
 
 # Research Ethics and Law
 * [Helpful Resources](Helpful-Resources)

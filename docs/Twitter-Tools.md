@@ -8,11 +8,13 @@ This list provides an overview of useful data collection tools that can be used 
   + [Data collectors](#data-collectors)
   + [Tools with extended analysis/refinement capabilities and/or dashboards](#tools-with-extended-analysisrefinement-capabilities-andor-dashboards)
     + [DMI-TCAT](#dmi-tcat)
-    + [VOSONDash](#vosondash)
-    + [TAGS](#tags)
     + [SMO-TMAS](#smo-tmas)
+    + [TAGS](#tags)
+    + [Twitter Explorer](#twitter-explorer)
+    + [VOSONDash](#vosondash)
   + [Helpers](#helpers)
     + [Hydrator](#hydrator)
+    + [Single Twitter ID Lookup webtools](#single-twitter-id-lookup-webtools)
 
 ## Overview
 
@@ -28,7 +30,7 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 | Twitter                                                             | API?    | Last Tested | Language | Interfaces          | Comments              |
 | ------------------------------------------------------------------- | ------- | ----------- | -------- | ------------------- | --------------------- |
 | [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | -   | GUI                 | No programming needed |
-| [twacapic](https://pypi.org/project/twacapic/)                      | V2      | 7/4/2021    | Python   | CLI                 | not feature complete  |
+| [twacapic](https://pypi.org/project/twacapic/)                      | V2      | 7/4/2021    | Python   | CLI                 | early development  |
 | [twarc](https://github.com/DocNow/twarc)                            | V1/V2   | 2/2/2021    | Python   | CLI / Python Module | Programming possible  |
 | [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V1/V2   | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [Twint](https://github.com/twintproject/twint)                      | Scraper | 2/2/2021    | Python   | Python Module       | Programming needed    |
@@ -51,44 +53,6 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 
 [Installation Instructions](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide)
 
-#### [VOSONDash](https://github.com/vosonlab/VOSONDash)
-
-> VOSONDash is an interactive R Shiny web application for the visualisation and analysis of social network data. The app has a dashboard layout with sections for visualising and manipulating network graphs, performing text analysis, displaying network metrics and the collection of network data using the vosonSML R package.
-
-**known issues and limitations:**
-
-+ is limited by the Twitter API limitations
-
-**Notable Features:**
-
-+ R application that connect to different social media APIs
-+ Built-in visual analysis, accessible through an web interface
-+ Cross-platform analysis
-
-**Installation via:** CRAN
-
-[Download](https://cran.r-project.org/web/packages/VOSONDash/index.html)
-
-[Installation and Usage](https://vosonlab.github.io/VOSONDash/)
-
-#### [TAGS](tags.hawksey.info)
-
-> TAGS is a free Google Sheet template which lets you setup and run automated collection of search results from Twitter.
-
-**known issues and limitations:**
-
-+ limited to search queries
-
-**Notable Features:**
-
-+ easy to use, without command line
-
-**Installation via:** An [Google account](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) is needed to install this sheets
-
-[Download and installation instructions](https://tags.hawksey.info/get-tags//)
-
-[Support forum for beginners and advanced users](https://tags.hawksey.info/forums/)
-
 #### [SMO-TMAS](https://github.com/Leibniz-HBI/SMO-TMAS)
 
 > SMO-TMAS allows users to pull tweets of specified Twitter handles and tweets containing specified keywords by querying Twitter's REST API GET search/tweets endpoint and statuses/user_timeline endpoint as well as Twitter's STREAM API. The collected tweets can be downloaded as .csv file and SMO-TMAS also provides data analysis components that can be used to analyze and visualize the collected data right away.
@@ -109,23 +73,25 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 
 [Access](https://jason-young.shinyapps.io/twitter-analysis)
 
-### Helpers
+#### [TAGS](tags.hawksey.info)
 
-#### [Hydrator](https://github.com/DocNow/hydrator)
+> TAGS is a free Google Sheet template which lets you setup and run automated collection of search results from Twitter.
 
-> Hydrator is an Electron based desktop application for hydrating Twitter ID datasets. Twitter's Terms of Service do not allow the full JSON for datasets of tweets to be distributed to third parties. However they do allow datasets of tweet IDs to be shared. Hydrator helps you turn these tweet IDs back into JSON and also CSV from the comfort of your desktop.
+**known issues and limitations:**
+
++ limited to search queries
 
 **Notable Features:**
 
-+ Program with a Graphic User Interface (GUI) making it easy to use for inexperienced users.
++ easy to use, without command line
 
-**Installation via:** An installation package is available for Windows, Linux and MacOS
+**Installation via:** An [Google account](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) is needed to install this sheets
 
-[Downloads](https://github.com/DocNow/hydrator/releases)
+[Download and installation instructions](https://tags.hawksey.info/get-tags//)
 
-[Documentation and Usage](https://github.com/DocNow/hydrator/blob/master/README.md)
+[Support forum for beginners and advanced users](https://tags.hawksey.info/forums/)
 
-### [Twitter Explorer](https://twitterexplorer.org/index.html)
+#### [Twitter Explorer](https://twitterexplorer.org/index.html)
 
 > Twitter explorer is an openly accessible interface that can collect, transform and visualize Twitter data.
 It can create a complex network without prior programming skills. twitter explorer consists of mainly three parts which are collector, visualizer, and explorer.
@@ -163,3 +129,44 @@ streamlit run collector.py
 
 ```
 [Documentation and Usage](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md)
+
+#### [VOSONDash](https://github.com/vosonlab/VOSONDash)
+
+> VOSONDash is an interactive R Shiny web application for the visualisation and analysis of social network data. The app has a dashboard layout with sections for visualising and manipulating network graphs, performing text analysis, displaying network metrics and the collection of network data using the vosonSML R package.
+
+**known issues and limitations:**
+
++ is limited by the Twitter API limitations
+
+**Notable Features:**
+
++ R application that connect to different social media APIs
++ Built-in visual analysis, accessible through an web interface
++ Cross-platform analysis
+
+**Installation via:** CRAN
+
+[Download](https://cran.r-project.org/web/packages/VOSONDash/index.html)
+
+[Installation and Usage](https://vosonlab.github.io/VOSONDash/)
+
+### Helpers
+
+#### [Hydrator](https://github.com/DocNow/hydrator)
+
+> Hydrator is an Electron based desktop application for hydrating Twitter ID datasets. Twitter's Terms of Service do not allow the full JSON for datasets of tweets to be distributed to third parties. However they do allow datasets of tweet IDs to be shared. Hydrator helps you turn these tweet IDs back into JSON and also CSV from the comfort of your desktop.
+
+**Notable Features:**
+
++ Program with a Graphic User Interface (GUI) making it easy to use for inexperienced users.
+
+**Installation via:** An installation package is available for Windows, Linux and MacOS
+
+[Downloads](https://github.com/DocNow/hydrator/releases)
+
+[Documentation and Usage](https://github.com/DocNow/hydrator/blob/master/README.md)
+
+#### Single Twitter ID Lookup webtools
+
+* [https://www.codeofaninja.com/tools/find-twitter-id/](https://www.codeofaninja.com/tools/find-twitter-id/)
+* [https://tweeterid.com/](https://tweeterid.com/)

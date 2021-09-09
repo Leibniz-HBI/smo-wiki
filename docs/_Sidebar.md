@@ -23,7 +23,7 @@
 
 # Research Ethics and Law
 * [Helpful Resources](Helpful-Resources)
-* [SOCRATES Ethics Guide](SOCRATES-Ethics-Guide)
+* [SOCRATES Ethics Guide](https://leibniz-hbi.github.io/socrates/)
 
 # Knowledge Base
 

@@ -23,9 +23,10 @@ A web scraper is a computer program that can be used for web scraping.  A web sc
 * Websites change their structure regularly which might require a great deal of maintenance for long-term collections.
 
 * Also, scraping a website means using their resources so best practices involve being respectful, avoiding plagiarism, respecting privacy expectations and setting a gentle request rate limit. Also, scraping involves often more risks of violating ethical guidelines or legal restrictions
+
 ### Useful open source scrapers
 
-The following [site](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/General-News-Scrapers) contains a handful of useful news scrapers which are open source and already documented on our website.
+[This page](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/General-News-Scrapers) contains a handful of useful news scrapers which are open source and already documented on our website.
   
 #### For non-programmers
 

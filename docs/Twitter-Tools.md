@@ -29,10 +29,11 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 
 | Twitter                                                             | API?    | Last Tested | Language | Interfaces          | Comments              |
 | ------------------------------------------------------------------- | ------- | ----------- | -------- | ------------------- | --------------------- |
-| [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | -   | GUI                 | No programming needed |
-| [twacapic](https://pypi.org/project/twacapic/)                      | V2      | 7/4/2021    | Python   | CLI                 | early development  |
-| [twarc](https://github.com/DocNow/twarc)                            | V1/V2   | 2/2/2021    | Python   | CLI / Python Module | Programming possible  |
-| [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V1/V2   | 2/2/2021    | Python   | Python Module       | Programming needed    |
+| [Facepager](https://github.com/strohne/Facepager/)                  | V1/V2   | 2/2/2021    | -        | GUI                 | No programming needed |
+| [focalevents](https://github.com/ryanjgallagher/focalevents)        | Academic| Not Tested  | Python   | CLI                 | depends on PostgreSQL |
+| [twacapic](https://pypi.org/project/twacapic/)                      | Academic| 7/4/2021    | Python   | CLI                 | early development  |
+| [twarc](https://github.com/DocNow/twarc)                            | V1/V2/Academic   | 2/2/2021    | Python   | CLI / Python Module | Programming possible  |
+| [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)     | V1/V2/Academic   | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [Twint](https://github.com/twintproject/twint)                      | Scraper | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [Twitterscraper](https://github.com/taspinar/twitterscraper)        | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [tweepy](https://www.tweepy.org/)                                   | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |

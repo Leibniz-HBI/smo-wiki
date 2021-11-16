@@ -22,11 +22,11 @@ By contributing to this wiki you agree to follow our [Code of Conduct](https://g
 
 Because we're just starting out, some sections are not much more than a heading. So here are some explanations what to expect there.
 
-### [Research Ethics and Law](Research-Ethics-and-Law)
+### Research Ethics and Law
 
 We are working on and invite contributions to this section, where we plan to collect advice on common issues when working with (social) media data.
 
-### [Knowledge Base](Knowledge-Base)
+### Knowledge Base
 
 Also, if you have basic, but crucial, social media knowledge to share (for example overall measurement baselines for certain platforms or demographics) or examples of instructive (un)successful case studies (not necessarily your own), feel free to create the first pages in the [Knowledge Base](Knowledge-Base) section.
 * [Case Studies](Case-Studies): Examples for data analytics in computational communication research

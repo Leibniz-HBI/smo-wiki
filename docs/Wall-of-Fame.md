@@ -3,7 +3,7 @@
 ## Authors by number of commits (edits)
 
 ```
-   283	Felix Victor Münch
+   288	Felix Victor Münch
    218	Mani Levian Asli
     70	Jason Young
     69	Khandoker Tanjim Ahammad
@@ -12,14 +12,15 @@
      6	FlxVctr
      3	adyk007
      1	janhinrikschmidt
+     1	MattesR
      1	Cornelius Puschmann
 ```
 
 ## Authors by number of lines
 
 ```
- 556 author Felix Victor Münch
- 538 author Khandoker Tanjim Ahammad
+ 557 author Felix Victor Münch
+ 537 author Khandoker Tanjim Ahammad
  240 author Mani Levian Asli
   42 author Gregor W
   37 author JanRau
@@ -28,6 +29,7 @@
   17 author FlxVctr
   12 author adyk007
    2 author janhinrikschmidt
+   2 author MattesR
 ```
 
 ## Commits to the pretty wiki codebase
@@ -35,6 +37,6 @@
 ```
    138	FlxVctr
    118	Khandoker Tanjim Ahammad
-    97	Felix Victor Münch
+    98	Felix Victor Münch
     16	Khandoker09
 ```

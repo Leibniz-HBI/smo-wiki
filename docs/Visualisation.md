@@ -15,7 +15,7 @@
 Tableau helps people see and understand data. It is intended for easy creation and distribution of interactive data dashboards that provide an insightful depiction of dynamics, trends of change, and data density distributions via the convenient medium of simple, yet effective visuals.
 As many other services, Tableau provides facility to connect to a variety of data sources with many systematic types, such as data systems organized in file formats (CSV, JSON, XML, MS Excel, etc.), relational and nonrelational data systems (PostgreSQL, MySQL, SQL Server, MongoDB, etc.), cloud systems (AWS, Oracle Cloud, Google BigQuery, Microsoft Azure).
 
-Tableau Server is a full-fledged business tool for companies that operate their own servers and want to have complete control over data flows and full security of on-premise hosting. However, it comes at the price of $10, 000 per 10 users. Customer support is provided for additional 25% of the annual cost.
+Tableau is closed source and not cheap, so we do not use it currently ourselves. However, some of us and teams we know have good experiences with it and there is a free version for students.
 
 # Advanced Visualisation Tools
 

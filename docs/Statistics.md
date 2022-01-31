@@ -69,8 +69,7 @@ Python is used by programmers who dealt with data analysis, statistical techniqu
 ### Disadvantages
 
 - Doesn’t have as many libraries dedicated to data science as R
-- Requires testing as error can show up in runtime
-- Visualization results are not as eye-pleasing compare to R
+- Default visualization results are often not as eye-pleasing compared to R
 
 ### Popular libraries
 

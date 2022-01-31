@@ -8,3 +8,7 @@ This page is dedicated to all tools that are not related to any kind of social n
 
 * Checks a vast collection of social networks and online fora for the existence of a specific username
 * Not yet tested
+
+## [OSINT Name Checker List](https://github.com/soxoj/osint-namecheckers-list)
+
+* a curated list of name checkers like Sherlock

@@ -39,6 +39,7 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 | [tweepy](https://www.tweepy.org/)                                   | V1      | 2/2/2021    | Python   | Python Module       | Programming needed    |
 | [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1      | Not Tested  | R        | R Module            | Programming needed    |
 | [twitter-explorer](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md) | V1      | Not Tested  | Python        | GUI            | No Programming needed    |
+| [cta-tool](https://github.com/leo-fgz/cta-tool) | V2/Academic      | 13/12/2021  | Python        | Python Module            | programming needed, collecting and counting conversations, MongoDB    |
 
 </div>
 

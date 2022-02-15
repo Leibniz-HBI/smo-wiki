@@ -46,6 +46,15 @@ It comprises
 * 216 million shares,
 * 177 million comments.
 
+
+### Event-centric data sets
+
+In a cooperation with NDR Data data sets focusing on wide spread media topics in Germany in 2021 have been collected. Details and data sets are available upon request.
+
+* #LukeMockridge, 36,919 tweet ids
+* #nemielhassam, 70,716 tweet ids
+* #gilofarim, 163,450 tweet ids
+
 ### Mediacloud
 
 [TODO]

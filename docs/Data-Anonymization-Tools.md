@@ -2,7 +2,7 @@
 
 # Data Anonymization Tools
 
-Personal data in the wrong hands can jeopardize the security of individuals. To protect personal data we anonymize or pseudonymize it. Data anonymization is a process of altering identifiable data such as name, gender, age, or other personal information by replacing it with sets of data that make it nearly impossible for every actor to trace the data back to their original owners. Pseudonymization makes this nearly impossible only for unauthorized actors.
+Personal data in the wrong hands can endanger the security of individuals. To protect personal data we anonymize or pseudonymize it. Data anonymization is a process of altering identifiable data such as name, gender, age, or other personal information by replacing it with sets of data that make it nearly impossible for every actor to trace the data back to their original owners. Pseudonymization makes this nearly impossible only for unauthorized actors.
 A good data anonymizer/pseudonymizer should fulfill certain requirements. Here we collect mainly open-source anonymizers/pseudonymizer. Also, we prioritize tools which require only little programming skill and/or have a GUI or interactive dashboard. Additionally, most researchers we address have to use GDPR compliant tools.
 
 ## [ARX ](https://arx.deidentifier.org/)

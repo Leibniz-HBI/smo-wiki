@@ -1,5 +1,7 @@
 # Secure Storage and Archiving
 
+# About
+
 We recommend encrypted storage for all remotely stored data. If possible, for security, sustainability, and accessibility reasons, we recommend to use encryption software that is
 
 * open source,
@@ -23,11 +25,11 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 
 ***
 
-## Device Encryption
+# Device Encryption
 
 All devices that deal with personal data (which most social media data is) and might be located in unsecured areas (e.g. mobile phones and laptops, but also desktop computers in most office settings) should be encrypted per default. All modern operating systems offer the functionality of seamless encryption of all data on the device. Please refer to your operating system's instructions on how to make sure, this is activated.
 
-## Encrypted File Synchronisation
+# Encrypted File Synchronisation
 
 ### Cryptomator
 
@@ -37,15 +39,15 @@ All devices that deal with personal data (which most social media data is) and m
 
 [Keybase](https://keybase.io) is an end-to-end encrypted team-chat client that additionally offers 250 GB of end-to-end encrypted storage. Please not however, that it has been bought by Zoom in 2020, so the project's future is uncertain at the moment.
 
-## Encrypted (Remote) Backups
+# Encrypted (Remote) Backups
 
 If your data holding devices are encrypted, you have to spend more time on backups, as in case of hardware failure data will be most likely impossible to retrieve.
 
 Please be aware that live-backups of database systems are a tricky issue. Usually the backups get corrupted when backing up a running database. Either backup regular dumps of the database or refer to the documentation of the respective database whether and how live-backups are possible.
 
-### POSIX (Linux, MacOS)
+## POSIX (Linux, MacOS)
 
-#### Borg Backup / Vorta
+### Borg Backup / Vorta
 
 [Borg](https://borgbackup.readthedocs.io/en/stable/index.html) is a command line tool for POSIX systems to create automated, recurring, deduplicated/incremental, compressed and encrypted (remote) backups of selected folders (contrasting to full disk backups).
 
@@ -53,13 +55,13 @@ Please be aware that live-backups of database systems are a tricky issue. Usuall
 
 Both can backup to local or remote storage.
 
-### Windows
+## Windows
 
-#### Duplicati
+### Duplicati
 
 As Borg/Vorta cannot natively run on Windows systems, we would recommend to use [Duplicati](https://www.duplicati.com/) which offers the same functionality. It is also installable on POSIX systems, however it requires to install the mono framework beforehand (a .NET port for POSIX systems).
 
-## Credential Sharing
+# Credential Sharing
 
 Encrypted Storage (if its based on symmetric-key encryption) brings with it the complication of securely sharing those keys. We recommend using a KeeShare container with KeePassXC in your team, also for all other kinds of shared credentials.
 
@@ -68,6 +70,6 @@ Encrypted Storage (if its based on symmetric-key encryption) brings with it the 
 
 Note, that in general, however, it is recommended to use person-bound credentials whenever possible. They allow for more fine-grained access control, especially if someone leaves your organisation or if credentials have been accidentally exposed.
 
-## Further Reading
+# Further Reading
 
 [EFF Survaillance Self-Defense Security Scenario: Academic researcher](https://ssd.eff.org/en/playlist/academic-researcher)

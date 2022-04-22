@@ -3,10 +3,25 @@
 Over the course of the build up of the SMO we present a growing collection of useful (social) media datasets. These will comprise Open Access Datasets and Access on Request Datasets, both collected by ourselves as well as collections by other projects.
 
 ***
+## Table of contents
+- [Open Access](#open-access)
+   - [Datenbank öffentlicher Sprecher (DBÖS)/ Database of Public Speakers (DOPS)](#dbös)
+   - [Twitter Parliamentarian Databse]
+   - [POLUSA Dataset]
+- [Access on Request](#access-on-request)
+   - [German Twittersphere Core](#german-twitter)
+   - [useNews](#usenews)
+   - [Event-centric data sets](#event-centric-data-sets)
+      - #LukeMockridge
+      - #nemielhassam
+      - #gilofarim
+   - [Mediacloud]
+- [Roadmap for SMO provided datasets](#roadmap-for-smo-provided-datasets)
+- [Datasets provided by external resources](#datasets-provided-by-external-resources)
 
 ## Open Access
 
-### Datenbank öffentlicher Sprecher (DBÖS) / Database of Public Speakers (DOPS) [planned]
+### <a name="dbös"></a>Datenbank öffentlicher Sprecher (DBÖS) / Database of Public Speakers (DOPS) [planned]
 
 The [Leibniz Institute for Media Research](https://leibniz-hbi.de) works at the moment on a collection of public speakers as defined by pre-defined criterions, such as being member of a parliamentary body, press organisation, professional sports team, or another institution of public interest.
 
@@ -15,10 +30,10 @@ This collection will comprise general publicly available information about these
 We hope that it is possible to make this dataset open access and open it up to contributions on a data repository.
 
 ### Twitter Parliamentarian Database
-
+[Text and Link missing]
 
 ### POLUSA Dataset
-
+[Text and Link missing]
 
 ## Access on Request
 
@@ -26,7 +41,7 @@ We plan to make certain datasets available on request or in form of collaboratio
 
 While we a working on a formal request procedure, please contact us [via email](mailto:smo@leibniz-hbi.de) if you are interested in one of the datasets in the meantime.
 
-### German Twittersphere Core [available] (GETCORE)
+### <a name="german-twitter"></a>German Twittersphere Core [available] (GETCORE)
 
 This dataset comprises a sparsified sample of the German-speaking Twitter follow network. It was collected via an adaption of a graph sampling method that aims to prioritise the most central nodes in a network ([https://github.com/flxvctr/RADICES](https://github.com/flxvctr/RADICES)).
 

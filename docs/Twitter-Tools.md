@@ -1,5 +1,7 @@
 # Twitter Tools
 
+# Twitter Tool List
+
 This list provides an overview of useful data collection tools that can be used for research on Twitter. If you face problems or issues with one of the applications on the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.
 
 ## Table of contents
@@ -16,13 +18,13 @@ This list provides an overview of useful data collection tools that can be used 
     + [Hydrator](#hydrator)
     + [Single Twitter ID Lookup webtools](#single-twitter-id-lookup-webtools)
 
-## Overview
+# Overview
 
 Most of these Twitter tools connect to official Twitter APIs and therefore need an API key from Twitter. You can retrieve an API key from Twitter easily, just follow the [documentation](https://developer.twitter.com/en/docs). You are bound to the restrictions given by Twitter. You can read about the rate limits [here](https://developer.twitter.com/en/docs/basics/rate-limits). Version 2 of the API will be more restrictive (at least it looks like that at time of writing). As an academic, you can apply for access to the new academic track ([Twitter Academic API Track Application](Twitter-Academic-API-Track-Application)) though to elevate your access levels to 10 million tweets per month and access to the 'historic' archive, i.e., tweets older than 7 days.
 
 Some of the tools are scrapers, which do not use the official APIs. Please be aware that the use of these tools might violate Twitter's [Terms of Service](https://twitter.com/de/tos). Despite being public, Twitter data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and ethical guidelines that apply to your research **before** starting your data collection.
 
-### Data collectors
+# Useful scrapers 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-03vqj3x.png) -->
 
 <div style="overflow-x: scroll" markdown="1">
@@ -43,9 +45,9 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 
 </div>
 
-### Tools with extended analysis/refinement capabilities and/or dashboards
+# Tools with extended analysis/refinement capabilities and/or dashboards
 
-#### [DMI-TCAT](https://wiki.digitalmethods.net/Dmi/ToolDmiTcat)
+### [DMI-TCAT](https://wiki.digitalmethods.net/Dmi/ToolDmiTcat)
 
 The Digital Methods Initiative Twitter Capture and Analysis Toolset [DMI-TCAT] is a set of tools to retrieve and collect tweets from Twitter and to analyze them in various ways. It is written mostly in PHP and runs in a webserver (LAMP) environment.
 
@@ -55,7 +57,7 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 
 [Installation Instructions](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide)
 
-#### [SMO-TMAS](https://github.com/Leibniz-HBI/SMO-TMAS)
+### [SMO-TMAS](https://github.com/Leibniz-HBI/SMO-TMAS)
 
 > SMO-TMAS allows users to pull tweets of specified Twitter handles and tweets containing specified keywords by querying Twitter's REST API GET search/tweets endpoint and statuses/user_timeline endpoint as well as Twitter's STREAM API. The collected tweets can be downloaded as .csv file and SMO-TMAS also provides data analysis components that can be used to analyze and visualize the collected data right away.
 
@@ -75,7 +77,7 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 
 [Access](https://jason-young.shinyapps.io/twitter-analysis)
 
-#### [TAGS](tags.hawksey.info)
+### [TAGS](tags.hawksey.info)
 
 > TAGS is a free Google Sheet template which lets you setup and run automated collection of search results from Twitter.
 
@@ -93,7 +95,7 @@ The big plus of DMI-TCAT is that it is organized around a MySQL database, which 
 
 [Support forum for beginners and advanced users](https://tags.hawksey.info/forums/)
 
-#### [Twitter Explorer](https://twitterexplorer.org/index.html)
+### [Twitter Explorer](https://twitterexplorer.org/index.html)
 
 > Twitter explorer is an openly accessible interface that can collect, transform and visualize Twitter data.
 It can create a complex network without prior programming skills. twitter explorer consists of mainly three parts which are collector, visualizer, and explorer.
@@ -132,7 +134,7 @@ streamlit run collector.py
 ```
 [Documentation and Usage](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md)
 
-#### [VOSONDash](https://github.com/vosonlab/VOSONDash)
+### [VOSONDash](https://github.com/vosonlab/VOSONDash)
 
 > VOSONDash is an interactive R Shiny web application for the visualisation and analysis of social network data. The app has a dashboard layout with sections for visualising and manipulating network graphs, performing text analysis, displaying network metrics and the collection of network data using the vosonSML R package.
 
@@ -152,9 +154,9 @@ streamlit run collector.py
 
 [Installation and Usage](https://vosonlab.github.io/VOSONDash/)
 
-### Helpers
+# Helpers
 
-#### [Hydrator](https://github.com/DocNow/hydrator)
+### [Hydrator](https://github.com/DocNow/hydrator)
 
 > Hydrator is an Electron based desktop application for hydrating Twitter ID datasets. Twitter's Terms of Service do not allow the full JSON for datasets of tweets to be distributed to third parties. However they do allow datasets of tweet IDs to be shared. Hydrator helps you turn these tweet IDs back into JSON and also CSV from the comfort of your desktop.
 
@@ -168,7 +170,7 @@ streamlit run collector.py
 
 [Documentation and Usage](https://github.com/DocNow/hydrator/blob/master/README.md)
 
-#### Single Twitter ID Lookup webtools
+### Single Twitter ID Lookup webtools
 
 * [https://www.codeofaninja.com/tools/find-twitter-id/](https://www.codeofaninja.com/tools/find-twitter-id/)
 * [https://tweeterid.com/](https://tweeterid.com/)

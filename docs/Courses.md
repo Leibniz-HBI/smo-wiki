@@ -2,7 +2,11 @@
 
 Here we curate a collection of skill-building courses that we can recommend.
 
-## Data Analysis with Python, R, or SQL
+## Table of contents
+- [Data Analysis with Python, R or SQL](#data-analysis)
+- [Twitter API](#twitter-api)
+
+## <a name="data-analysis"></a>Data Analysis with Python, R or SQL
 
 One of the first major decisions to make when getting into data analysis is about which language to choose. This [infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) by Datacamp provides a helpful overview about R and Python and might be a good starting point to inform yourself. 
 

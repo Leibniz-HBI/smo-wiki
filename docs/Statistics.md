@@ -4,7 +4,27 @@
 
 One of the first major decisions to make when getting into data analysis is about which language to choose. Python and R are the widely used programming languages in the field of statistics and data science and both are great choices. Below you will find some condensed information about their application for statistics. However, you also might want to have a look at this [infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) by Datacamp, as it provides some helpful general guidance about both languages and might be a good starting point to inform yourself.
 
-## R for statistics
+## Table of contents
+- [R or Python](#r-or-python)
+- Table of contents
+- [R for statistics](#r-for-statistics)
+   - [Usability](#usability)
+   - [Advantages](#advantages)
+   - [Disadvantages](#disadvantages)
+   - [Popular libraries](#popular-libraries)
+   - [IDE](#IDE)
+   - [Ecosystem](#ecosystem)
+   - [Communities](#communities)
+- [Python + pandas](#p_pandas)
+   - [Usability](#p_usability)
+   - [Advantages](#p_advantages)
+   - [Disadvantages](#p_disadvantages)
+   - [Popular libraries](#p_libraries)
+   - [IDE](#p_ide)
+   - [Ecosystem](#p_ecosystem)
+   - [Communities](#p_communities)
+
+# R for statistics
 
 R was initially used mostly in academia and is nowadays popular among social science scholars, statisticians, engineers, and scientists without strong computer programming skills. It is great for exploratory data analysis and all kinds of statistical tests and models can easily be implemented.
 
@@ -50,28 +70,28 @@ Writing code can be a messy task and to get some support on this, programmers re
 - [Reddit rstats](https://www.reddit.com/r/rstats/)
 - [r-help](https://www.r-project.org/mail.html)
 
-## Python + pandas
+# <a id="p_pandas"></a>Python + pandas
 
 Python is used by programmers who dealt with data analysis, statistical techniques, or by developers. Python can be used as a single tool that can be integrated with every part of your workflow. Python is really flexible for beginners to build anything that was never built before.
 
-### Usability
+### <a id="p_usability"></a>Usability
 
 - Coding debugging easy due to simple syntax
 - People who come from a computer science background may find python more naturally than R
 - Indentation easily reflects by the code meaning
 
-### Advantages
+### <a id="p_advantages"></a>Advantages
 
 - General-purpose programming language which can be used strongly in data analysis
 - Popular among the users for its code readability
 - Great for math and statistical computation
 
-### Disadvantages
+### <a id="p_disadvantages"></a>Disadvantages
 
 - Doesn’t have as many libraries dedicated to data science as R
 - Default visualization results are often not as eye-pleasing compared to R
 
-### Popular libraries
+### <a id="p_libraries"></a>Popular libraries
 
 - Handling data: [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 - Computational scientific purpose: [SciPy](https://docs.scipy.org/doc/scipy/reference/) and [NumPy](https://numpy.org/doc/)
@@ -80,18 +100,18 @@ Python is used by programmers who dealt with data analysis, statistical techniqu
 - Statistical test and unit test:[Statsmodels](https://www.statsmodels.org/stable/index.html)
 - NLP and Text analysis: [NlTK](https://www.nltk.org/), [spaCy](https://spacy.io/), [TextBlop](https://textblob.readthedocs.io/en/dev/)
 
-### IDE
+### <a id="p_ide"></a>IDE
 
 Similar to RStudio for R, also python has some IDEs which can support your workflow and are especially useful for beginners. Examples of more popular IDEs for python are jupyter notebooks, spyder, vs code
 
-### Ecosystems
+### <a id="p_ecosystems"></a>Ecosystems
 
 - Python code is clear and easy to interpret
 - Good with data science, machine learning which is also integrated with web frameworks
 - Python package index PyPi and anaconda are repositories of python software with all libraries.
 Where user can also contribute
 
-### Communities
+### <a id="p_communities"></a>Communities
 
 - [Stack overflow](https://stackoverflow.com/tags/python/info)
 - [Reddit Python](https://www.reddit.com/r/Python/)

@@ -40,6 +40,10 @@ Creating red links to not-yet-existing pages in a text is a good way to mark TO 
 1. In the wiki click "New Page" (somewhere in the upper-right corner)
 2. When the page is created and finished you can link to it from other pages via a simple link, e.g. in the Markdown editor like this: `Here is the [new page]]`. This will result in a link to the [[new page](new-page]]`.-This-will-result-in-a-link-to-the-[[new-page).
 
+## Template
+
+You can use this [article template](article-template) to structure your wiki article. 
+
 # Export articles
 
 1. Clone the wiki as a repository with the link provided on the right (e.g. with the Github Desktop Client)

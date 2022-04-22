@@ -4,7 +4,15 @@
 
 This is an opinionated guide for a science-oriented development setup on Windows 10.
 
-## Windows Subsystem for Linux (WSL)
+## Table of contents
+- [Windows Subsystem for Linux (WSL)](#wsl)
+- [Pipenv (Pragmatic Installation)](#pipenv)
+- [Visual Studio Code](#visual-studio-code)
+- [Jupyter Lab](#jupyter-lab)
+- [Miniconda (optional)](#miniconda)
+- [Docker (optional)](#docker)
+
+## <a name="wsl"></a>Windows Subsystem for Linux (WSL)
 
 The Windows Linux subsystem allows for taking advantage of some of the open-source-based development ease of the Linux World while staying in the Windows world. This will give you a CLI for Ubuntu only, however. If you want to get the full graphical desktop experience, we recommend to install Ubuntu, or one of its derivatives (Xubunut, Mint, etc.) as a dual-boot-system.
 
@@ -14,7 +22,7 @@ To get your Linux-based setup in Windows 10, follow these steps:
 * [Install Ubuntu in WSL](https://docs.microsoft.com/de-de/windows/wsl/install-win10#step-6---install-your-linux-distribution-of-choice)
 * Start, update and upgrade Ubuntu: `sudo apt update`, 'sudo apt upgrade'
 
-## Pipenv (Pragmatic Installation)
+## <a name="pipenv"></a>Pipenv (Pragmatic Installation)
 
 Pipenv allows you to separate and reproducibly document the Python environments you are working in for different projects.
 
@@ -48,14 +56,14 @@ Here is a short guide on best practices for getting and working with it:
 
 [How to work in Jupyter Lab](How-to-work-in-Jupyter-Lab)
 
-## Miniconda (optional)
+## <a name="miniconda"></a>Miniconda (optional)
 Install Miniconda, an alternative to pipenv that is sometimes preferable, depending on your projects dependencies.
 * [Install Miniconda within Ubuntu](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 * run `conda config --set auto_activate_base false` so that conda does not automatically activate (and messes up environments that you might have created in pipenv or similar)
 * [Create a conda env](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-environments) to get a python virtual environment
 
 
-## Docker (optional)
+## <a name="docker"></a>Docker (optional)
 
 Docker allows to virtualise whole operating systems, which makes it suitable for the development of larger software projects that are meant to be reproducibly deployed in a server environment and encompass several pieces of software (e.g. data collection tools, databases, and data analysis tools) requiring complex, entangled setups.
 

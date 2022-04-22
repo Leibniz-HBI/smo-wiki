@@ -6,11 +6,11 @@
 Welcome to the Facebook Tools. 
 This list aims to provide a overview of all useful Tools that can be used for research on Facebook. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
 
-## Overview
+# Overview
 
 Many of these Facebook tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of Facebook. Despite being public, Facebook data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
 
-### Useful Scrapers
+# Useful Scrapers
 
 <!--- ![Overview](/image/facebook.png) -->
 
@@ -38,7 +38,7 @@ Many of these Facebook tools are so called scrapers that work without an officia
 * _Posts_ and _Hashtags_: In general the function to scrape posts and seek posts for a certain hashtag. 
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
-## Description
+# Description
 [**1. Facepager**](https://github.com/strohne/Facepager/wiki)
 
 > APIs are provided by platform operators – e.g. Facebook or Twitter. They can be requested and return data in a structured format. Webscraping can be used to extract information from the HTML source code from websites. Downloading files can be useful when the required data is a resource such as an image.

@@ -1,12 +1,14 @@
 # Instagram Tools
 
+# Instagram Tool List
+
 This list provides an overview of useful tools that can be used for research on Instagram. If you face problems or issues with one of the applications on the list feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.
 
-## Overview
+# Overview
 
 Many of these Instagram tools are so called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the [Terms of Use](https://help.instagram.com/581066165581870) of Instagram. Despite being public, Instagram data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research **before** starting your data collection.
 
-### Useful Scrapers
+# Useful Scrapers
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2020-02hljxy.png) -->
 
@@ -42,11 +44,13 @@ Many of these Instagram tools are so called scrapers that work without an offici
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
 
-## Descriptions
 
-### [1. Instaloader](https://instaloader.github.io/)<br>
+# Descriptions
 
-> Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.
+### [Instaloader](https://instaloader.github.io/)<br>
+
+<details markdown=block>
+<summary markdown=span>Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram...</summary>
 
 **Notable Features:**
 
@@ -57,12 +61,13 @@ Many of these Instagram tools are so called scrapers that work without an offici
 
 [Documentation and Usage](https://instaloader.github.io/)<br>
 [Download and Installation Instructions](https://github.com/instaloader/instaloader)
-<br>
+</details>
 
-### [2. Instagram Scraper](https://github.com/rarcega/instagram-scraper)<br>
+### [Instagram Scraper](https://github.com/rarcega/instagram-scraper)<br>
+<details>
+<summary>Instagram-scraper is a command-line application written in Python that scrapes and downloads 
+instagram photos and videos...</summary><br>
 
-> instagram-scraper is a command-line application written in Python that scrapes and downloads 
-instagram photos and videos. Use responsibly.
 
 **Notable Features:**
 
@@ -71,10 +76,15 @@ instagram photos and videos. Use responsibly.
 **Installation via:** pip 
 
 [Documentation and Usage, Download and Installation Instructions](https://github.com/rarcega/instagram-scraper)
+<br>
+</details>
 
-### [3. Instaphyte](https://github.com/ScriptSmith/instaphyte)
 
-> Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations. For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended.
+### [Instaphyte](https://github.com/ScriptSmith/instaphyte)<br>
+<details>
+<summary>Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations...</summary><br>
+
+* For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended
 
 **Known Issues and Limitations**
 * You can only search by hashtag and location.
@@ -83,19 +93,26 @@ instagram photos and videos. Use responsibly.
 
 [Documentation and Usage, Download and Installation Instructions](https://github.com/ScriptSmith/instaphyte)
 <br>
+</details>
 
-### [4. Instalooter](https://github.com/althonos/InstaLooter)
+### [Instalooter](https://github.com/althonos/InstaLooter)<br>
+<details>
+<summary>InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access...</summary><br>
 
-> InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access. It can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
+* Instalooter can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
 
 [Documentation and Usage](https://instalooter.readthedocs.io/en/latest/usage.html)<br>
 [Download and Installation Instructions](https://github.com/althonos/InstaLooter)
 
 **Installation via:** pip
+<br>
+</details>
 
-### [5. Instagram Private API](https://github.com/ping/instagram_private_api)
 
-> A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode.
+### [Instagram Private API](https://github.com/ping/instagram_private_api)<br>
+<details>
+<summary>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary><br>
+
 **Please note, that this application needs a API-Key from Instagram. This is not easy to accomplish. If you have one, this tool is very powerful.**
 
 **Known Issues and Limitations:**
@@ -108,10 +125,13 @@ instagram photos and videos. Use responsibly.
 
 [Documentation and Usage](https://instagram-private-api.readthedocs.io/en/latest/)<br>
 [Download and Installation Instructions](https://github.com/ping/instagram_private_api)
+<br>
+</details>
 
-### [6. Instamancer](https://adamsm.com/instamancer/)<br>
 
-> Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore. 
+### [Instamancer](https://adamsm.com/instamancer/)<br>
+<details>
+<summary>Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore...</summary><br>
 
 **Notable Features:**
 
@@ -123,10 +143,15 @@ instagram photos and videos. Use responsibly.
 
 [Documentation and Usage](https://adamsm.com/instamancer/)<br>
 [Download and Installation Instructions](https://github.com/ScriptSmith/instamancer)
+<br>
+</details>
 
-###  [7. Reaper](https://reaper.social/)<br>
 
-> Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge. It has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
+### [Reaper](https://reaper.social/)<br>
+<details>
+<summary>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary><br>
+
+* Reaper has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
 
 **Notable Features:**
 
@@ -141,6 +166,11 @@ instagram photos and videos. Use responsibly.
 * To use this software user must need to have a developer account for the social media in order to get API keys
 * Facebook has more scraping options than other social media.
 * since it is using normal developer API, it has a common API rate limit.
+<br>
+</details>
+
+
+<br>
 
 **Last tested:** 
 

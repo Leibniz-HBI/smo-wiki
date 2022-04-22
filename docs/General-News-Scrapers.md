@@ -1,9 +1,10 @@
 # General News Scrapers
 
+# About
 Welcome to the General News Scrapers page.  
 This site aims to provide an overview of all useful tools that can be used to research on different Newssites f.e. NYT, SPON, Guardian, and others. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
 
-### Useful News Scrapers
+# Useful Scrapers
 
 <!-- ![Overview](https://abload.de/img/bildschirmfoto2019-11jwkyf.png) -->
 
@@ -29,7 +30,7 @@ This site aims to provide an overview of all useful tools that can be used to re
 * _Date_: gets date (and Time) 
 * _language_: Try to find out what language the article is written in
 
-## Description
+# Description
 
 [**1. News Please**](https://github.com/fhamborg/news-please)
 

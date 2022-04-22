@@ -1,8 +1,27 @@
 # Visualisation
 
+# About
+You have collected your data and now you want to visualize it? Here is a list of different visualisation tools for beginners and advanced users.
+
+## Table of contents
+- [About](#about)
+- Table of contents 
+- [Basic Visualisation Tools](#basic-visualisation-tools)
+   - [MS Excel/Libre Office/Google Sheets etc.](#msexcel)
+   - [Data Explore](#data-explore)
+   - [Tableau](#tableau)
+- [Advanced Visualisation Tools](#advanced-visualisation-tools)
+   - [Visualisation libraries](#visualisation-libraries)
+      - [R Graph Gallery](#r-graph-gallery)
+      - [Python Graph Gallery](#python-graph-gallery)
+   - [Dashboards](#dashboards)
+      - [Shiny](#shiny)
+      - [Dash](#dash)
+      - [Grafana](#grafana)
+
 # Basic Visualisation Tools
 
-## MS Excel/Libre Office/Google Sheets etc.
+## <a id="msexcel"></a>MS Excel/Libre Office/Google Sheets etc.
 
 [this needs some text]
 
@@ -19,7 +38,7 @@ Tableau is closed source and not cheap, so we do not use it currently ourselves.
 
 # Advanced Visualisation Tools
 
-## Visualization libraries
+## Visualisation libraries
 
 ### [R Graph Gallery](https://www.r-graph-gallery.com/ggplot2-package.html)
 

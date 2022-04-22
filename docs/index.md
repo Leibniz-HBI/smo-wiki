@@ -1,6 +1,9 @@
 # Welcome to the Social-Media-Observatory wiki!
 
-This wiki is the central knowledge and documentation base of the SMO. The bleeding-edge, editable version can be found [here](https://github.com/leibniz-hbi/Social-Media-Observatory/wiki), the less frequently updated, but better reviewed, 'pretty' version waits [here](https://leibniz-hbi.github.io/smo-wiki/).
+Are you interested in research with social media data and are don't really know where to start, or are you already working with it and need help? 
+This wiki is the central knowledge and documentation base of the Social Media Observatory (SMO). It is aimed at providing you with an overview and guidelines on how to work responsibly with social media data in the most convenient way possible: From an overview of the options and tools for scraping, mining, and analyzing data on various social media platforms, to guidance and training on how to use them, to questions about ethics and the law, and more - we try to support your research process from start to finish.
+
+The bleeding-edge, editable version can be found [here](https://github.com/leibniz-hbi/Social-Media-Observatory/wiki), the less frequently updated, but better reviewed, 'pretty' version waits [here](https://leibniz-hbi.github.io/smo-wiki/).
 
 ## About Us
 

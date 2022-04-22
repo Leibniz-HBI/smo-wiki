@@ -23,7 +23,7 @@
 
 # Research Ethics and Law
 * [Helpful Resources](Helpful-Resources)
-* [SOCRATES Ethics Guide](https://leibniz-hbi.github.io/socrates/)
+* [SOCRATES Ethics Guide](SOCRATES-Ethics-Guide)
 
 # Knowledge Base
 
@@ -35,7 +35,7 @@
 
 # HowTos
 
-- [Shiny tutorial](https://github.com/Leibniz-HBI/SMO-TMAS/wiki)
+- [Shiny tutorial](Shiny-tutorial)
 - [Windows Linux Subsystem dev setup](Windows-Linux-Subsystem-dev-setup)
 - [macOS dev setup for Python](macOS-dev-setup-for-Python)
 - [How to work in Jupyter Lab](How-to-work-in-Jupyter-Lab)

@@ -5,12 +5,13 @@
 
 Welcome to the YouTube Tools. 
 This list aims to provide an overview of all useful tools that can be used for research on YouTube. If you face problems or issues with one of the apps within the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) on our repo. It helps us to maintain this list. 
-## Overview
+
+# Overview
 
 All of the following tools have the ability to search for a certain username, hashtag, location, or post and collect associated data from YouTube. All tools download the associated media (i.e. pictures and videos), comments, and related hashtags. The list below is sorted in an opinionated way in the order of what we would recommend first.
 Most of these YouTube tools are so-called scrapers that work without an official API Key. Please be aware that the use of these tools might violate the Terms of Use of YouTube. Despite being public, YouTube data can be very personal. Ensure to inform yourself thoroughly in order to follow data protection laws and other ethical guidelines that apply to your research before starting your data collection.
 
-Useful Scrapers : 
+# Useful Scrapers  
 
 <div style="overflow-x: scroll" markdown="1">
 
@@ -37,7 +38,7 @@ Useful Scrapers :
 * _Posts_ and _Hashtags_: In general the function to scrape posts and seek posts for a certain hashtag. 
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
-## Description
+# Description
 
 [**1. Facepager**](https://github.com/strohne/Facepager)
 > Windows- and MacOS-based application (no binary release for Linux), which collects publicly available data from JSON-based APIs.

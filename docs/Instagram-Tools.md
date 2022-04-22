@@ -52,6 +52,7 @@ Many of these Instagram tools are so called scrapers that work without an offici
 <details markdown=block>
 <summary markdown=span>Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram...</summary>
 
+
 **Notable Features:**
 
 * automatically detects profile name changes and renames the target directory accordingly
@@ -64,8 +65,9 @@ Many of these Instagram tools are so called scrapers that work without an offici
 </details>
 
 ### [Instagram Scraper](https://github.com/rarcega/instagram-scraper)<br>
-<details>
-<summary>Instagram-scraper is a command-line application written in Python that scrapes and downloads 
+
+<details markdown=block>
+<summary markdown=span>Instagram-scraper is a command-line application written in Python that scrapes and downloads 
 instagram photos and videos...</summary><br>
 
 
@@ -76,13 +78,13 @@ instagram photos and videos...</summary><br>
 **Installation via:** pip 
 
 [Documentation and Usage, Download and Installation Instructions](https://github.com/rarcega/instagram-scraper)
-<br>
 </details>
 
 
 ### [Instaphyte](https://github.com/ScriptSmith/instaphyte)<br>
-<details>
-<summary>Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations...</summary><br>
+
+<details markdown=block>
+<summary markdown=span>Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations...</summary><br>
 
 * For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended
 
@@ -96,8 +98,8 @@ instagram photos and videos...</summary><br>
 </details>
 
 ### [Instalooter](https://github.com/althonos/InstaLooter)<br>
-<details>
-<summary>InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access...</summary><br>
+<details markdown=block>
+<summary markdown=span>InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access...</summary><br>
 
 * Instalooter can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
 
@@ -110,8 +112,8 @@ instagram photos and videos...</summary><br>
 
 
 ### [Instagram Private API](https://github.com/ping/instagram_private_api)<br>
-<details>
-<summary>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary><br>
+<details markdown=block>
+<summary markdown=span>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary><br>
 
 **Please note, that this application needs a API-Key from Instagram. This is not easy to accomplish. If you have one, this tool is very powerful.**
 
@@ -130,8 +132,8 @@ instagram photos and videos...</summary><br>
 
 
 ### [Instamancer](https://adamsm.com/instamancer/)<br>
-<details>
-<summary>Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore...</summary><br>
+<details markdown=block>
+<summary markdown=span>Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore...</summary><br>
 
 **Notable Features:**
 
@@ -148,8 +150,8 @@ instagram photos and videos...</summary><br>
 
 
 ### [Reaper](https://reaper.social/)<br>
-<details>
-<summary>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary><br>
+<details markdown=block>
+<summary markdown=span>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary><br>
 
 * Reaper has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
 
@@ -175,8 +177,6 @@ instagram photos and videos...</summary><br>
 **Last tested:** 
 
 10/05/2021(Instagram)
-
-#
 
 There are even more tools out there and we keep gathering more. You can check out our [Google Doc](https://docs.google.com/spreadsheets/d/1vZ6jOWoxcyockeNMDE5wbEcx_kSoSmkIqJ8olKyJfq0/edit?usp=sharing) for applications that you won't find in this list.
 

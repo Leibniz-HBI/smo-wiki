@@ -1,6 +1,6 @@
 # Data preparation and cleaning
 
-## Recommended Tools
+# Recommended Tools
 
 - [Open-Refine](https://openrefine.org/)
 - [Python Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)

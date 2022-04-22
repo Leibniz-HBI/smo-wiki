@@ -44,32 +44,34 @@ Many of these Instagram tools are so called scrapers that work without an offici
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
 
-
 # Descriptions
 
-### [Instaloader](https://instaloader.github.io/)<br>
+### [Instaloader](https://instaloader.github.io/)
 
 <details markdown=block>
-<summary markdown=span>Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram...</summary>
+<summary markdown=span>Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram...
+</summary>
 
-**Notable Features:**
+#### Notable Features:
 
 * automatically detects profile name changes and renames the target directory accordingly
 * allows fine-grained customization of filters and where to store downloaded media
 
 **Installation via:** pip
 
-[Documentation and Usage](https://instaloader.github.io/)<br>
+[Documentation and Usage](https://instaloader.github.io/)
+
 [Download and Installation Instructions](https://github.com/instaloader/instaloader)
 </details>
 
-### [Instagram Scraper](https://github.com/rarcega/instagram-scraper)<br>
+
+### [Instagram Scraper](https://github.com/rarcega/instagram-scraper)
 
 <details markdown=block>
 <summary markdown=span>Instagram-scraper is a command-line application written in Python that scrapes and downloads 
-instagram photos and videos...</summary><br>
+instagram photos and videos...</summary>
 
-**Notable Features:**
+#### Notable Features:
 
 * Simple Media Scraper. You can scrape media by searching a hashtag, location or username. It will download the metadata alongside. 
 
@@ -78,62 +80,66 @@ instagram photos and videos...</summary><br>
 [Documentation and Usage, Download and Installation Instructions](https://github.com/rarcega/instagram-scraper)
 </details>
 
-<br>
-### [Instaphyte](https://github.com/ScriptSmith/instaphyte)<br>
+
+### [Instaphyte](https://github.com/ScriptSmith/instaphyte)
 
 <details markdown=block>
-<summary markdown=span>Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations...</summary><br>
+<summary markdown=span>Fast and simple Instagram hashtag scraper. Instaphyte was developed as a fast and simple alternative to the Instamancer (same developer). Instaphyte can be used for exploratory analysis of hashtags and locations...</summary>
+
+#### Known Issues and Limitations:
 
 * For a more powerful scraper [Instamancer](https://adamsm.com/instamancer/) is recommended
-
-**Known Issues and Limitations**
 * You can only search by hashtag and location.
 
 **Installation via:** pip
 
 [Documentation and Usage, Download and Installation Instructions](https://github.com/ScriptSmith/instaphyte)
-<br>
+
 </details>
 
-### [Instalooter](https://github.com/althonos/InstaLooter)<br>
+
+### [Instalooter](https://github.com/althonos/InstaLooter)
+
 <details markdown=block>
-<summary markdown=span>InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access...</summary><br>
+<summary markdown=span>InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access...</summary>
 
-* Instalooter can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
+Instalooter can be seen as a re-implementation of the now deprecated InstaRaider developed by @akurtovic.
 
-[Documentation and Usage](https://instalooter.readthedocs.io/en/latest/usage.html)<br>
+[Documentation and Usage](https://instalooter.readthedocs.io/en/latest/usage.html)
+
 [Download and Installation Instructions](https://github.com/althonos/InstaLooter)
 
 **Installation via:** pip
-<br>
 </details>
 
-### [Instagram Private API](https://github.com/ping/instagram_private_api)<br>
+
+### [Instagram Private API](https://github.com/ping/instagram_private_api)
+
 <details markdown=block>
-<summary markdown=span>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary><br>
+<summary markdown=span>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary>
 
-**Please note, that this application needs a API-Key from Instagram. This is not easy to accomplish. If you have one, this tool is very powerful.**
+#### Known Issues and Limitations:
 
-**Known Issues and Limitations:**
 * The Instagram Private API only functions with [Business API access to Instagram](https://www.instagram.com/developer/), that is unlikely to be granted to academic researchers. 
 
-**Notable Features:**
+#### Notable Features:
+
 * If you have a API Key from Instagram, you have only few restrictions regarding what and how much you can scrape. You can check the requirements and how to request one on the [Instagram developers page](https://www.instagram.com/developer/)
 
 **Installation via:** pip
 
-[Documentation and Usage](https://instagram-private-api.readthedocs.io/en/latest/)<br>
+[Documentation and Usage](https://instagram-private-api.readthedocs.io/en/latest/)
+
 [Download and Installation Instructions](https://github.com/ping/instagram_private_api)
-<br>
 </details>
 
-<br>
 
-### [Instamancer](https://adamsm.com/instamancer/)<br>
+### [Instamancer](https://adamsm.com/instamancer/)
+
 <details markdown=block>
-<summary markdown=span>Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore...</summary><br>
+<summary markdown=span>Instamancer is a scraping tool used in Instagram data mining and analysis projects. However, this tool is not maintained anymore...</summary>
 
-**Notable Features:**
+#### Notable Features:
 
 * Stream files to [depot](https://github.com/ScriptSmith/depot)  
 * creates timestamps (time of collection)
@@ -141,19 +147,21 @@ instagram photos and videos...</summary><br>
 
 **Installation via:** npm, npx
 
-[Documentation and Usage](https://adamsm.com/instamancer/)<br>
+[Documentation and Usage](https://adamsm.com/instamancer/)
+
 [Download and Installation Instructions](https://github.com/ScriptSmith/instamancer)
-<br>
+
 </details>
 
 
-### [Reaper](https://reaper.social/)<br>
+### [Reaper](https://reaper.social/)
+
 <details markdown=block>
-<summary markdown=span>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary><br>
+<summary markdown=span>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary>
 
-* Reaper has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
+Reaper has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
 
-**Notable Features:**
+#### Notable Features:
 
 * Supports Facebook,  Twitter, Reddit, Youtube, Tumblr, and Pinterest
 * Support both in macOS and Windows
@@ -161,16 +169,14 @@ instagram photos and videos...</summary><br>
 * Own user interface 
 * Good [documentation](https://reaper.social/guide.html) 
 
-**Limitation:** 
+#### Limitations:
 
 * To use this software user must need to have a developer account for the social media in order to get API keys
 * Facebook has more scraping options than other social media.
 * since it is using normal developer API, it has a common API rate limit.
-<br>
+
 </details>
 
-
-<br>
 
 **Last tested:** 
 

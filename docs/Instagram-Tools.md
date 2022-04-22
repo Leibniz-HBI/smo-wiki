@@ -52,7 +52,6 @@ Many of these Instagram tools are so called scrapers that work without an offici
 <details markdown=block>
 <summary markdown=span>Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram...</summary>
 
-
 **Notable Features:**
 
 * automatically detects profile name changes and renames the target directory accordingly
@@ -70,7 +69,6 @@ Many of these Instagram tools are so called scrapers that work without an offici
 <summary markdown=span>Instagram-scraper is a command-line application written in Python that scrapes and downloads 
 instagram photos and videos...</summary><br>
 
-
 **Notable Features:**
 
 * Simple Media Scraper. You can scrape media by searching a hashtag, location or username. It will download the metadata alongside. 
@@ -80,7 +78,7 @@ instagram photos and videos...</summary><br>
 [Documentation and Usage, Download and Installation Instructions](https://github.com/rarcega/instagram-scraper)
 </details>
 
-
+<br>
 ### [Instaphyte](https://github.com/ScriptSmith/instaphyte)<br>
 
 <details markdown=block>
@@ -110,7 +108,6 @@ instagram photos and videos...</summary><br>
 <br>
 </details>
 
-
 ### [Instagram Private API](https://github.com/ping/instagram_private_api)<br>
 <details markdown=block>
 <summary markdown=span>A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs. Hasthags, locations, users and posts can be downloaded. Access to private feeds possible, but no batch mode...</summary><br>
@@ -130,6 +127,7 @@ instagram photos and videos...</summary><br>
 <br>
 </details>
 
+<br>
 
 ### [Instamancer](https://adamsm.com/instamancer/)<br>
 <details markdown=block>

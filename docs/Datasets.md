@@ -6,8 +6,10 @@ Over the course of the build up of the SMO we present a growing collection of us
 ## Table of contents
 - [Open Access](#open-access)
    - [Datenbank öffentlicher Sprecher (DBÖS)/ Database of Public Speakers (DOPS)](#dbös)
-   - [Twitter Parliamentarian Databse]
+   - [Twitter Parliamentarian Database]
    - [POLUSA Dataset]
+   - [Ukraine Dataset](#ukraine-dataset)
+
 - [Access on Request](#access-on-request)
    - [German Twittersphere Core](#german-twitter)
    - [useNews](#usenews)
@@ -34,6 +36,9 @@ We hope that it is possible to make this dataset open access and open it up to c
 
 ### POLUSA Dataset
 [Text and Link missing]
+
+### Ukraine Dataset
+Twitter (and maybe later other social media) data around the Ukraine Invasion in February 2022. Data reaches back until February 1st and will be updated daily. ([https://github.com/Leibniz-HBI/ukraine_data](https://github.com/Leibniz-HBI/ukraine_data))
 
 ## Access on Request
 

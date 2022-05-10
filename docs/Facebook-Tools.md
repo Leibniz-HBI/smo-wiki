@@ -39,9 +39,10 @@ Many of these Facebook tools are so called scrapers that work without an officia
 * _MetaData_: Includes all data other than the actual posts, user-info, media or followers. This includes location and user-ID, which is crucial to maintain a database.
 
 # Description
-[**1. Facepager**](https://github.com/strohne/Facepager/wiki)
-
-> APIs are provided by platform operators – e.g. Facebook or Twitter. They can be requested and return data in a structured format. Webscraping can be used to extract information from the HTML source code from websites. Downloading files can be useful when the required data is a resource such as an image.
+### [Facepager](https://github.com/strohne/Facepager/wiki)
+<details markdown=block>
+<summary markdown=span>APIs are provided by platform operators – e.g. Facebook or Twitter. They can be requested and return data in a structured format. Webscraping can be used to extract information from the HTML source code from websites. Downloading files can be useful when the required data is a resource such as an image...
+</summary>
 
 **Notable Features:**
 
@@ -50,12 +51,15 @@ Many of these Facebook tools are so called scrapers that work without an officia
 * Downloading and uploading media Files.
 * Own user interface
 [Documentation and Usage](https://www.youtube.com/channel/UCiIbKv5b5rz-6LPTLQgVGug)
+</details>
 
-[**2.Facebook Scraper**](https://pypi.org/project/facebook-scraper/)
-
-> Scrape Facebook public pages without an API key. Inspired by twitter-scraper.
+### [Facebook Scraper](https://pypi.org/project/facebook-scraper/)
+<details markdown=block>
+<summary markdown=span>Scrape Facebook public pages without an API key. Inspired by twitter-scraper.
+</summary>
 
 **Notable Features:**
+
 * Simple Media Scraper. You can scrape media by searching a hashtag, location or username. It will download the metadata alongside. 
 
 Installalation
@@ -80,11 +84,12 @@ We’re headed to PAX East 3/28-3/31 with new games
 
 [Documentation and Usage](https://github.com/kevinzg/facebook-scraper)<br>
 [Download and Installation Instructions](https://github.com/kevinzg/facebook-scraper)
+</details>
 
-[**3. CrowdTangle**](https://www.crowdtangle.com/features)
-
-> CrowdTangle is one of the most powerful social media tracking tools available, giving you easy access to huge amounts of data and powerful analytics from Facebook.CrowdTangle tracks influential public accounts and groups across Facebook, Instagram, and Reddit, including all verified users, profiles, and accounts like politicians, journalists, media and publishers, celebrities, sports teams, public figures and more. CrowdTangle also can track 7 days of public Twitter data via CrowdTangle Search and our Chrome Extension. CrowdTangle does not track any private accounts.
-
+### [CrowdTangle](https://www.crowdtangle.com/features)
+<details markdown=block>
+<summary markdown=span>CrowdTangle is one of the most powerful social media tracking tools available, giving you easy access to huge amounts of data and powerful analytics from Facebook.CrowdTangle tracks influential public accounts and groups across Facebook, Instagram, and Reddit, including all verified users, profiles, and accounts like politicians, journalists, media and publishers, celebrities, sports teams, public figures and more. CrowdTangle also can track 7 days of public Twitter data via CrowdTangle Search and our Chrome Extension. CrowdTangle does not track any private accounts.
+</summary>
 
 CrowdTangle Used for:
 
@@ -123,5 +128,5 @@ CrowdTangle's core products:
 
 [Documentation and Usage](https://www.crowdtangle.com/resources)
 
-
+</details>
 

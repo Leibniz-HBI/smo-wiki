@@ -6,24 +6,22 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 
 * open source,
 * independently audited,
-* free to use for non-commercial purposes.
+* free to use for non-commercial purposes
 
-***
-
-**Table of Contents:**
-+ [Device Encryption](#device-encryption)
-+ [Encrypted File Synchronisation](#encrypted-file-synchronisation)
-  + [Cryptomator](#cryptomator)
-  + [Keybase](#keybase)
-+ [Encrypted (Remote) Backups](#encrypted-remote-backups)
-  + [POSIX (Linux, MacOS)](#posix-linux-macos)
-    + [Borg Backup / Vorta](#borg-backup--vorta)
-  + [Windows](#windows)
-    + [Duplicati](#duplicati)
-+ [Credential Sharing](#credential-sharing)
-+ [Further Reading](#further-reading)
-
-***
+## Table of Contents:
+- [About](#about)
+- Table of Contents
+- [Device Encryption](#device-encryption)
+- [Encrypted File Synchronisation](#encrypted-file-synchronisation)
+  - [Cryptomator](#cryptomator)
+  - [Keybase](#keybase)
+- [Encrypted (Remote) Backups](#encrypted-remote-backups)
+  - [POSIX (Linux, MacOS)](#posix-linux-macos)
+    - [Borg Backup / Vorta](#borg-backup)
+  - [Windows](#windows)
+    - [Duplicati](#duplicati)
+- [Credential Sharing](#credential-sharing)
+- [Further Reading](#further-reading)
 
 # Device Encryption
 
@@ -31,13 +29,13 @@ All devices that deal with personal data (which most social media data is) and m
 
 # Encrypted File Synchronisation
 
-### Cryptomator
+### [Cryptomator](https://cryptomator.org/)
 
-[Cryptomator](https://cryptomator.org/) is a tool which enables seamless encryption of data on cloud sharing platforms such as Nextcloud, Dropbox, OneDrive, Google Drive, etc.
+Cryptomator is a tool which enables seamless encryption of data on cloud sharing platforms such as Nextcloud, Dropbox, OneDrive, Google Drive, etc.
 
-### Keybase
+### [Keybase](https://keybase.io)
 
-[Keybase](https://keybase.io) is an end-to-end encrypted team-chat client that additionally offers 250 GB of end-to-end encrypted storage. Please not however, that it has been bought by Zoom in 2020, so the project's future is uncertain at the moment.
+Keybase is an end-to-end encrypted team-chat client that additionally offers 250 GB of end-to-end encrypted storage. Please not however, that it has been bought by Zoom in 2020, so the project's future is uncertain at the moment.
 
 # Encrypted (Remote) Backups
 
@@ -47,19 +45,23 @@ Please be aware that live-backups of database systems are a tricky issue. Usuall
 
 ## POSIX (Linux, MacOS)
 
-### Borg Backup / Vorta
+### [Borg Backup](https://borgbackup.readthedocs.io/en/stable/index.html)
 
-[Borg](https://borgbackup.readthedocs.io/en/stable/index.html) is a command line tool for POSIX systems to create automated, recurring, deduplicated/incremental, compressed and encrypted (remote) backups of selected folders (contrasting to full disk backups).
+Borg is a command line tool for POSIX systems to create automated, recurring, deduplicated/incremental, compressed and encrypted (remote) backups of selected folders (contrasting to full disk backups).
 
-[Vorta](https://vorta.borgbase.com/) is a GUI client for borg.
+### [Vorta](https://vorta.borgbase.com/) 
+
+Vorta is a GUI client for Borg.
+
+<br>
 
 Both can backup to local or remote storage.
 
 ## Windows
 
-### Duplicati
+### [Duplicati](https://www.duplicati.com/)
 
-As Borg/Vorta cannot natively run on Windows systems, we would recommend to use [Duplicati](https://www.duplicati.com/) which offers the same functionality. It is also installable on POSIX systems, however it requires to install the mono framework beforehand (a .NET port for POSIX systems).
+As Borg/Vorta cannot natively run on Windows systems, we would recommend to use Duplicati which offers the same functionality. It is also installable on POSIX systems, however it requires to install the mono framework beforehand (a .NET port for POSIX systems).
 
 # Credential Sharing
 

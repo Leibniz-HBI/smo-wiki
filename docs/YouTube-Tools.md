@@ -40,20 +40,30 @@ Most of these YouTube tools are so-called scrapers that work without an official
 
 # Description
 
-[**1. Facepager**](https://github.com/strohne/Facepager)
-> Windows- and MacOS-based application (no binary release for Linux), which collects publicly available data from JSON-based APIs.
+### [Facepager](https://github.com/strohne/Facepager)
+<details markdown=block>
+<summary markdown=span>Windows- and MacOS-based application (no binary release for Linux), which collects publicly available data from JSON-based APIs...
+</summary>
 
 Facepager does not require any programming skills and offers good support through a comprehensive [Wiki](https://github.com/strohne/Facepager/wiki) and [Facebook group](https://www.facebook.com/groups/facepagerusers/). It is an open-source tool that can easily be installed on a local computer. However, the tool is not very intuitive and an in-depth understanding of the APIs and endpoints is indispensable. The tool is therefore only recommended for researchers with strong knowledge of Youtube's API structure.
+</details>
 
-[**2. vosonSML**](https://github.com/vosonlab/vosonSML)
-> VosonSML is an R package that provides a suite of tools for collecting and analyzing public Twitter, YouTube, and Reddit data.
+### [vosonSML](https://github.com/vosonlab/vosonSML)
+<details markdown=block>
+<summary markdown=span>VosonSML is an R package that provides a suite of tools for collecting and analyzing public Twitter, YouTube, and Reddit data...
+</summary>
 
 The big plus of vosonSML is that it allows automated/scheduled collection of public posts and that it provides easy-to-use functions as well as a [Shiny Dashboard](https://github.com/vosonlab/VOSONDash) to generate different types of networks and text analyses of the collected data. However, because vosonSML is embedded in R, the automated/scheduled collection of data takes up hardware (i.e. a running R session) and knowledge of the R programming language. In addition, an authenticated app is required to collect data. Hence, vosonSML is only recommended for researchers with basic R knowledge and short-term automated/scheduled collection of data.
 
+</details>
 
-[**3. tuber**](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html)
+### [tuber](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html)
 
-> Access YouTube API via R. Get comments posted on YouTube videos, get information on how many times a video has been liked, search for videos with particular content, and much more. You can also get closed captions of videos you own. To learn more about the YouTube API, see [https://developers.google.com/youtube/v3/.](https://developers.google.com/youtube/v3/.)
+<details markdown=block>
+<summary markdown=span>Access YouTube API via R. Get comments posted on YouTube videos, get information on how many times a video has been liked, search for videos with particular content, and much more. You can also get closed captions of videos you own... 
+</summary>
+
+To learn more about the YouTube API, see [https://developers.google.com/youtube/v3/.](https://developers.google.com/youtube/v3/.)
 
 Installation
 
@@ -71,10 +81,14 @@ devtools::install_github("soodoku/tuber", build_vignettes = TRUE)
  [Documentation and Usage](https://cran.rstudio.com/web/packages/tuber/tuber.pdf)
 
 Last tested: 14/01/2021
+</details>
 
-[**4.YouTube Data API 0.0.20**](https://pypi.org/project/youtube-data-api/)
+### [YouTube Data API 0.0.20](https://pypi.org/project/youtube-data-api/)
+<details markdown=block>
+<summary markdown=span>This package seeks to make thisdata source more accessible, while introducing new applications and methods to analyze this platform.This client is built for GET requests from public data on YouTube.  It does not work for updating data on YouTubeChannels you own, or getting data from managed accounts from the Reporting API...
+</summary> 
 
-> This package seeks to make thisdata source more accessible, while introducing new applications and methods to analyze this platform.This client is built for GET requests from public data on YouTube.  It does not work for updating data on YouTubeChannels you own, or getting data from managed accounts from the Reporting API. Further information can be found in there [youtube channel](https://www.youtube.com/watch?v=sbErTW2MzCY)
+Further information can be found in there [youtube channel](https://www.youtube.com/watch?v=sbErTW2MzCY)
 
 Installation
 
@@ -108,11 +122,12 @@ yt.search('Hans Bredow Institut')
 [Documentations](https://github.com/mabrownnyu/youtube-data-api)
 
 Last tested: 14/01/2021
+</details>
 
-[**5. YTDT**](https://tools.digitalmethods.net/netvizz/youtube/index.php)
-
-Is know as youtube data tools collection of modules that can extract data from youtube using youtube apiv3. It is developed by the university of Amsterdam and the digital methods initiative. It contains five different modules channel info, channel network, video list, video info and comments, video network. this tool can be considered as beginners as it does not require no prior coding 
-
+### [YTDT](https://tools.digitalmethods.net/netvizz/youtube/index.php)
+<details markdown=block>
+<summary markdown=span>Is know as youtube data tools collection of modules that can extract data from youtube using youtube apiv3. It is developed by the university of Amsterdam and the digital methods initiative. It contains five different modules channel info, channel network, video list, video info and comments, video network. This tool can be considered as beginners as it does not require no prior coding... 
+</summary>
 
 ### Features
  
@@ -127,3 +142,4 @@ Is know as youtube data tools collection of modules that can extract data from y
 [Documentations](https://tools.digitalmethods.net/netvizz/youtube/faq.php)
 
 Last tested: 24/03/2021
+</details>

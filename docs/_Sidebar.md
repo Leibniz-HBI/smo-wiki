@@ -11,6 +11,7 @@
 - [Miscellaneous Tools](Miscellaneous-Tools)
 - [Secure Storage and Archiving](Secure-Storage-and-Archiving)
 - [Data Anonymization Tools](Data-Anonymization-Tools)
+- [Data Publishing](Data-Publishing)
 
 # Analysis Tools
 
@@ -20,6 +21,7 @@
 - [Statistics](Statistics)
 - [Visualisation](Visualisation)
 - [Web Scraping](Web-Scraping)
+- [Location and Geodata](Location-and-Geodata)
 
 # Research Ethics and Law
 * [Helpful Resources](Helpful-Resources)
@@ -40,4 +42,5 @@
 - [macOS dev setup for Python](macOS-dev-setup-for-Python)
 - [How to work in Jupyter Lab](How-to-work-in-Jupyter-Lab)
 - [Twitter Academic API Track Application](Twitter-Academic-API-Track-Application)
+- [How to setup and use SSH](How-to-setup-and-use-SSH)
 - [How to use and maintain this wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/How-to-use-and-maintain-the-wiki)

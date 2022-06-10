@@ -9,8 +9,7 @@ We recommend encrypted storage for all remotely stored data. If possible, for se
 * free to use for non-commercial purposes
 
 ## Table of Contents:
-- [About](#about)
-- Table of Contents
+
 - [Device Encryption](#device-encryption)
 - [Encrypted File Synchronisation](#encrypted-file-synchronisation)
   - [Cryptomator](#cryptomator)

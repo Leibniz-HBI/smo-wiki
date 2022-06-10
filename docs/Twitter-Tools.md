@@ -28,6 +28,7 @@ Some of the tools are scrapers, which do not use the official APIs. Please be aw
 | [rtweet](https://cran.r-project.org/web/packages/rtweet/rtweet.pdf) | V1      | Not Tested  | R        | R Module            | Programming needed    |
 | [twitter-explorer](https://github.com/pournaki/twitter-explorer/blob/master/doc/DOCUMENTATION.md) | V1      | Not Tested  | Python        | GUI            | No Programming needed    |
 | [cta-tool](https://github.com/leo-fgz/cta-tool) | V2/Academic      | 13/12/2021  | Python        | Python Module            | programming needed, collecting and counting conversations, MongoDB    |
+| [Twitter Downloader](https://developer.twitter.com/apitools/downloader) | Academic      | 25/05/2022  | -        | GUI            | no programming needed, access to Tweets only    |
 
 </div>
 
@@ -152,6 +153,23 @@ streamlit run collector.py
 [Installation and Usage](https://vosonlab.github.io/VOSONDash/)
 </details>
 
+### [Twitter Downloader](https://developer.twitter.com/apitools/downloader)
+<details markdown=block>
+<summary markdown=span>Twitter Downloader is a tool from Twitter that allows researchers with Academic Access to configure search queries for tweets via a web tool and load them as CSV or JSON files...
+</summary>
+
+**known issues and limitations:**
+
++ requires Academic Access
++ Access to Tweets only
+
+**Notable Features:**
+
++ GUI: no programming skills needed
++ allows full access to the Twitter archive going back to 2006 (deleted tweets always excluded)
+
+</details>
+
 # Helpers
 
 ### [Hydrator](https://github.com/DocNow/hydrator)
@@ -169,6 +187,7 @@ streamlit run collector.py
 
 [Documentation and Usage](https://github.com/DocNow/hydrator/blob/master/README.md)
 </details>
+
 
 ### Single Twitter ID Lookup webtools
 

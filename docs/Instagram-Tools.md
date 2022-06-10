@@ -25,9 +25,9 @@ Many of these Instagram tools are so called scrapers that work without an offici
 | [Rinstapkg](https://github.com/eric88tchong/Rinstapkg)       | √         | √     | √              | √            | √     | √        | √        | \-            | √         |
 | [Instagram Java Scraper](https://github.com/postaddictme/instagram-java-scraper) | √         | √     | √              | √            | √     | √        | √        | √             | x         |
 | [Instamancer](https://github.com/ScriptSmith/instamancer)(Deprecated)    | √         | √     | √              | x            | √     | √        | √        | x             | x         |
-| [Reaper](https://reaper.social/)                             | √         | √     | √              | -            | √     | √        | √        | -             | √         |
 
 </div>
+
 
 
 **Keys**
@@ -154,33 +154,6 @@ Instalooter can be seen as a re-implementation of the now deprecated InstaRaider
 </details>
 
 
-### [Reaper](https://reaper.social/)
-
-<details markdown=block>
-<summary markdown=span>Reaper is API based tool for social media analysis. It is useful for people with less programming knowledge...</summary>
-
-Reaper has its own GUI and supports almost all common social media. Also, it's a multiplatform tool. To use this tool, first [download](https://github.com/ScriptSmith/reaper/releases) the software for the operating system then need the [api key](https://community.funnelback.com/knowledge-base/implementation/Gather-And-Index/custom-gatherer/social-media-api-keys) for the specific social media. Then input the API keys in the reaper software. Next, add query and count then start querying and download the data into CSV format 
-
-#### Notable Features:
-
-* Supports Facebook,  Twitter, Reddit, Youtube, Tumblr, and Pinterest
-* Support both in macOS and Windows
-* Use .CSV type data format.
-* Own user interface 
-* Good [documentation](https://reaper.social/guide.html) 
-
-#### Limitations:
-
-* To use this software user must need to have a developer account for the social media in order to get API keys
-* Facebook has more scraping options than other social media.
-* since it is using normal developer API, it has a common API rate limit.
-
-</details>
-
-
-**Last tested:** 
-
-10/05/2021(Instagram)
 
 There are even more tools out there and we keep gathering more. You can check out our [Google Doc](https://docs.google.com/spreadsheets/d/1vZ6jOWoxcyockeNMDE5wbEcx_kSoSmkIqJ8olKyJfq0/edit?usp=sharing) for applications that you won't find in this list.
 

@@ -8,7 +8,7 @@ You have collected your data and now you want to visualize it? Here is a list of
 - Table of contents 
 - [Basic Visualisation Tools](#basic-visualisation-tools)
    - [MS Excel/Libre Office/Google Sheets etc.](#msexcel)
-   - [Data Explore](#data-explore)
+   - [DataExplore](#dataexplore)
    - [Tableau](#tableau)
 - [Advanced Visualisation Tools](#advanced-visualisation-tools)
    - [Visualisation libraries](#visualisation-libraries)
@@ -25,9 +25,30 @@ You have collected your data and now you want to visualize it? Here is a list of
 
 [this needs some text]
 
-## [Data Explore](https://snapcraft.io/dataexplore)
+## [DataExplore](https://snapcraft.io/dataexplore)
+<details>
+<summary>DataExplore is an open-source desktop application. It can be useful for data analysis and plotting. Since it mainly does not require programming skills, it's easy to use. It provides a variety of dynamic plotting options. The application is available for Windows, MacOS and Linux.</summary>
 
-[description missing]
+### Pros
+- Open-source
+- Easy to use for non-programmers
+- Option for different dynamic plots
+- Versatile toolbox for data analysis
+- Multiplatform support
+
+### Download and Documentations
+
+- [GitHub](https://dmnfarrell.github.io/pandastable/)
+- [Download](https://www.nongnu.org/dataexplorer/download.html) 
+- [Source Code](http://download.savannah.gnu.org/releases/dataexplorer/dataexplorer-3.5.0-src.tar.gz)
+- [Official documentation](https://pandastable.readthedocs.io/en/latest/dataexplore.html#purpose-of-the-program)
+- [Example Projects](http://dmnfarrell.github.io/dataexplore/titanic-example)
+
+### Tutorial
+- Video[ Tutorial](https://www.youtube.com/watch?v=Ss0QIFywt74)
+- Code[ example](https://pandastable.readthedocs.io/en/latest/examples.html)
+
+</details>
 
 ## [Tableau](https://www.tableau.com/academic/students)
 

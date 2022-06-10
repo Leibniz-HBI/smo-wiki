@@ -4,6 +4,7 @@
 You have collected your data and now you want to visualize it? Here is a list of different visualisation tools for beginners and advanced users.
 
 ## Table of contents
+
 - [About](#about)
 - Table of contents 
 - [Basic Visualisation Tools](#basic-visualisation-tools)
@@ -30,6 +31,7 @@ You have collected your data and now you want to visualize it? Here is a list of
 <summary>DataExplore is an open-source desktop application. It can be useful for data analysis and plotting. Since it mainly does not require programming skills, it's easy to use. It provides a variety of dynamic plotting options. The application is available for Windows, MacOS and Linux.</summary>
 
 ### Pros
+
 - Open-source
 - Easy to use for non-programmers
 - Option for different dynamic plots
@@ -45,6 +47,7 @@ You have collected your data and now you want to visualize it? Here is a list of
 - [Example Projects](http://dmnfarrell.github.io/dataexplore/titanic-example)
 
 ### Tutorial
+
 - Video[ Tutorial](https://www.youtube.com/watch?v=Ss0QIFywt74)
 - Code[ example](https://pandastable.readthedocs.io/en/latest/examples.html)
 

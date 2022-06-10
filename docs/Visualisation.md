@@ -27,8 +27,9 @@ You have collected your data and now you want to visualize it? Here is a list of
 [this needs some text]
 
 ## [DataExplore](https://snapcraft.io/dataexplore)
-<details>
-<summary>DataExplore is an open-source desktop application. It can be useful for data analysis and plotting. Since it mainly does not require programming skills, it's easy to use. It provides a variety of dynamic plotting options. The application is available for Windows, MacOS and Linux.</summary>
+
+<details markdown=block>
+<summary markdown=span>DataExplore is an open-source desktop application. It can be useful for data analysis and plotting. Since it mainly does not require programming skills, it's easy to use. It provides a variety of dynamic plotting options. The application is available for Windows, MacOS and Linux.</summary>
 
 ### Pros
 

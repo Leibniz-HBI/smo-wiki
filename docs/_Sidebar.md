@@ -7,6 +7,7 @@
 - [Wikipedia-Tools](Wikipedia-Tools)
 - [Facebook-Tools](Facebook-Tools)
 - [YouTube-Tools](YouTube-Tools)
+- [Telegram-Tools](Telegram-Tools)
 - [General News Scrapers](General-News-Scrapers)
 - [Miscellaneous Tools](Miscellaneous-Tools)
 - [Secure Storage and Archiving](Secure-Storage-and-Archiving)

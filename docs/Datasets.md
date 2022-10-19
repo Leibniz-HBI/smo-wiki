@@ -75,6 +75,10 @@ In a cooperation with NDR Data data sets focusing on wide spread media topics in
 * #nemielhassam, 70,716 tweet ids
 * #gilofarim, 163,450 tweet ids
 
+### Hatespeechdata
+
+The project catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language. The project can be found here: [https://hatespeechdata.com/](https://hatespeechdata.com/)
+
 ### Mediacloud
 
 [TODO]

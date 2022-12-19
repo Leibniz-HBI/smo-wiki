@@ -21,7 +21,6 @@
 - [Content Analysis](Content-Analysis)
 - [Statistics](Statistics)
 - [Visualisation](Visualisation)
-- [Web Scraping](Web-Scraping)
 - [Location and Geodata](Location-and-Geodata)
 
 # Research Ethics and Law
@@ -29,12 +28,11 @@
 * [SOCRATES Ethics Guide](SOCRATES-Ethics-Guide)
 
 # Knowledge Base
-
+- [Starter Workshops](Starter-Workshops)
+- [Courses](Courses)
 - [Case Studies](Case-Studies)
 - [Datasets](Datasets)
 - [Projects](Projects)
-- [Courses](Courses)
-
 
 # HowTos
 

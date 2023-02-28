@@ -22,6 +22,7 @@ Most of these YouTube tools are so-called scrapers that work without an official
 | [Tuber](https://cran.r-project.org/web/packages/tuber/vignettes/tuber-ex.html) | √         | √     | √              | √            | √     | √        |               | √         |
 | [Youtube Data API](https://developers.google.com/youtube/v3)                   | √         | √     | √              | √            | √     | √        |               | √         |
 | [YTDT](https://tools.digitalmethods.net/netvizz/youtube/)                      | √         | √     | x              | x            | √     | √        | x             | √         |
+| [youte](https://qut-digital-observatory.github.io/youte/)                      | ?         | ?     | ?              | ?            | ?     | ?        | ?             | APIv3     |
 
 </div>
 

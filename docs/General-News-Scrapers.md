@@ -16,7 +16,9 @@ This site aims to provide an overview of all useful tools that can be used to re
 | [Scrapy](https://github.com/scrapy/scrapy)             | √         | √              | √       | √              | \-    | √      | √    | \-       |
 | [Newspaper3k](https://github.com/codelucas/newspaper)  | √         | √              | √       | √              | x     | √      | √    | \-       |
 | [Scrape Bot](https://github.com/MarHai/ScrapeBot)      | √         | √              | √       | √              | x     | √      | √    | \-       |
-| [Media Cloud](https://mediacloud.org/)                 | √         |   -            |         |     -           | √     |        | √    | √       |
+| [Media Cloud](https://mediacloud.org/)                 | √         |   -            |         |     -          | √     |        | √    | √        |
+| [trafilatura](https://trafilatura.readthedocs.io/en/latest/) | √   |   -            | √       |     -          | x     | √      | √    | √        |
+| [paperboy](https://github.com/JBGruber/paperboy)       | √         |   -            | √       |     -          | x     | √      | √    | -        |
 
 </div>
 
@@ -99,5 +101,46 @@ Video intro can be found [here](https://www.youtube.com/watch?v=sw7UoFFsGOA&list
 * Track attention over time
 * Slice and dice the subtopics
 * Imports stories from many resources daily 
+
+</details>
+
+[trafilatura](https://trafilatura.readthedocs.io/en/latest/)
+<details markdown=block>
+<summary markdown=span> trafilatura is a command line tool and Python package which gathers text and corresponding metadata swiftly and efficiently. 
+</summary>
+
+**Features:**
+* web crawling
+* downloading
+* scraping
+* extraction
+* exports to TXT, CSV, JSON, XML
+* comprehensive documentation (see link above)
+
+</details>
+
+[paperboy](https://github.com/JBGruber/paperboy)
+<details markdown=block>
+<summary markdown=span> An R package collecting webscraping scripts for news media sites to ensure consistently formatted news media data across a variety of websites.  
+</summary>
+
+**Features:**
+* overview of scrapable domains
+* variety of scrapers
+* reads shortened URLs
+* export of raw HTML code
+
+</details>
+
+[RISJbot](https://github.com/pmyteh/RISJbot-)
+<details markdown=block>
+<summary markdown=span> Scrapy-based tool for news text and metadata extraction.
+</summary>
+
+**Features:**
+* pre-defined spiders for various UK & US websites
+* convertable into R-based ecosystems
+* exports JSONLines
+* functionality can be expanded with further middleware and extensions, outlined in readme
 
 </details>

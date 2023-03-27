@@ -8,6 +8,16 @@ This page is dedicated to all tools that are not related to any kind of social n
 
 # Useful Tools & Descriptions
 
+### [Minet](https://github.com/medialab/minet)
+
+> minet is a webmining command line tool & library for python (>= 3.7) that can be used to collect and extract data from a large variety of web sources such as raw webpages, Facebook, CrowdTangle, YouTube, Twitter, Media Cloud etc.
+It adopts a very simple approach to various webmining problems by letting you perform a wide array of tasks from the comfort of the command line. No database needed: raw CSV files should be sufficient to do most of the work.
+
+*Notable*: Can access several platforms, some of them via scraping and the API.
+
+*Last tested*: 25 March 2023
+
+
 ### [Sherlock](https://github.com/sherlock-project/sherlock)
 
 * Checks a vast collection of social networks and online fora for the existence of a specific username

@@ -6,8 +6,6 @@ Over the course of the build up of the SMO we present a growing collection of us
 ## Table of contents
 - [Open Access](#open-access)
    - [Datenbank öffentlicher Sprecher (DBÖS)/ Database of Public Speakers (DOPS)](#dbös)
-   - [Twitter Parliamentarian Database]
-   - [POLUSA Dataset]
    - [Ukraine Dataset](#ukraine-dataset)
 
 - [Access on Request](#access-on-request)
@@ -17,7 +15,6 @@ Over the course of the build up of the SMO we present a growing collection of us
       - #LukeMockridge
       - #nemielhassam
       - #gilofarim
-   - [Mediacloud]
 - [Roadmap for SMO provided datasets](#roadmap-for-smo-provided-datasets)
 - [Datasets provided by external resources](#datasets-provided-by-external-resources)
 
@@ -30,10 +27,11 @@ The [Leibniz Institute for Media Research](https://leibniz-hbi.de) curates the D
 > Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2023): Die „Datenbank Öffentlicher Sprecher“ (DBÖS). Juni 2023. Online verfügbar: [https://doi.org/10.17605/OSF.IO/SK6T5](https://doi.org/10.17605/OSF.IO/SK6T5)
 
 ### Twitter Parliamentarian Database
-[Text and Link missing]
 
-### POLUSA Dataset
-[Text and Link missing]
+> a database consisting of parliamentarian names, parties and twitter ids from the following countries: Austria, Belgium, France, Denmark, Spain, Finland, Germany, Greece, Italy, Malta, Poland, Netherlands, United Kingdom, Ireland, Sweden, New Zealand, Turkey, United States, Canada, Australia, Iceland, Norway, Switzerland, Luxembourg, Latvia and Slovenia. In addition, the database includes the European Parliament.
+> The tweet ids from the politicans' tweets have been collected from September 2017 - 31 October 2019 (more data can be added later). In compliance with Twitter's policy, we only store tweet ids, which can be re-hydrated into full tweets using existing tools. More information on how to use the database can be found in the readme.txt.
+
+[https://figshare.com/articles/dataset/The_Twitter_Parliamentarian_Database/10120685](https://figshare.com/articles/dataset/The_Twitter_Parliamentarian_Database/10120685)
 
 ### Ukraine Dataset
 Twitter (and maybe later other social media) data around the Ukraine Invasion in February 2022. Data reaches back until February 1st and will be updated daily. ([https://github.com/Leibniz-HBI/ukraine_data](https://github.com/Leibniz-HBI/ukraine_data))
@@ -73,10 +71,6 @@ In a cooperation with NDR Data data sets focusing on wide spread media topics in
 * #nemielhassam, 70,716 tweet ids
 * #gilofarim, 163,450 tweet ids
 
-### Mediacloud
-
-[TODO]
-
 ***
 
 ## Roadmap for SMO provided datasets
@@ -115,4 +109,4 @@ The following table contains a list of datasets provided by several external res
 
 </div>
 
-
+[TODO: Add POLUSA and Twitter Parliamentarian Database]

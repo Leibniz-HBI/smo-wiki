@@ -3,7 +3,7 @@
 ## Authors by number of commits (edits)
 
 ```
-   335	Felix Victor Münch
+   337	Felix Victor Münch
    218	Mani Levian Asli
     70	Jason Young
     69	Khandoker Tanjim Ahammad
@@ -26,18 +26,18 @@
 ## Authors by number of lines
 
 ```
- 582 author Felix Victor Münch
- 460 author Khandoker Tanjim Ahammad
- 366 author vomJupiter
+ 586 author Felix Victor Münch
+ 459 author Khandoker Tanjim Ahammad
+ 362 author vomJupiter
  183 author Mani Levian Asli
   59 author rahel
-  49 author Gregor W
+  45 author Gregor W
   37 author JanRau
   34 author Cornelius Puschmann
   33 author Philipp Kessling
   29 author Jason Young
   24 author rwinterschlaf
-  20 author kerosafr
+  19 author kerosafr
   12 author adyk007
    9 author FlxVctr
    5 author janhinrikschmidt
@@ -50,8 +50,8 @@
 
 ```
    138	FlxVctr
+   118	Felix Victor Münch
    118	Khandoker Tanjim Ahammad
-   117	Felix Victor Münch
     16	Khandoker09
      1	JanRau
 ```

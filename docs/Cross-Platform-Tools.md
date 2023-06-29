@@ -2,7 +2,7 @@
 
 # About
 
-Welcome to the Miscellaneous Tools page.
+Welcome to the Cross Platform Tools page.
 
 This page is dedicated to all tools that are not related to any kind of social network that we have covered so far (or all of them together). These tools vary from web-based application to tools that need a local installation. This list is not in any specific order. All tools you find in this list have been tested. If you still face any problems with the tools bellow, make sure to add an [issue to our repository](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.
 
@@ -17,6 +17,13 @@ It adopts a very simple approach to various webmining problems by letting you pe
 
 *Last tested*: 25 March 2023
 
+### [4CAT](https://github.com/digitalmethodsinitiative/4cat)
+
+> 4CAT is a research tool that can be used to analyse and process data from online social platforms. Its goal is to make the capture and analysis of data from these platforms accessible to people through a web interface, without requiring any programming or web scraping skills. Our target audience is researchers, students and journalists interested using Digital Methods in their work.
+
+> In 4CAT, you create a dataset from a given platform according to a given set of parameters; the result of this (usually a CSV or JSON file containing matching items) can then be downloaded or analysed further with a suite of analytical 'processors', which range from simple frequency charts to more advanced analyses such as the generation and visualisation of word embedding models.
+
+*Last tested*: Not tested yet
 
 ### [Sherlock](https://github.com/sherlock-project/sherlock)
 

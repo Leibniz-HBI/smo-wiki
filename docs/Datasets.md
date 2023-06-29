@@ -23,13 +23,11 @@ Over the course of the build up of the SMO we present a growing collection of us
 
 ## Open Access
 
-### <a name="dbös"></a>Datenbank öffentlicher Sprecher (DBÖS) / Database of Public Speakers (DOPS) [planned]
+### <a name="dbös"></a>Datenbank öffentlicher Sprecher (DBÖS) / Database of Public Speakers (DOPS)
 
-The [Leibniz Institute for Media Research](https://leibniz-hbi.de) works at the moment on a collection of public speakers as defined by pre-defined criterions, such as being member of a parliamentary body, press organisation, professional sports team, or another institution of public interest.
+The [Leibniz Institute for Media Research](https://leibniz-hbi.de) curates the DBÖS/DOPS, a comprehensive and up-to-date collection of media, organizations, and individuals from Germany which contribute to public debates. The currently available dataset consists of 7.169 entries and comprises basic publicly available information (e.g. party membership for politicians, or mode of financing for media outlets) alongside with public social media accounts (Twitter, Facebook, Instagram) for each database entry.
 
-This collection will comprise general publicly available information about these public figures or entities, dependent on the category they fall in (e.g. journalists, politicians, celebrities) alongside with their public social media accounts.
-
-We hope that it is possible to make this dataset open access and open it up to contributions on a data repository.
+> Schmidt, Jan-Hinrik, Lisa Merten, Felix Victor Münch (2023): Die „Datenbank Öffentlicher Sprecher“ (DBÖS). Juni 2023. Online verfügbar: [https://doi.org/10.17605/OSF.IO/SK6T5](https://doi.org/10.17605/OSF.IO/SK6T5)
 
 ### Twitter Parliamentarian Database
 [Text and Link missing]

@@ -50,7 +50,7 @@ body h1,h2,h3,h4,h5,h6 {
 }
 
 .search {
-  margin: 20px 0 20px
+  margin: 20px 0 20px;
 }
 
 footer a:hover {
@@ -63,6 +63,7 @@ footer {
 }
 
 section {
+  width: 920px;
   padding-bottom: 110px;
   overflow: auto;
 }
@@ -88,9 +89,13 @@ section .editlink {
 }
 
 header {
-  position: unset
+  position: unset;
 }
 
 .logos {
   margin-top: 5px;
+}
+
+.wrapper {
+  width: 1280px;
 }

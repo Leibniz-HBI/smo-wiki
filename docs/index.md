@@ -13,7 +13,7 @@ If you want to learn more about us, or share this project with others, we have a
 
 Yay! Here you will find instructions how to add or edit pages:
 
-[How to use and maintain the wiki](How-to-use-and-maintain-the-wiki)
+[How to use and maintain the wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/How-to-use-and-maintain-the-wiki)
 
 Any questions? Raise an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues)! :)
 

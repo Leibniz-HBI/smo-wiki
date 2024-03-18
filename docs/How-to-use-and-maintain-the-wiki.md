@@ -29,8 +29,8 @@ There are two ways to create a page. Creating a link first (recommended) or crea
 
 ## Create link first
 
-1. When editing a page, you can simply create a link like this: `Here is a [not yet existing page](not-yet-existing-page)`.
-2. By clicking the (red) link on the edited page you will open an editing page for the [not yet existing page](not-yet-existing-page).
+1. When editing a page, you can simply create a link by putting double square brackets around it.
+2. By clicking the (red) link on the edited page you will open an editing page for the not yet existing page.
 3. If you save the page, all red links to the page will turn blue.
 
 Creating red links to not-yet-existing pages in a text is a good way to mark TO DOs for pages that should exist.

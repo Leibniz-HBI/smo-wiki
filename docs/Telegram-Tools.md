@@ -7,6 +7,7 @@ This list provides an overview of useful data collection tools that can be used 
 - [API-Tools](#api-tools)
     - [Tegracli](#tegracli)
     - [Telepathy](#telepathy)
+    - [F-R-O-G](#FROG)
 - [Helper tools](#helper-tools)
     - [Telebrella](#telebrella)
     - [Telemetrio](#telemetrio)
@@ -20,6 +21,11 @@ A Telegram/telethon research convenience wrapper for the terminal.
 ## [Telepathy](https://github.com/jordanwildon/Telepathy)
 
 Telepathy: An OSINT toolkit for investigating Telegram chats. 
+
+## [F-R-O-G](https://github.com/Froschi1860/F-R-O-G-Telegram-scraping-tool)
+
+FROG: A tool for gathering Telegram sample data with a graphic user interface (no coding neccessary).
+
 # Helper tools
 
 
